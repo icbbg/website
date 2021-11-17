@@ -4,7 +4,7 @@ title: Committees
 
 ### Organizing Committee
 
-* Leon van Paassen,
+* Leon van Paassen
 * Julian Tao
 * Ed Kavazanjian
 * Hamed Khodadadi Tirkolaei
