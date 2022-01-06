@@ -1,13 +1,14 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
 
 website:
   title: "I-CBBG 2024"
   navbar:
+    type: dark
     background: primary
     
-    right:
+    left:
       - href: index.qmd
         text: Home
       - schedule.qmd
@@ -22,7 +23,7 @@ website:
       - about.qmd
 
   sidebar:
-    style: "floating"
+    style: "docked"
     search: true
     contents:
       - index.qmd
@@ -39,8 +40,8 @@ website:
 format:
   html:
     theme: 
-      - flatly
       - ./src/theme/cbbg.scss
+      - flatly
     toc: true
 
 

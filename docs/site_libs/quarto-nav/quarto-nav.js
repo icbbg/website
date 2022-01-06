@@ -31,26 +31,16 @@ window.document.addEventListener("DOMContentLoaded", function () {
     return headerEl.clientHeight;
   }
 
-  function footerOffset() {
-    const footerEl = window.document.querySelector("footer.footer");
-    if (footerEl) {
-      return footerEl.clientHeight;
-    } else {
-      return 0;
-    }
-  }
-
   function updateDocumentOffsetWithoutAnimation() {
     updateDocumentOffset(false);
   }
 
   function updateDocumentOffset(animated) {
     // set body offset
-    const topOffset = headerOffset();
-    const bodyOffset = topOffset + footerOffset();
+    const offset = headerOffset();
     const bodyEl = window.document.body;
-    bodyEl.setAttribute("data-bs-offset", topOffset);
-    bodyEl.style.paddingTop = topOffset + "px";
+    bodyEl.setAttribute("data-bs-offset", offset);
+    bodyEl.style.paddingTop = offset + "px";
 
     // deal with sidebar offsets
     const sidebars = window.document.querySelectorAll(
@@ -69,15 +59,15 @@ window.document.addEventListener("DOMContentLoaded", function () {
         sidebar.style.top = "0";
         sidebar.style.maxHeight = "100vh";
       } else {
-        sidebar.style.top = topOffset + "px";
-        sidebar.style.maxHeight = "calc(100vh - " + topOffset + "px)";
+        sidebar.style.top = offset + "px";
+        sidebar.style.maxHeight = "calc(100vh - " + offset + "px)";
       }
     });
 
     // allow space for footer
     const mainContainer = window.document.querySelector(".quarto-container");
     if (mainContainer) {
-      mainContainer.style.minHeight = "calc(100vh - " + bodyOffset + "px)";
+      mainContainer.style.minHeight = "calc(100vh - " + offset + "px)";
     }
 
     // link offset
@@ -89,14 +79,14 @@ window.document.addEventListener("DOMContentLoaded", function () {
     while (linkStyle.firstChild) {
       linkStyle.removeChild(linkStyle.firstChild);
     }
-    if (topOffset > 0) {
+    if (offset > 0) {
       linkStyle.appendChild(
         window.document.createTextNode(`
       section:target::before {
         content: "";
         display: block;
-        height: ${topOffset}px;
-        margin: -${topOffset}px 0 0;
+        height: ${offset}px;
+        margin: -${offset}px 0 0;
       }`)
       );
     }
