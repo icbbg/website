@@ -317,6 +317,26 @@ window.document.addEventListener("DOMContentLoaded", function (_event) {
                 );
               }
             },
+            footer({ _items, createElement }) {
+              if (
+                quartoSearchOptions.algolia &&
+                quartoSearchOptions.algolia["show-logo"]
+              ) {
+                const libDir = quartoSearchOptions.algolia["libDir"];
+                const logo = createElement("img", {
+                  src: offsetURL(
+                    `${libDir}/quarto-search/search-by-algolia.svg`
+                  ),
+                  class: "algolia-search-logo",
+                });
+                return createElement(
+                  "a",
+                  { href: "http://www.algolia.com/" },
+                  logo
+                );
+              }
+            },
+
             item({ item, createElement }) {
               return renderItem(
                 item,
@@ -460,13 +480,13 @@ function validateItems(items) {
   if (items.length > 0) {
     const item = items[0];
     const missingFields = [];
-    if (!item.href) {
+    if (item.href == undefined) {
       missingFields.push("href");
     }
-    if (!item.title) {
+    if (!item.title == undefined) {
       missingFields.push("title");
     }
-    if (!item.text) {
+    if (!item.text == undefined) {
       missingFields.push("text");
     }
 
@@ -815,10 +835,11 @@ function positionPanel(pos) {
   const inputEl = window.document.querySelector(
     "#quarto-search .aa-Autocomplete"
   );
+
   if (panelEl && inputEl) {
     panelEl.style.top = `${Math.round(panelEl.offsetTop)}px`;
     if (pos === "start") {
-      panelEl.style.left = `${Math.round(inputEl.offsetLeft)}px`;
+      panelEl.style.left = `${Math.round(inputEl.left)}px`;
     } else {
       panelEl.style.right = `${Math.round(inputEl.offsetRight)}px`;
     }
@@ -840,8 +861,10 @@ function highlightMatch(query, text) {
         text.slice(end);
       const clipStart = Math.max(start - 50, 0);
       const clipEnd = clipStart + 200;
+
       text = text.slice(clipStart, clipEnd);
-      return text.slice(text.indexOf(" ") + 1);
+
+      return text;
     } else {
       return text;
     }

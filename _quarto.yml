@@ -5,10 +5,9 @@ project:
 website:
   title: "I-CBBG 2024"
   navbar:
-    type: dark
     background: primary
     
-    left:
+    right:
       - href: index.qmd
         text: Home
       - schedule.qmd
@@ -23,7 +22,7 @@ website:
       - about.qmd
 
   sidebar:
-    style: "docked"
+    style: "floating"
     search: true
     contents:
       - index.qmd
@@ -40,9 +39,6 @@ website:
 format:
   html:
     theme: 
-      - ./src/theme/cbbg.scss
       - flatly
+      - ./src/theme/cbbg.scss
     toc: true
-
-
-
