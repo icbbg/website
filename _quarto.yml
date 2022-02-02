@@ -4,6 +4,7 @@ project:
 
 website:
   title: "I-CBBG 2024"
+  favicon: "./img/icbbg.svg"
   navbar:
     background: primary
     
