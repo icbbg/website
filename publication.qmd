@@ -2,7 +2,13 @@
 title: Publication
 ---
 
-* E3S?
-* arxiv?
-* Special issue in journal 
+::: {.callout-note}
+To be determined.
+:::
+
+Some options are:
+
+* E3S
+* arxiv
+* Special issues in journals
 * Traditional conference proceedings

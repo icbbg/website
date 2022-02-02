@@ -2,7 +2,11 @@
 title: Registration
 ---
 
-### Basic remote registration (\$250?)
+::: {.callout-note}
+More details to come
+:::
+
+### Basic remote registration
 
 * Abstract
 * Oral/poster presentation  
@@ -10,7 +14,7 @@ title: Registration
 * Link to zoom access to video conference 
 * Proceedings
 
-### In person attendance (\$500?) includes 
+### In person attendance includes 
 
 * All of above
 * 4 coffee breaks 
@@ -20,8 +24,8 @@ title: Registration
 
 ### Extra activities
 
-* In person short courses (\$150), include lunch and coffee breaks)
-* Excursion (Frank Loyd Wright, \$100)
-* (Engineering) Geology excursion (\$250 2 days, including 1 overnight stay in Flagstaff) 
-* Golf clinic with Ed (\$150)
+* In person short courses, include lunch and coffee breaks)
+* Excursion (Frank Loyd Wright)
+* (Engineering) Geology excursion (2 days, including 1 overnight stay in Flagstaff) 
+* Golf clinic with Ed 
 

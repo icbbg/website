@@ -3,7 +3,7 @@ title: Schedule
 ---
 
 ::: {.callout-note}
-Will tableize later
+This is a tentative schedule and subject to change. 
 :::
 
 ### Day 1: Monday 
