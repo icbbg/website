@@ -1,0 +1,8 @@
+.navbar-brand > img {
+  max-height: 40px;
+}
+
+.navbar {
+  font-size: 1.1rem;
+  font-weight: 600;
+}

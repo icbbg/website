@@ -42,4 +42,6 @@ format:
   html:
     theme: 
       - ./src/theme/cbbg.scss
+    css:
+      - ./src/theme/styles.css
     toc: true
