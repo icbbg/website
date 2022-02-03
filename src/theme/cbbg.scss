@@ -13,3 +13,17 @@ $secondary: $cbrown !default;
 $navbar-default-link-color: $cbrown !default;
 $navbar-light-active-color:  $cbrown !default;
 $link-color: $cbrown !default;
+
+.navbar-brand > img {
+  max-height: 36px;
+}
+
+.navbar {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.nav-link {
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+}

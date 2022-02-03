@@ -7,6 +7,7 @@ website:
   favicon: "./img/icbbg.svg"
   navbar:
     background: primary
+    logo: ./img/icbbg.svg
     
     right:
       - href: index.qmd
