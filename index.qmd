@@ -6,6 +6,4 @@ toc: false
 sidebar: false
 ---
 
-![](img/biomediation.png)
-
-![](img/bioinspiration.png)
+![](./img/icbbg-art.png)
