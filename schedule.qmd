@@ -6,7 +6,7 @@ title: Schedule
 This is a tentative schedule and subject to change. 
 :::
 
-### Day 1: Monday 
+### Day 1
 
 |               |                      |
 |---------------|----------------------|
@@ -14,7 +14,7 @@ This is a tentative schedule and subject to change.
 | 18:00 – 20:00 | Icebreaker reception |
 
 
-### Day 2: Tuesday 
+### Day 2
 
 + **6 keynotes + 36 paper presentations**
 
@@ -38,7 +38,7 @@ This is a tentative schedule and subject to change.
 
 
 
-## Day 3: Wednesday 
+## Day 3
 
 + **6 keynotes/debates + 36 paper presentations**
 

@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "I-CBBG 2024"
+  title: "I-CBBG 2025"
   favicon: "./img/icbbg.svg"
   navbar:
     background: primary

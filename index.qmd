@@ -1,6 +1,6 @@
 ---
 title: "Welcome"
-subtitle: The 2024 International Conference on Bio-mediated and Bio-inspired Geotechnics
+subtitle: The 2025 International Conference on Bio-mediated and Bio-inspired Geotechnics
 page-layout: full
 toc: false
 sidebar: false

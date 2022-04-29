@@ -5,13 +5,12 @@ title: Important Dates
 ### Tentative Conference dates
 
 
-| Event                        | Date            |
-| ---------------              | --------------- |
-| Session Proposals Begin      | August  2022    |
-| Abstract Submissions Begin   | September 2022  |
-| Abstracts Due                | December 2023   |
-| Full Paper Invitations Begin | February 2023   |
-| Draft Full Papers due        | July 2023       |
-| Final Full papers due        | December 2023   |
-| I-CBBG 2024                  | May 13-18, 2024 |
-
+| Event                        | Date             |
+| :---------------             | ---------------: |
+| Session Proposals Due        | April  2023      |
+| Abstract Submissions Begin   | June 2023        |
+| Abstracts Due                | October 2023     |
+| Full Paper Invitations Begin | December 2023    |
+| Draft Full Papers due        | May 2024         |
+| Final Full papers due        | December 2024    |
+| I-CBBG 2024                  | May 12-17, 2025  |
