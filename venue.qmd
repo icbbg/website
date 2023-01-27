@@ -2,14 +2,6 @@
 title: Venue
 ---
 
-::: {.content-visible when-profile="local"}
-* Originally planned for: 
-  * 150 -400 attendees 
-  * Up to 200 in-person; up to 200 online
-* We may need to select an off-campus venue, such as the new Omni hotel
-
-:::
-
 
 ## Meetings
 
@@ -28,4 +20,16 @@ title: Venue
 ![](img/westin.png)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13320.034513901817!2d-111.9392877!3d33.4230194!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xec18c74a3000401!2sThe%20Westin%20Tempe!5e0!3m2!1sen!2sus!4v1637128725906!5m2!1sen!2sus" width="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+
+::: {.content-visible when-profile="local"}
+
+::: {.callout-note}
+* Originally planned for: 
+  * 150 -400 attendees 
+  * Up to 200 in-person; up to 200 online
+* We may need to select an off-campus venue, such as the new Omni hotel
+:::
+
+:::
 

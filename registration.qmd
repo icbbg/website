@@ -6,14 +6,6 @@ title: Registration
 More details to come
 :::
 
-::: {.content-visible when-profile="local"}
-
-* Do we still need the virtual option?
-
-* We need a platform for registration
-
-:::
-
 ## Basic remote registration
 
 * Abstract
@@ -36,4 +28,17 @@ More details to come
 * Excursion (Frank Loyd Wright)
 * (Engineering) Geology excursion (2 days, including 1 overnight stay in Flagstaff) 
 * Golf clinic with Ed 
+
+::: {.content-visible when-profile="local"}
+
+::: {.callout-note}
+* Do we still need the virtual option?
+
+* We need a platform for registration
+
+* Do we still need the extra activities?
+
+
+:::
+:::
 

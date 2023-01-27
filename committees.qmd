@@ -2,32 +2,6 @@
 title: Committees
 ---
 
-::: {.content-visible when-profile="local"}
-
-After discussing with Ed, may be a better arrangement is:
-
-* Co-chairs
-  * Edward Kavazanjian
-  * Susan Burns
-
-* Core organising committee (from partner campuses)
-  * Julian Tao
-  * Alejandro Martinez
-  * Douglas Cortez 
-  * Sheng Dai
-  * Anca Delgado (considering expertise and diversity)
-
-* Other organising committee members
-  * junior investigators of the partner universities
-  * experts outside of CBBG: e.g., Brina, Mike, Nariman 
-
-* Scientific Advisory boards
-  * CBBG leadership team
-  * Select members in the SAB and IAB of CBBG
-  * International experts
- 
-:::
-
 ## Organizing Committee
 
 * Leon van Paassen
@@ -45,3 +19,29 @@ After discussing with Ed, may be a better arrangement is:
 
 * To be announced 
 
+
+::: {.content-visible when-profile="local"}
+::: {.callout-note}
+After discussing with Ed, may be a better arrangement is:
+
+* Co-chairs
+  * Edward Kavazanjian
+  * Susan Burns
+
+* Core organising committee (from partner campuses)
+  * Julian Tao
+  * Alejandro Martinez
+  * Douglas Cortes 
+  * Sheng Dai
+
+* Other organising committee members
+  * junior investigators of the partner universities
+  * experts outside of CBBG: e.g., Brina, Mike, Nariman 
+
+* Scientific Advisory boards
+  * CBBG leadership team
+  * Select members in the SAB and IAB of CBBG
+  * International experts
+ 
+:::
+:::

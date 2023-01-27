@@ -10,7 +10,9 @@ title: Announcements
 ## Call for Sessions
 
 ::: {.content-visible when-profile="local"}
+::: {.callout-note}
 Do we really need a call for sessions?
+:::
 :::
 
 * TBD

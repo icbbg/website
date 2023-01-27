@@ -7,33 +7,6 @@ This is a tentative schedule and subject to change.
 :::
 
 
-::: {.content-visible when-profile="local"}
-
-* Based on this original plan, there will be 12 plenary talks, 72 presentations in parallel sessions, and a number of poster presentations in 2 poster sessions.
-
-* Maybe we want to reduce the number of plenary talks to make room for more parallel sessions. 
-
-* We can have at least three tracks:
-  * Bio-mediated Geotechnics
-  * Bio-inspired Geotechnics
-  * Education, training, industrial collaboration, sustainability in Biogeotechnics
-
-* For each track, we can have a few sessions targeting on different applications such as:
-  * Bio-mediated
-    * Hazard mitigation
-    * Construction
-    * Environmental remediation or restoration
-  * Bio-inspired
-    * Site investigation
-    * Foundation
-    * Cross-cutting
-  * ETCS (successes and pitfalls)
-    * Education
-    * Training
-    * Industrial collaborations
-    * Sustainability
-:::
-
 
 ## Day 1
 
@@ -90,3 +63,36 @@ This is a tentative schedule and subject to change.
 ## Day 4
 
 * **Field trips**
+
+
+::: {.content-visible when-profile="local"}
+
+::: {.callout-note}
+
+* Based on this original plan, there will be 12 plenary talks, 72 presentations in parallel sessions, and a number of poster presentations in 2 poster sessions.
+
+* We may want to reduce the number of plenary talks to make room for more parallel sessions. 
+
+* We can have at least three tracks:
+  * Bio-mediated Geotechnics
+  * Bio-inspired Geotechnics
+  * Education, training, industrial collaboration, sustainability in Biogeotechnics
+
+* For each track, we can have a few sessions targeting on different applications such as:
+  * Bio-mediated
+    * Hazard mitigation
+    * Construction
+    * Environmental remediation or restoration
+  * Bio-inspired
+    * Site investigation
+    * Foundation
+    * Cross-cutting
+  * ETCS (successes and pitfalls)
+    * Education
+    * Training
+    * Industrial collaborations
+    * Sustainability
+
+:::
+:::
+
