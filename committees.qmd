@@ -2,7 +2,33 @@
 title: Committees
 ---
 
-### Organizing Committee
+::: {.content-visible when-profile="local"}
+
+After discussing with Ed, may be a better arrangement is:
+
+* Co-chairs
+  * Edward Kavazanjian
+  * Susan Burns
+
+* Core organising committee (from partner campuses)
+  * Julian Tao
+  * Alejandro Martinez
+  * Douglas Cortez 
+  * Sheng Dai
+  * Anca Delgado (considering expertise and diversity)
+
+* Other organising committee members
+  * junior investigators of the partner universities
+  * experts outside of CBBG: e.g., Brina, Mike, Nariman 
+
+* Scientific Advisory boards
+  * CBBG leadership team
+  * Select members in the SAB and IAB of CBBG
+  * International experts
+ 
+:::
+
+## Organizing Committee
 
 * Leon van Paassen
 * Julian Tao
@@ -10,12 +36,12 @@ title: Committees
 * Hamed Khodadadi Tirkolaei
 * Claudia Zapata
 * Paola Bandini
-* Jason de Jong 
+* Jason DeJong 
 * David Frost
 * All other Senior investigators at CBBG
 * CBBG IDEA team
 
-### Scientific advisory board
+## Scientific advisory board
 
 * To be announced 
 

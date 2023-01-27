@@ -6,7 +6,22 @@ title: Publication
 To be determined.
 :::
 
-Some options are:
+## Some options are:
+
+::: {.content-visible when-profile="local"}
+* I personally would to like to embrace open science as much as we can for this conference.
+
+* Regarding publication:
+
+  * Seems like Zenodo is a good option
+  * One can create a community to collect, curate, harvest submissions
+  * The submissions can be versioned and each will have a DOI
+  * We can still peer review and ask the authors revive, resubmit with a new version
+  * How about ISSN and indexing?
+
+* We need a platform for handling paper submission and peer-review
+* [Open Conf](https://www.openconf.com/) is an option
+:::
 
 * E3S
 * arxiv

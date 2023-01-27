@@ -6,7 +6,36 @@ title: Schedule
 This is a tentative schedule and subject to change. 
 :::
 
-### Day 1
+
+::: {.content-visible when-profile="local"}
+
+* Based on this original plan, there will be 12 plenary talks, 72 presentations in parallel sessions, and a number of poster presentations in 2 poster sessions.
+
+* Maybe we want to reduce the number of plenary talks to make room for more parallel sessions. 
+
+* We can have at least three tracks:
+  * Bio-mediated Geotechnics
+  * Bio-inspired Geotechnics
+  * Education, training, industrial collaboration, sustainability in Biogeotechnics
+
+* For each track, we can have a few sessions targeting on different applications such as:
+  * Bio-mediated
+    * Hazard mitigation
+    * Construction
+    * Environmental remediation or restoration
+  * Bio-inspired
+    * Site investigation
+    * Foundation
+    * Cross-cutting
+  * ETCS (successes and pitfalls)
+    * Education
+    * Training
+    * Industrial collaborations
+    * Sustainability
+:::
+
+
+## Day 1
 
 |               |                      |
 |---------------|----------------------|
@@ -14,9 +43,10 @@ This is a tentative schedule and subject to change.
 | 18:00 – 20:00 | Icebreaker reception |
 
 
-### Day 2
+## Day 2
 
 + **6 keynotes + 36 paper presentations**
+
 
 |       |                             |            |            |
 | ----- | --------------------------- | ---        | ---        |
@@ -57,6 +87,6 @@ This is a tentative schedule and subject to change.
 |       | 3 x 30 min                  |
 | 17:00 | end of conference           |
 
-### Day 4
+## Day 4
 
 * **Field trips**

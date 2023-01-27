@@ -7,13 +7,14 @@ More to come
 :::
 
 
-### Confirmed
+## Confirmed
 
 * NSF
 * ISSMGE TC 102 - Ground Property Characterization from In-Situ Tests
 * ISSMGE TC 215 – Environmental Geotechnics
 
 ::: {.d-none}
+
 ## To be confirmed
 
 * ISSMGE TC211 – Ground improvement 

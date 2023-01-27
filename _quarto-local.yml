@@ -1,0 +1,21 @@
+project:
+  type: book
+  output-dir: _printout
+
+book:
+  title: "Planning I-CBBG 2025"
+  date: last-modified
+  image: "./img/icbbg.svg"
+  chapters:
+    - index.md
+    - schedule.qmd
+    - importantdates.qmd
+    - committees.qmd
+    - announcements.qmd
+    - speakers.qmd
+    - venue.qmd
+    - registration.qmd 
+    - publication.qmd
+    - sponsors.qmd
+    - about.qmd
+format: pdf 

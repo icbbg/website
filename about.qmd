@@ -4,7 +4,7 @@ title: "About"
 
 The conference seeks to present the state of the art in the field of Bio-mediated and Bio-inspired Geotechnics (BioGeotechnics), promote co-operation and exchange of information about the emerging field of bio-geotechnics; develop and promote improved modeling of bio-mediated and bio-inspired processes; translate fundamental bio-inspired knowledge into enabling technologies with future commercialization potential; and facilitate the adoption of bio-mediated and bio-inspired solutions into geotechnical engineering practice.
 
-### Conference objectives
+## Conference objectives
 
 * Provide a state of the art on biogeotechnics 
 
@@ -18,6 +18,6 @@ The conference seeks to present the state of the art in the field of Bio-mediate
 
 * Provide workshops and short courses
 
-### Targeted number of attendants
+## Targeted number of attendants
 
-* 200 to 400
+* 150 to 200

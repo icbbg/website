@@ -2,17 +2,21 @@
 title: Announcements
 ---
 
-### Save the date
+## Save the date
 
 ![](./img/ICBBG-save-the-date.png)
 
 
-### Call for Sessions
+## Call for Sessions
+
+::: {.content-visible when-profile="local"}
+Do we really need a call for sessions?
+:::
 
 * TBD
 
-### Call for Abstracts
+## Call for Abstracts
 
 * TBD
 
-### Call for Papers
+## Call for Papers
