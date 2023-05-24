@@ -3,8 +3,10 @@ title: Registration
 ---
 
 ::: {.callout-note}
-More details to come
+To be announced.
 :::
+
+::: {.d-none}
 
 ## Basic remote registration
 
@@ -42,3 +44,5 @@ More details to come
 :::
 :::
 
+
+:::
