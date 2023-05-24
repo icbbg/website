@@ -4,7 +4,7 @@
     "href": "publication.html",
     "title": "Publication",
     "section": "",
-    "text": "Note\n\n\n\nTo be determined."
+    "text": "To be announced."
   },
   {
     "objectID": "about.html",
@@ -18,7 +18,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Note\n\n\n\nThis is a tentative schedule and subject to change."
+    "text": "4 plenary sessions:\n\n3 general reports\n6 keynote lectures\n1 panel discussion\n\n5 general sessions:\n\n3 parallel sessions\n6 presentations in each session\n90 presentations in total\n\n1 poster session"
   },
   {
     "objectID": "schedule.html#day-3",
@@ -32,14 +32,14 @@
     "href": "speakers.html",
     "title": "Speakers",
     "section": "",
-    "text": "Note\n\n\n\nTo be announced"
+    "text": "To be announced"
   },
   {
     "objectID": "sponsors.html",
     "href": "sponsors.html",
     "title": "Sponsors",
     "section": "",
-    "text": "Note\n\n\n\nMore to come"
+    "text": "To be announced."
   },
   {
     "objectID": "sponsors.html#to-be-confirmed",
@@ -60,14 +60,14 @@
     "href": "announcements.html",
     "title": "Announcements",
     "section": "",
-    "text": "Save the date\n\n\n\nCall for Sessions\n\nTBD\n\n\n\nCall for Abstracts\n\nTBD\n\n\n\nCall for Papers"
+    "text": "Calls\n\n\nDue Date\n\n\n\n\n\n\nCall for Session Proposals\n\n\nApr 30, 2023\n\n\n\n\nCall for Abstracts\n\n\nOct 31, 2023\n\n\n\n\nCall for Full Papers\n\n\nMay 31, 2024\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "registration.html",
     "href": "registration.html",
     "title": "Registration",
     "section": "",
-    "text": "Note\n\n\n\nMore details to come"
+    "text": "More details to come"
   },
   {
     "objectID": "venue.html",
@@ -79,9 +79,9 @@
   {
     "objectID": "committees.html",
     "href": "committees.html",
-    "title": "Committees",
+    "title": "Organizing Structure",
     "section": "",
-    "text": "Leon van Paassen\nJulian Tao\nEd Kavazanjian\nHamed Khodadadi Tirkolaei\nClaudia Zapata\nPaola Bandini\nJason DeJong\nDavid Frost\nAll other Senior investigators at CBBG\nCBBG IDEA team"
+    "text": "Ed Kavazanjian\nArizona State University\nUSA\n\n\nSusan Burns\nGeorgia Institute of Technology\nUSA"
   },
   {
     "objectID": "publication.html#some-options-are",
@@ -187,5 +187,166 @@
     "title": "Committees",
     "section": "Scientific advisory board",
     "text": "Scientific advisory board\n\nTo be announced"
+  },
+  {
+    "objectID": "venue.html#meetings",
+    "href": "venue.html#meetings",
+    "title": "Venue",
+    "section": "",
+    "text": "Memorial Union at ASU campus\n\nMU Map"
+  },
+  {
+    "objectID": "committees.html#organizing-committee",
+    "href": "committees.html#organizing-committee",
+    "title": "Organizing Structure",
+    "section": "Organizing Committee",
+    "text": "Organizing Committee\n\n\n\n\n\n\n\n\nJulian Tao\nArizona State University\nUSA\n\n\nDouglas Cortes\nNew Mexico State University\nUSA\n\n\nSheng Dai\nGeorgia Institute of Technology\nUSA\n\n\nAnca Delgado\nArizona State University\nUSA\n\n\nMike Gomez\nUniversity of Washington\nUSA\n\n\nSatoru Kawasaki\nHokkaido University\nJapan\n\n\nJoan M. Larrahondo\nPontificia Universidad Javeriana\nColombia\n\n\nThomas Lin\nLouisiana State University\nUSA\n\n\nAlejandro Martinez\nUniversity of California, Davis\nUSA\n\n\nBrian Martinez\nGeosyntec Consultants\nUSA\n\n\nBrina Montoya\nNorth Carolina State University\nUSA\n\n\nGrainne El Mountassir\nUniversity of Strathclyde\nUK\n\n\nMd. Mizanur Rahman\nUniversity of South Australia\nAustralia\n\n\nYang Xiao\nChongqing University\nChina"
+  },
+  {
+    "objectID": "announcements/call-for-sessions.html",
+    "href": "announcements/call-for-sessions.html",
+    "title": "Call for Session Proposals",
+    "section": "",
+    "text": "This is an invitation to submit proposals for sessions in the International Conference on Bio-mediated and Bio-inspired Geotechnics (ICBBG) 2025, to be held May 19-21, 2025 in Tempe, Arizona, USA. ICBBG aims to bring together top researchers from around the world to present the state of the art and state of the practice on biogeotechnics, and to facilitate knowledge exchange among researchers, industry, agencies and educators.\nA proposal should identify a coherent topic that can be addressed by about 6 to 12 papers. For example, a session might bring together papers on different aspects to a particular biogeotechnics question (e.g., MICP, EICP, bio-inspired burrowing, root-inspired-foundation) or it might examine the applications of a particular technology (e.g., x-ray CT) in a variety of biogeotechnics areas.\nICBBG is interested in the following general themes:"
+  },
+  {
+    "objectID": "announcements/call-for-sessions.html#responsibilities-of-a-session-chair",
+    "href": "announcements/call-for-sessions.html#responsibilities-of-a-session-chair",
+    "title": "Call for Session Proposals",
+    "section": "Responsibilities of a session chair:",
+    "text": "Responsibilities of a session chair:\nRecognizing that many in the community believe the value of a meeting depends on the quality of its review process, every full manuscript submitted to ICBBG will be reviewed by at least two anonymous reviewers, as well as the session chairs.\nAs a proposer of an accepted session, you will become the session chair. The chair’s primary responsibility is to solicit high quality papers for the session and to oversee the review. You are to solicit manuscripts, have them refereed, collaborate with the conference chairs in determining which manuscripts are to be accepted and structure presentation time in your session. Please contact us at the address below if you have any questions about the obligations entailed in becoming a session organizer."
+  },
+  {
+    "objectID": "announcements/call-for-sessions.html#procedure-for-submitting-proposals",
+    "href": "announcements/call-for-sessions.html#procedure-for-submitting-proposals",
+    "title": "Call for Session Proposals",
+    "section": "Procedure for submitting proposals:",
+    "text": "Procedure for submitting proposals:\nSession proposals can be as short as a single page, including the following information:\n\nSession Title\nNames and contact information of the organizer(s)\nAbstract (1 paragraph), describing the specific scope, purpose and significance of the session\nRough estimate of the anticipated number of presentations\nList of potential contributors (Optional but highly recommended)\n\nProposals must be submitted to the email address icbbg2025@gmail.com.\nEach proposal will be evaluated by the organizing committee."
+  },
+  {
+    "objectID": "announcements/call-for-sessions.html#important-dates",
+    "href": "announcements/call-for-sessions.html#important-dates",
+    "title": "Call for Session Proposals",
+    "section": "Important Dates",
+    "text": "Important Dates\nApril 30, 2023 – Proposals Due\nMay 31, 2023 – Notification of Acceptance"
+  },
+  {
+    "objectID": "announcements/call-for-sessions.html#questions",
+    "href": "announcements/call-for-sessions.html#questions",
+    "title": "Call for Session Proposals",
+    "section": "Questions?",
+    "text": "Questions?\nPlease send email to the organizing committee, icbbg2015@gmail.com"
+  },
+  {
+    "objectID": "announcements.html#announcements",
+    "href": "announcements.html#announcements",
+    "title": "Announcements",
+    "section": "Announcements",
+    "text": "Announcements"
+  },
+  {
+    "objectID": "announcements.html#important-dates",
+    "href": "announcements.html#important-dates",
+    "title": "Announcements",
+    "section": "Important Dates",
+    "text": "Important Dates"
+  },
+  {
+    "objectID": "announcements.html#calls",
+    "href": "announcements.html#calls",
+    "title": "Announcements",
+    "section": "Calls",
+    "text": "Calls"
+  },
+  {
+    "objectID": "schedule.html#at-a-glance",
+    "href": "schedule.html#at-a-glance",
+    "title": "Schedule",
+    "section": "",
+    "text": "4 plenary sessions:\n\n3 general reports\n6 keynote lectures\n1 panel discussion\n\n5 general sessions:\n\n3 parallel sessions\n6 presentations in each session\n90 presentations in total\n\n1 poster session"
+  },
+  {
+    "objectID": "schedule.html#monday-may-19-2025",
+    "href": "schedule.html#monday-may-19-2025",
+    "title": "Schedule",
+    "section": "Monday, May 19, 2025",
+    "text": "Monday, May 19, 2025\n\n\n\n\n\n\n\nTime\nEvent\n\n\n\n\n8:00\nRegistration\n\n\n8:30\nPlenary Session 1\n\n\n\n10 min: Welcome: Conference Chairs\n\n\n\n30 min: General report on Bio-mediated  Geotechnics\n\n\n\n30 min: General report on Bio-inspired Geotechnics\n\n\n\n20 min: General report on Education and Outreach\n\n\n10:00\ncoffee break\n\n\n10:30\nPlenary Session 2\n\n\n\n30 min: Keynote 1: Bio-mediated Geotechnics/Hazard Mitigation\n\n\n\n30 min: Keynote 2: Bio-inspired Geotechnics/Infrastructure\n\n\n\n30 min: Keynote 3: Education and Outreach\n\n\n12:00\nlunchbreak\n\n\n13:00\nGeneral Session 1\n\n\n\nGS 1a: 6 x 15 min presentations\n\n\n\nGS 1b: 6 x 15 min presentations\n\n\n\nGS 1c: 6 x 15 min presentations\n\n\n14:30\ncoffee break\n\n\n15:00\nGeneral Session 2\n\n\n\nGS 2a: 6 x 15 min presentations\n\n\n\nGS 2b: 6 x 15 min presentations\n\n\n\nGS 2c: 6 x 15 min presentations\n\n\n16:30\nEnd of sessions\n\n\n16:45\nPoster Session w/ hors d’oeuvres and cash bar (1 drink ticket per person)\n\n\n18:30\nEnd of day 1"
+  },
+  {
+    "objectID": "schedule.html#tuesday-may-20-2025",
+    "href": "schedule.html#tuesday-may-20-2025",
+    "title": "Schedule",
+    "section": "Tuesday, May 20, 2025",
+    "text": "Tuesday, May 20, 2025\n\n\n\n\n\n\n\nTime\nEvent\n\n\n\n\n8:00\nRegistration\n\n\n8:30\nPlenary Session 3\n\n\n\nKeynote 4: Bio-mediated Geotechnics/Environmental\n\n\n\nKeynote 5: Bio-inspired Geotechnics/Probes and Tunneling\n\n\n\nKeynote 6: Bio-mediated Geotechnics/Infrastructure\n\n\n10:00\ncoffee break\n\n\n10:30\nGeneral Session 3\n\n\n\nGS 3a: 6 x 15 min presentations\n\n\n\nGS 3b: 6 x 15 min presentations\n\n\n\nGS 3c: 6 x 15 min presentations\n\n\n12:00\nlunchbreak\n\n\n13:00\nGeneral Session 4\n\n\n\nGS 4a: 6 x 15 min presentations\n\n\n\nGS 4b: 6 x 15 min presentations\n\n\n\nGS 4c: 6 x 15 min presentations\n\n\n14:30\ncoffee break\n\n\n15:00\nGeneral Session 5\n\n\n\nGS 5a: 6 x 15 min presentations\n\n\n\nGS 5b: 6 x 15 min presentations\n\n\n\nGS 5c: 6 x 15 min presentations\n\n\n16:30\nEnd of sessions\n\n\n16:45\nPlenary Session 4: Panel discussion: Future directions for biogeotechnics\n\n\n17:45\nClosing Remarks: Conference Chairs\n\n\n18:00\nBanquet and award ceremony"
+  },
+  {
+    "objectID": "committees.html#steering-committee-7",
+    "href": "committees.html#steering-committee-7",
+    "title": "ICBBG Organizing Structure",
+    "section": "",
+    "text": "Name\nAffiliation\nCountry\nContact\n\n\n\n\nPaola Bandini\nNew Mexico State University\nUSA\npaola@nmsu.edu\n\n\nJian Chu\nNanyang Technological University\nSingapore\nCJCHU@ntu.edu.sg\n\n\nJason DeJong\nUniversity of California, Davis\nUSA\njdejong@ucdavis.edu\n\n\nRichard Fragaszy\nProgram Director (Retired) at NSF\nUSA\nrfragaszy@protonmail.com\n\n\nDavid Frost\nGeorgia Institute of Technology\nUSA\ndavid.frost@ce.gatech.edu\n\n\nLeon van Paassen\nBoskalis\nNetherlands\nleon.van.paassen@boskalis.com\n\n\nGioacchino (Cino) Viggiani\nUniversité Grenoble Alpes\nFrance\ncino.viggiani@3sr-grenoble.fr"
+  },
+  {
+    "objectID": "committees.html#organizing-committee-16",
+    "href": "committees.html#organizing-committee-16",
+    "title": "ICBBG Organizing Structure",
+    "section": "Organizing Committee (16)",
+    "text": "Organizing Committee (16)\n\nChairs (2)\n\n\n\nName\nAffiliation\nCountry\nContact\n\n\n\n\nEd Kavazanjian\nArizona State University\nUSA\nEdward.Kavazanjian@asu.edu\n\n\nSusan Burns\nGeorgia Institute of Technology\nUSA\nsusan.burns@ce.gatech.edu\n\n\n\n\n\nProgram Committee (14)\n\n\n\nName\nAffiliation\nCountry\nContact\n\n\n\n\nDouglas Cortes\nNew Mexico State University\nUSA\ndcortes@nmsu.edu\n\n\nSheng Dai\nGeorgia Institute of Technology\nUSA\nsheng.dai@ce.gatech.edu\n\n\nAnca Delgado\nArizona State University\nUSA\nAnca.Delgado@asu.edu\n\n\nMike Gomez\nUniversity of Washington\nUSA\nmggomez@uw.edu\n\n\nSatoru Kawasaki\nHokkaido University\nJapan\nkawasaki@geo-er.eng.hokudai.ac.jp\n\n\nJoan M. Larrahondo\nPontificia Universidad Javeriana\nColombia\njlarrahondo@javeriana.edu.co\n\n\nThomas Lin\nLouisiana State University\nUSA\nhailin1@lsu.edu\n\n\nAlejandro Martinez\nUniversity of California, Davis\nUSA\namart@ucdavis.edu\n\n\nBrian Martinez\nGeosyntec Consultants\nUSA\nbmartinez@geosyntec.com\n\n\nBrina Montoya\nNorth Carolina State University\nUSA\nbmmorten@ncsu.edu\n\n\nGrainne El Mountassir\nUniversity of Strathclyde\nUK\ngrainne.elmountassir@strath.ac.uk\n\n\nJulian Tao\nArizona State University\nUSA\njulian.tao@asu.edu\n\n\nYang Xiao\nChongqing University\nChina\nxiaoy@cqu.edu.cn\n\n\nMd. Mizanur Rahman\nUniversity of South Australia\nAustralia\nMizanur.Rahman@unisa.edu.au"
+  },
+  {
+    "objectID": "committees.html#local-organizing-committee-6",
+    "href": "committees.html#local-organizing-committee-6",
+    "title": "ICBBG Organizing Structure",
+    "section": "Local organizing committee (6)",
+    "text": "Local organizing committee (6)\n\n\n\nName\nAffiliation\nCountry\n\n\n\n\nJean Larson\nArizona State University\nUSA\n\n\nNariman Mahabadi\nArizona State University\nUSA\n\n\nEmmanuel Salifu\nArizona State University\nUSA\n\n\nJong Seto\nArizona State University\nUSA\n\n\nHamed Khodadadi Tirkolaei\nArizona State University\nUSA\n\n\nClaudia Zapata\nArizona State University\nUSA"
+  },
+  {
+    "objectID": "committees.html#steering-committee",
+    "href": "committees.html#steering-committee",
+    "title": "Organizing Structure",
+    "section": "Steering committee",
+    "text": "Steering committee\n\n\n\n\n\n\n\n\nPaola Bandini\nNew Mexico State University\nUSA\n\n\nJian Chu\nNanyang Technological University\nSingapore\n\n\nJason DeJong\nUniversity of California, Davis\nUSA\n\n\nRichard Fragaszy\nProgram Director (Retired) at NSF\nUSA\n\n\nDavid Frost\nGeorgia Institute of Technology\nUSA\n\n\nLeon van Paassen\nBoskalis\nNetherlands\n\n\nGioacchino (Cino) Viggiani\nUniversité Grenoble Alpes\nFrance"
+  },
+  {
+    "objectID": "committees.html#conference-chairs",
+    "href": "committees.html#conference-chairs",
+    "title": "Organizing Structure",
+    "section": "",
+    "text": "Ed Kavazanjian\nArizona State University\nUSA\n\n\nSusan Burns\nGeorgia Institute of Technology\nUSA"
+  },
+  {
+    "objectID": "committees.html#local-organizing-committee",
+    "href": "committees.html#local-organizing-committee",
+    "title": "Organizing Structure",
+    "section": "Local organizing committee",
+    "text": "Local organizing committee\n\n\n\n\n\n\n\n\nJean Larson\nArizona State University\nUSA\n\n\nNariman Mahabadi\nArizona State University\nUSA\n\n\nEmmanuel Salifu\nArizona State University\nUSA\n\n\nJong Seto\nArizona State University\nUSA\n\n\nHamed Khodadadi Tirkolaei\nArizona State University\nUSA\n\n\nClaudia Zapata\nArizona State University\nUSA"
+  },
+  {
+    "objectID": "announcements/call-for-papers.html",
+    "href": "announcements/call-for-papers.html",
+    "title": "Call for Full Papers",
+    "section": "",
+    "text": "To be announced"
+  },
+  {
+    "objectID": "announcements/call-for-papers.html#questions",
+    "href": "announcements/call-for-papers.html#questions",
+    "title": "Call for Full Papers",
+    "section": "Questions?",
+    "text": "Questions?\nPlease send email to the organizing committee, icbbg2015@gmail.com"
+  },
+  {
+    "objectID": "announcements/call-for-abstracts.html",
+    "href": "announcements/call-for-abstracts.html",
+    "title": "Call for Abstracts",
+    "section": "",
+    "text": "To be announced"
+  },
+  {
+    "objectID": "announcements/call-for-abstracts.html#questions",
+    "href": "announcements/call-for-abstracts.html#questions",
+    "title": "Call for Abstracts",
+    "section": "Questions?",
+    "text": "Questions?\nPlease send email to the organizing committee, icbbg2015@gmail.com"
   }
 ]

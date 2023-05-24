@@ -1,47 +1,62 @@
 ---
-title: Committees
+title: "Organizing Structure"
+subtitle: "Last Modified: 2023-05-18"
 ---
 
-## Organizing Committee
+## Conference Chairs
 
-* Leon van Paassen
-* Julian Tao
-* Ed Kavazanjian
-* Hamed Khodadadi Tirkolaei
-* Claudia Zapata
-* Paola Bandini
-* Jason DeJong 
-* David Frost
-* All other Senior investigators at CBBG
-* CBBG IDEA team
+|                |                                 |         |
+|----------------|---------------------------------|---------|
+| Ed Kavazanjian | Arizona State University        | USA     |
+| Susan Burns    | Georgia Institute of Technology | USA     |
 
-## Scientific advisory board
+: {tbl-colwidths="[50, 70, 20]"}
 
-* To be announced 
+## Steering committee
 
+|                            |                                   |             |
+|----------------------------|-----------------------------------|-------------|
+| Paola Bandini              | New Mexico State University       | USA         |
+| Jian Chu                   | Nanyang Technological University  | Singapore   |
+| Jason DeJong               | University of California, Davis   | USA         |
+| Richard Fragaszy           | Program Director (Retired) at NSF | USA         |
+| David Frost                | Georgia Institute of Technology   | USA         |
+| Leon van Paassen           | Boskalis                          | Netherlands |
+| Gioacchino (Cino) Viggiani | Université Grenoble Alpes         | France      |
 
-::: {.content-visible when-profile="local"}
-::: {.callout-note}
-After discussing with Ed, may be a better arrangement is:
+: {tbl-colwidths="[50, 70, 20]"}
 
-* Co-chairs
-  * Edward Kavazanjian
-  * Susan Burns
+## Organizing Committee 
 
-* Core organising committee (from partner campuses)
-  * Julian Tao
-  * Alejandro Martinez
-  * Douglas Cortes 
-  * Sheng Dai
+|                       |                                  |           |
+|-----------------------|----------------------------------|-----------|
+| Julian Tao            | Arizona State University         | USA       |
+| Douglas Cortes        | New Mexico State University      | USA       |
+| Sheng Dai             | Georgia Institute of Technology  | USA       |
+| Anca Delgado          | Arizona State University         | USA       |
+| Mike Gomez            | University of Washington         | USA       |
+| Satoru Kawasaki       | Hokkaido University              | Japan     |
+| Joan M. Larrahondo    | Pontificia Universidad Javeriana | Colombia  |
+| Thomas Lin            | Louisiana State University       | USA       |
+| Alejandro Martinez    | University of California, Davis  | USA       |
+| Brian Martinez        | Geosyntec Consultants            | USA       |
+| Brina Montoya         | North Carolina State University  | USA       |
+| Grainne El Mountassir | University of Strathclyde        | UK        |
+| Md. Mizanur Rahman    | University of South Australia    | Australia |
+| Yang Xiao             | Chongqing University             | China     |
 
-* Other organising committee members
-  * junior investigators of the partner universities
-  * experts outside of CBBG: e.g., Brina, Mike, Nariman 
+: {tbl-colwidths="[50, 70, 20]"}
 
-* Scientific Advisory boards
-  * CBBG leadership team
-  * Select members in the SAB and IAB of CBBG
-  * International experts
- 
-:::
-:::
+## Local organizing committee
+
+|                           |                          |     |
+|---------------------------|--------------------------|-----|
+| Jean Larson               | Arizona State University | USA |
+| Nariman Mahabadi          | Arizona State University | USA |
+| Emmanuel Salifu           | Arizona State University | USA |
+| Jong Seto                 | Arizona State University | USA |
+| Hamed Khodadadi Tirkolaei | Arizona State University | USA |
+| Claudia Zapata            | Arizona State University | USA |
+
+: {tbl-colwidths="[50, 70, 20]"}
+

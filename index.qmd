@@ -1,11 +1,10 @@
 ---
 title: "Welcome"
 subtitle: The 2025 International Conference on Bio-mediated and Bio-inspired Geotechnics
-page-layout: full
 toc: false
 sidebar: false
 ---
 
-![](./img/icbbg-art.png)
+<!-- ![](./img/icbbg-art.png) -->
 
-![](./img/ICBBG-save-the-date.png)
+![](./img/savethedate.svg)

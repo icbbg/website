@@ -17,7 +17,3 @@ The conference seeks to present the state of the art in the field of Bio-mediate
 * Initiate development of an international research network
 
 * Provide workshops and short courses
-
-## Targeted number of attendants
-
-* 150 to 200

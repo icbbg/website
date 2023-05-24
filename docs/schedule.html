@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -78,6 +78,7 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">I-CBBG 2025</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
@@ -97,7 +98,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./committees.html" rel="" target="">
- <span class="menu-text">Committees</span></a>
+ <span class="menu-text">Organizing Structure</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./announcements.html" rel="" target="">
@@ -128,15 +129,21 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">About</span></a>
   </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools">
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
-  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-    <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Schedule</h1>
-      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
-        <i class="bi bi-chevron-right"></i>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./schedule.html">Schedule</a></li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
       </button>
     </div>
   </nav>
@@ -144,82 +151,93 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
-      <div class="mt-2 flex-shrink-0 align-items-center">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
+        <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
         <div id="quarto-search" class="" title="Search"></div>
         </div>
-      </div>
+        </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link">Welcome</a>
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Welcome</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./schedule.html" class="sidebar-item-text sidebar-link active">Schedule</a>
+  <a href="./schedule.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Schedule</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./importantdates.html" class="sidebar-item-text sidebar-link">Important Dates</a>
+  <a href="./importantdates.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Important Dates</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./committees.html" class="sidebar-item-text sidebar-link">Committees</a>
+  <a href="./committees.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Organizing Structure</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./announcements.html" class="sidebar-item-text sidebar-link">Announcements</a>
+  <a href="./announcements.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Announcements</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./speakers.html" class="sidebar-item-text sidebar-link">Speakers</a>
+  <a href="./speakers.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Speakers</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./venue.html" class="sidebar-item-text sidebar-link">Venue</a>
+  <a href="./venue.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Venue</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./registration.html" class="sidebar-item-text sidebar-link">Registration</a>
+  <a href="./registration.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Registration</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./publication.html" class="sidebar-item-text sidebar-link">Publication</a>
+  <a href="./publication.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Publication</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./sponsors.html" class="sidebar-item-text sidebar-link">Sponsors</a>
+  <a href="./sponsors.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Sponsors</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./about.html" class="sidebar-item-text sidebar-link">About</a>
+  <a href="./about.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">About</span></a>
   </div>
 </li>
     </ul>
     </div>
 </nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#day-1" id="toc-day-1" class="nav-link active" data-scroll-target="#day-1">Day 1</a></li>
-  <li><a href="#day-2" id="toc-day-2" class="nav-link" data-scroll-target="#day-2">Day 2</a></li>
-  <li><a href="#day-3" id="toc-day-3" class="nav-link" data-scroll-target="#day-3">Day 3</a></li>
-  <li><a href="#day-4" id="toc-day-4" class="nav-link" data-scroll-target="#day-4">Day 4</a></li>
+  <li><a href="#at-a-glance" id="toc-at-a-glance" class="nav-link active" data-scroll-target="#at-a-glance"><span class="highlight">At a glance</span></a></li>
+  <li><a href="#monday-may-19-2025" id="toc-monday-may-19-2025" class="nav-link" data-scroll-target="#monday-may-19-2025">Monday, May 19, 2025</a></li>
+  <li><a href="#tuesday-may-20-2025" id="toc-tuesday-may-20-2025" class="nav-link" data-scroll-target="#tuesday-may-20-2025">Tuesday, May 20, 2025</a></li>
   </ul>
 </nav>
     </div>
@@ -228,7 +246,8 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Schedule</h1>
+<h1 class="title">Schedule</h1>
+<p class="subtitle lead">Last Modified: 2023-02-09</p>
 </div>
 
 
@@ -243,229 +262,250 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<div class="callout callout-style-default callout-note callout-captioned">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-caption-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>This is a tentative schedule and subject to change.</p>
-</div>
-</div>
-<section id="day-1" class="level2">
-<h2 class="anchored" data-anchor-id="day-1">Day 1</h2>
-<table class="table">
-<tbody>
-<tr class="odd">
-<td>9:00 – 17:00</td>
-<td>workshops</td>
-</tr>
-<tr class="even">
-<td>18:00 – 20:00</td>
-<td>Icebreaker reception</td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="day-2" class="level2">
-<h2 class="anchored" data-anchor-id="day-2">Day 2</h2>
+<section id="at-a-glance" class="level2">
+<h2 class="anchored" data-anchor-id="at-a-glance"><span class="highlight">At a glance</span></h2>
 <ul>
-<li><strong>6 keynotes + 36 paper presentations</strong></li>
-</ul>
-<table class="table">
-<tbody>
-<tr class="odd">
-<td>8:00</td>
-<td>opening &amp; registration</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>8:30</td>
-<td>plenary session 1</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>3 x 30 minute presentation</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>10:00</td>
-<td>coffee break</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>10:30</td>
-<td>session 2a</td>
-<td>session 2b</td>
-<td>session 2c</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>6 x 15 min</td>
-<td>6 x 15 min</td>
-<td>6 x 15 min</td>
-</tr>
-<tr class="odd">
-<td>12:00</td>
-<td>lunchbreak + poster session</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>13:30</td>
-<td>session 3a</td>
-<td>session 3b</td>
-<td>session 3c</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>6 x 15 min</td>
-<td>6 x 15 min</td>
-<td>6 x 15 min</td>
-</tr>
-<tr class="even">
-<td>15:00</td>
-<td>coffee break</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>15:30</td>
-<td>plenary session 4</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td>3 x 30 minute presentation</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>17:00</td>
-<td>end of sessions</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>18:00</td>
-<td>conference dinner</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>20:00</td>
-<td>end of day 1</td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="day-3" class="level2">
-<h2 class="anchored" data-anchor-id="day-3">Day 3</h2>
+<li>4 plenary sessions:
 <ul>
-<li><strong>6 keynotes/debates + 36 paper presentations</strong></li>
+<li>3 general reports</li>
+<li>6 keynote lectures</li>
+<li>1 panel discussion</li>
+</ul></li>
+<li>5 general sessions:
+<ul>
+<li>3 parallel sessions</li>
+<li>6 presentations in each session</li>
+<li>90 presentations in total</li>
+</ul></li>
+<li>1 poster session</li>
 </ul>
+</section>
+<section id="monday-may-19-2025" class="level2">
+<h2 class="anchored" data-anchor-id="monday-may-19-2025">Monday, May 19, 2025</h2>
 <table class="table">
+<colgroup>
+<col style="width: 6%">
+<col style="width: 93%">
+</colgroup>
 <thead>
 <tr class="header">
-<th>8:00</th>
-<th>opening &amp; registration</th>
-<th></th>
-<th></th>
+<th>Time</th>
+<th>Event</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
+<td>8:00</td>
+<td>Registration</td>
+</tr>
+<tr class="even">
 <td>8:30</td>
-<td>plenary session 5</td>
+<td>Plenary Session 1</td>
+</tr>
+<tr class="odd">
 <td></td>
-<td></td>
+<td>10 min: Welcome: Conference Chairs</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>3 x 30 min</td>
+<td>30 min: General report on Bio-mediated&nbsp; Geotechnics</td>
+</tr>
+<tr class="odd">
 <td></td>
+<td>30 min: General report on Bio-inspired Geotechnics</td>
+</tr>
+<tr class="even">
 <td></td>
+<td>20 min: General report on Education and Outreach</td>
 </tr>
 <tr class="odd">
 <td>10:00</td>
 <td>coffee break</td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td>10:30</td>
-<td>session 6a</td>
-<td>session 6b</td>
-<td>session 6c</td>
+<td>Plenary Session 2</td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>6 x 15 min</td>
-<td>6 x 15 min</td>
-<td>6 x 15 min</td>
+<td>30 min: Keynote 1: Bio-mediated Geotechnics/Hazard Mitigation</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>30 min: Keynote 2: Bio-inspired Geotechnics/Infrastructure</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>30 min: Keynote 3: Education and Outreach</td>
 </tr>
 <tr class="even">
 <td>12:00</td>
-<td>lunchbreak + poster session</td>
-<td></td>
-<td></td>
+<td>lunchbreak</td>
 </tr>
 <tr class="odd">
-<td>13:30</td>
-<td>session 7a</td>
-<td>session 7b</td>
-<td>session 7c</td>
+<td>13:00</td>
+<td>General Session 1</td>
 </tr>
 <tr class="even">
 <td></td>
-<td>6 x 15 min</td>
-<td>6 x 15 min</td>
-<td>6 x 15 min</td>
+<td>GS 1a: 6 x 15 min presentations</td>
 </tr>
 <tr class="odd">
-<td>15:00</td>
+<td></td>
+<td>GS 1b: 6 x 15 min presentations</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>GS 1c: 6 x 15 min presentations</td>
+</tr>
+<tr class="odd">
+<td>14:30</td>
 <td>coffee break</td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td>15:30</td>
-<td>plenary session 8</td>
-<td></td>
-<td></td>
+<td>15:00</td>
+<td>General Session 2</td>
 </tr>
 <tr class="odd">
 <td></td>
-<td>3 x 30 min</td>
-<td></td>
-<td></td>
+<td>GS 2a: 6 x 15 min presentations</td>
 </tr>
 <tr class="even">
-<td>17:00</td>
-<td>end of conference</td>
 <td></td>
+<td>GS 2b: 6 x 15 min presentations</td>
+</tr>
+<tr class="odd">
 <td></td>
+<td>GS 2c: 6 x 15 min presentations</td>
+</tr>
+<tr class="even">
+<td>16:30</td>
+<td>End of sessions</td>
+</tr>
+<tr class="odd">
+<td>16:45</td>
+<td>Poster Session w/ hors d’oeuvres and cash bar (1 drink ticket per person)</td>
+</tr>
+<tr class="even">
+<td>18:30</td>
+<td>End of day 1</td>
 </tr>
 </tbody>
 </table>
+<div style="page-break-after: always;"></div>
 </section>
-<section id="day-4" class="level2">
-<h2 class="anchored" data-anchor-id="day-4">Day 4</h2>
-<ul>
-<li><strong>Field trips</strong></li>
-</ul>
+<section id="tuesday-may-20-2025" class="level2">
+<h2 class="anchored" data-anchor-id="tuesday-may-20-2025">Tuesday, May 20, 2025</h2>
+<table class="table">
+<colgroup>
+<col style="width: 6%">
+<col style="width: 93%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Time</th>
+<th>Event</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>8:00</td>
+<td>Registration</td>
+</tr>
+<tr class="even">
+<td>8:30</td>
+<td>Plenary Session 3</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Keynote 4: Bio-mediated Geotechnics/Environmental</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Keynote 5: Bio-inspired Geotechnics/Probes and Tunneling</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>Keynote 6: Bio-mediated Geotechnics/Infrastructure</td>
+</tr>
+<tr class="even">
+<td>10:00</td>
+<td>coffee break</td>
+</tr>
+<tr class="odd">
+<td>10:30</td>
+<td>General Session 3</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>GS 3a: 6 x 15 min presentations</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>GS 3b: 6 x 15 min presentations</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>GS 3c: 6 x 15 min presentations</td>
+</tr>
+<tr class="odd">
+<td>12:00</td>
+<td>lunchbreak</td>
+</tr>
+<tr class="even">
+<td>13:00</td>
+<td>General Session 4</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>GS 4a: 6 x 15 min presentations</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>GS 4b: 6 x 15 min presentations</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>GS 4c: 6 x 15 min presentations</td>
+</tr>
+<tr class="even">
+<td>14:30</td>
+<td>coffee break</td>
+</tr>
+<tr class="odd">
+<td>15:00</td>
+<td>General Session 5</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>GS 5a: 6 x 15 min presentations</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>GS 5b: 6 x 15 min presentations</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>GS 5c: 6 x 15 min presentations</td>
+</tr>
+<tr class="odd">
+<td>16:30</td>
+<td>End of sessions</td>
+</tr>
+<tr class="even">
+<td>16:45</td>
+<td>Plenary Session 4: Panel discussion: Future directions for biogeotechnics</td>
+</tr>
+<tr class="odd">
+<td>17:45</td>
+<td>Closing Remarks: Conference Chairs</td>
+</tr>
+<tr class="even">
+<td>18:00</td>
+<td>Banquet and award ceremony</td>
+</tr>
+</tbody>
+</table>
 
 
 </section>
@@ -498,9 +538,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -563,6 +617,34 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, function() {
+      let href = xref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note !== null) {
+        if (id.startsWith('sec-')) {
+          // Special case sections, only their first couple elements
+          const container = document.createElement("div");
+          if (note.children && note.children.length > 2) {
+            for (let i = 0; i < 2; i++) {
+              container.appendChild(note.children[i].cloneNode(true));
+            }
+            return container.innerHTML
+          } else {
+            return note.innerHTML;
+          }
+        } else {
+          return note.innerHTML;
+        }
+      } else {
+        return "";
+      }
     });
   }
       let selectedAnnoteEl;

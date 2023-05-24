@@ -3,17 +3,18 @@ title: Sponsors
 ---
 
 ::: {.callout-note}
-More to come
+To be announced.
 :::
 
+
+
+::: {.d-none}
 
 ## Confirmed
 
 * NSF
 * ISSMGE TC 102 - Ground Property Characterization from In-Situ Tests
 * ISSMGE TC 215 – Environmental Geotechnics
-
-::: {.d-none}
 
 ## To be confirmed
 

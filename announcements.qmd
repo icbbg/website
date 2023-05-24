@@ -1,24 +1,17 @@
 ---
 title: Announcements
+listing:
+  - id: announcements
+    contents: "announcements/*.qmd"
+    type: table
+    sort-ui: false
+    sort: date
+    filter-ui: false
+    fields: [title, date]
+    field-links: [title]
+    field-display-names:
+      title: "Calls"
+      date: "Due Date"
 ---
 
-## Save the date
 
-![](./img/ICBBG-save-the-date.png)
-
-
-## Call for Sessions
-
-::: {.content-visible when-profile="local"}
-::: {.callout-note}
-Do we really need a call for sessions?
-:::
-:::
-
-* TBD
-
-## Call for Abstracts
-
-* TBD
-
-## Call for Papers

@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  preview:
+    port: 2025
 
 website:
   title: "I-CBBG 2025"
@@ -45,3 +47,9 @@ format:
     css:
       - ./src/theme/styles.css
     toc: true
+
+execute:
+  echo: false
+  freeze: auto
+  warning: false
+  error: false

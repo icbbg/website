@@ -3,8 +3,12 @@ title: Publication
 ---
 
 ::: {.callout-note}
-To be determined.
+To be announced.
 :::
+
+
+::: {.content-visible when-profile="local"}
+::: {.callout-note}
 
 ## Some options are:
 
@@ -13,9 +17,6 @@ To be determined.
 * Special issues in journals
 * Traditional conference proceedings
 
-
-::: {.content-visible when-profile="local"}
-::: {.callout-note}
 * I personally would to like to embrace open science as much as we can for this conference.
 
 * Regarding publication:
