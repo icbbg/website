@@ -10,7 +10,7 @@ subtitle: "Last Modified: 2023-05-18"
 | Ed Kavazanjian | Arizona State University        | USA     |
 | Susan Burns    | Georgia Institute of Technology | USA     |
 
-: {tbl-colwidths="[50, 70, 20]"}
+: {tbl-colwidths="[50, 70, 20]" .hover}
 
 ## Steering committee
 
@@ -24,7 +24,7 @@ subtitle: "Last Modified: 2023-05-18"
 | Leon van Paassen           | Boskalis                          | Netherlands |
 | Gioacchino (Cino) Viggiani | Université Grenoble Alpes         | France      |
 
-: {tbl-colwidths="[50, 70, 20]"}
+: {tbl-colwidths="[50, 70, 20]" .hover}
 
 ## Organizing Committee 
 
@@ -45,7 +45,7 @@ subtitle: "Last Modified: 2023-05-18"
 | Md. Mizanur Rahman    | University of South Australia    | Australia |
 | Yang Xiao             | Chongqing University             | China     |
 
-: {tbl-colwidths="[50, 70, 20]"}
+: {tbl-colwidths="[50, 70, 20]" .hover}
 
 ## Local organizing committee
 
@@ -58,5 +58,5 @@ subtitle: "Last Modified: 2023-05-18"
 | Hamed Khodadadi Tirkolaei | Arizona State University | USA |
 | Claudia Zapata            | Arizona State University | USA |
 
-: {tbl-colwidths="[50, 70, 20]"}
+: {tbl-colwidths="[50, 70, 20]" .hover}
 

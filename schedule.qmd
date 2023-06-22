@@ -26,6 +26,8 @@ total <- parallels * sessions * talks
 
 ##  Monday, May 19, 2025
 
+: {.hover}
+
 | Time  | Event                                                                     |
 | ----- | ------------------------------------------------------------------------- |
 | 8:00  | Registration                                                              |
@@ -56,6 +58,8 @@ total <- parallels * sessions * talks
 \newpage
 
 ##  Tuesday, May 20, 2025
+
+: {.hover}
 
 | Time  | Event                                                                     |
 | ----- | ------------------------------------------------------------------------- |

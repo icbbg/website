@@ -2,7 +2,7 @@
 title: Important Dates
 ---
 
-
+: {.hover}
 
 | Event                        | Date             |
 | :---------------             | ---------------: |
