@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="215.03107mm"
+   height="61.05304mm"
+   viewBox="0 0 215.03105 61.053039"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="icbbg-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.67975163"
+     inkscape:cx="44.86933"
+     inkscape:cy="247.88466"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g5389"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-117.55799,-42.965722)">
+    <g
+       id="g2836"
+       transform="translate(0,0.48259138)">
+      <g
+         id="g2870"
+         transform="translate(0,-0.4952343)">
+        <circle
+           style="font-variation-settings:normal;vector-effect:none;fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="path1007"
+           cx="148.0845"
+           cy="73.504883"
+           r="30.526518" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;fill:#c4996c;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="136.70439"
+           y="96.020226"
+           id="text3116"><tspan
+             sodipodi:role="line"
+             id="tspan3114"
+             style="font-size:50.8px;fill:#c4996c;fill-opacity:1;stroke-width:0.264583"
+             x="136.70439"
+             y="96.020226">B</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;fill:#99bfaa;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="123.992"
+           y="88.776009"
+           id="text3116-3"><tspan
+             sodipodi:role="line"
+             id="tspan3114-6"
+             style="font-size:50.8px;fill:#99bfaa;fill-opacity:1;stroke-width:0.264583"
+             x="123.992"
+             y="88.776009">B</tspan></text>
+        <g
+           id="g5389"
+           transform="translate(0,-4.2970859)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="181.90086"
+             y="100.37685"
+             id="text3116-3-3"><tspan
+               sodipodi:role="line"
+               style="font-weight:bold;font-size:16.9333px;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+               x="181.90086"
+               y="100.37685"
+               id="tspan2056">19-21 May 2025</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:45.1556px;line-height:1.25;font-family:sans-serif;fill:#c4996c;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="179.56923"
+             y="85.086464"
+             id="text3116-7"><tspan
+               sodipodi:role="line"
+               id="tspan3114-5"
+               style="font-weight:bold;font-size:45.1556px;fill:#c4996c;fill-opacity:1;stroke-width:0.264583"
+               x="179.56923"
+               y="85.086464"><tspan
+                 style="font-weight:bold;font-size:45.1556px;fill:#000000;fill-opacity:1"
+                 id="tspan2050">IC</tspan><tspan
+                 style="font-size:45.1556px;fill:#000000"
+                 id="tspan5028">B</tspan><tspan
+                 style="font-weight:bold;font-size:45.1556px;fill:#000000;fill-opacity:1"
+                 id="tspan2046">BG</tspan></tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

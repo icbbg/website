@@ -5,11 +5,11 @@ project:
     port: 2025
 
 website:
-  title: "I-CBBG 2025"
+  # title: "ICBBG 2025"
   favicon: "./img/icbbg.svg"
   navbar:
     background: primary
-    logo: ./img/icbbg.svg
+    logo: ./img/icbbg-logo.svg
     
     right:
       - href: index.qmd
