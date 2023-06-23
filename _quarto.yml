@@ -43,10 +43,13 @@ website:
 format:
   html:
     theme: 
-      - ./src/theme/cbbg.scss
+      - ./assets/theme/cbbg.scss
     css:
-      - ./src/theme/styles.css
+      - ./assets/theme/styles.css
     toc: true
+    email-obfuscation: javascript
+    # include-in-header: 
+    #   - assets/theme/banner.html
 
 execute:
   echo: false
