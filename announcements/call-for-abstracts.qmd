@@ -1,11 +1,58 @@
 ---
 title: "Call for Abstracts"
 date: "2023-10-31"
+published-title: "Due date:"
 ---
 
-::: {.callout-note}
-To be announced
-:::
+We sincerely invite you to submit abstracts to the International Conference on Bio-mediated and Bio-inspired Geotechnics (ICBBG) 2025, scheduled to take place in Temple, Arizona, USA from May 19^th^ to 21^st^, 2023. 
+ICBBG aims to bring together top researchers from around the world to present the state of the art and state of the practice on biogeotechnics, and to facilitate knowledge exchange among researchers, industry, agencies and educators.
+
+We call for submissions to 8 general sessions and 8 special symposia:
+
+```{r} 
+library(kableExtra)
+library(tidyverse)
+
+themes <- tribble(
+  ~"General sessions", ~"Special symposia",
+"Bio-mediated methods for hazard mitigation                        ", "Bio-inspired Tunneling                         ",
+"Bio-mediated methods for environmental protection and restoration ", "Asia experiences on bio-mediated geotechnics   ",
+"Bio-mediated methods for infrastructure construction              ", "Europe experiences on bio-mediated geotechnics ",
+"Bio-inspired methods for infrastructure construction              ", "Biopolymer treated soils                       ",
+"Bio-inspired methods for subsurface exploration and excavation    ", "Delivery strategies for MICP                   ",
+"Fundamental research on biogeotechnics                            ", "MICP for sustainable geoenergy applications    ",
+"Case studies on field applications of biogeotechnics              ", "Fungal treatment of soils                      ",
+"Education and outreach in biogeotechnics                          ", "Build with nature                              ",
+) 
+kbl(themes) %>%
+  column_spec(1, background = "#c4996c") %>%
+  row_spec(0, background = "#747474")
+```
+
+## Procedure for submitting proposals:
+
+Session proposals can be as short as a single page, including the following information: 
+
+* Session Title 
+* Names and contact information of the organizer(s)
+* Abstract (1 paragraph), describing the specific scope, purpose and significance of the session
+* Rough estimate of the anticipated number of presentations
+* List of potential contributors (Optional but highly recommended)
+
+Proposals must be submitted to the email address <icbbg2025@gmail.com>.
+
+Each proposal will be evaluated by the organizing committee.
+
+## Important Dates
+
+April 30, 2023 -- Proposals Due
+
+May 31, 2023 -- Notification of Acceptance 
+
+## Questions?
+
+Please send email to the organizing committee, <icbbg2015@gmail.com>
+
 
 ## Questions?
 

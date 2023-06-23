@@ -1,6 +1,7 @@
 ---
 title: "Call for Session Proposals"
 date: "2023-04-30"
+published-title: "Due date:"
 ---
 
 This is an invitation to submit proposals for sessions in the International Conference on Bio-mediated and Bio-inspired Geotechnics (ICBBG) 2025, to be held May 19-21, 2025 in Tempe, Arizona, USA.
