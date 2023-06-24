@@ -4,7 +4,10 @@ date: "2023-10-31"
 published-title: "Due date:"
 ---
 
-We sincerely invite you to submit abstracts to the International Conference on Bio-mediated and Bio-inspired Geotechnics (ICBBG) 2025, scheduled to take place in Temple, Arizona, USA from May 19^th^ to 21^st^, 2023. 
+
+[Submit an abstract](https://www.issmge.org/publications/review-platform/conferences/icbbg2025/submit-abstract){.btn .btn-primary}
+
+We sincerely invite you to submit abstracts to the International Conference on Bio-mediated and Bio-inspired Geotechnics (ICBBG) 2025, scheduled to take place in Temple, Arizona, USA from May 19 to 21, 2023. 
 ICBBG aims to bring together top researchers from around the world to present the state of the art and state of the practice on biogeotechnics, and to facilitate knowledge exchange among researchers, industry, agencies and educators.
 
 ## Themes
@@ -31,25 +34,38 @@ kbl(themes) %>%
   row_spec(0, background = "#747474")
 ```
 
-## General information
+## Abstract Submission Instructions for Authors
 
-- The Proceedings will be published in Open Access by the International Publisher CRC Press / Balkema and will be sent to indexing services such as Scopus, WoS/Clarivate, EI, and Compendex.
-- Each paper needs the registration of at least one author.
 - Abstracts should have 150 to 250 words.
-- Full papers should not exceed 8 pages.
-- Authors of approved Abstracts should submit the final paper using the available template.
-- The Open Access files will be available in the ISSMGE Online Library. The Authors will be free to upload or share the PDF content anywhere.
-- After review and acceptance of the papers, the first Author of each paper will be asked to sign a "Consent to Publish" which will allow its inclusion in the Proceedings under the specified registration conditions.
+- Abstracts are submitted to the [ISSMGE conference review platform](https://www.issmge.org/publications/review-platform/conferences/icbbg2025/submit-abstract) (deadline: October 31, 2023).
+  - You need to use your free ISSMGE account to login
+  - If you are submitting multiple papers, please use a same account
+- Select a general session or a special symposium (see the above table)
+  - If none of the provided themes fit your paper, please select "General session: Other"
+- Select a presentation type (oral, poster or either)
 
-## Procedure for submission of abstracts and papers to ICBBG2025 and their review process
+## What to Expect after Submission of Abstracts
 
-- Abstracts are submitted to the ISSMGE platform (deadline: October 31, 2023).
-- Members of an International Review Committee analyse and accept (or reject) the abstracts.
-- Abstracts' status may be "pending" in the ISSMGE platform until December 15, 2023 (deadline for abstract notification acceptance).
-- The Authors of accepted abstracts submit their papers using the available template (deadline: May 31, 2024).
-- The Organizing Committee will send each paper for review (deadline for all reviews: July 31, 2024).
-- The Authors will be informed of the result of the review process by August 15, 2024. Authors should submit the revised paper until December 15, 2024. 
+| Expected actions             | By date           |
+|------------------------------|-------------------|
+| Abstract review notification | December 15, 2023 |
+| Full paper submission        | May 31, 2024      |
+| Completion of paper review   | July 31, 2024     |
+| Paper review notifiaction    | August 15, 2024   |
+| Final paper submission       | December 15, 2024 |
+| Conference registration      | March 31, 2025    |
+
+## Publication and Copyright Information
+
+- Authors retain all rights to their articles in the conference proceedings.
+- A copyright agreement form will be provided to authors and must be submitted at the time of acceptance and final submission of revised papers.
+- Accepted papers will be published in a free and open access conference proceedings in the ISSMGE Online Library.
+- Each paper will be indexed with its own individual DOI number and Conference Proceedings, with their own ISSN.
+- Additional indexing options such as Scopus, WoS/Clarivate, EI, and Compendex may be sought.
+- The conference editorial board may invite selected conference papers for special issues of high impact journals.
 
 ## Questions?
 
-Please send email to the organizing committee, <icbbg2015@gmail.com>
+Please send emails to the organizing committee, <icbbg2015@gmail.com>
+
+[Submit an abstract](https://www.issmge.org/publications/review-platform/conferences/icbbg2025/submit-abstract){.btn .btn-primary}
