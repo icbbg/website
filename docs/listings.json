@@ -6,5 +6,13 @@
       "/announcements/call-for-abstracts.html",
       "/announcements/call-for-papers.html"
     ]
+  },
+  {
+    "listing": "/submissions.html",
+    "items": [
+      "/submissions/call-for-sessions.html",
+      "/submissions/call-for-abstracts.html",
+      "/submissions/call-for-papers.html"
+    ]
   }
 ]

@@ -1,5 +1,5 @@
 ---
-title: "Organizing Structure"
+title: "Committees"
 subtitle: "Last Modified: 2023-05-18"
 ---
 
@@ -12,7 +12,7 @@ subtitle: "Last Modified: 2023-05-18"
 
 : {tbl-colwidths="[50, 70, 20]" .hover}
 
-## Steering committee
+## Steering Committee
 
 |                            |                                   |             |
 |----------------------------|-----------------------------------|-------------|
@@ -47,7 +47,7 @@ subtitle: "Last Modified: 2023-05-18"
 
 : {tbl-colwidths="[50, 70, 20]" .hover}
 
-## Local organizing committee
+## Local Organizing Committee
 
 |                           |                          |     |
 |---------------------------|--------------------------|-----|
@@ -60,3 +60,14 @@ subtitle: "Last Modified: 2023-05-18"
 
 : {tbl-colwidths="[50, 70, 20]" .hover}
 
+## Editorial Board
+
+|                  |                                 |             |
+|------------------|---------------------------------|-------------|
+| Julian Tao       | Arizona State University        | USA         |
+| Sheng Dai        | Georgia Institute of Technology | USA         |
+| Leon van Paassen | Boskalis                        | Netherlands |
+| Douglas Cortes   | New Mexico State University     | USA         |
+| Mike Gomez       | University of Washington        | USA         |
+
+: {tbl-colwidths="[50, 70, 20]" .hover}

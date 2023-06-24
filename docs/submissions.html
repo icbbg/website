@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Sponsors</title>
+<title>Call for Submissions</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,6 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="././img/icbbg.svg" rel="icon" type="image/svg+xml">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -65,7 +67,38 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-calls .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-calls'] = new List('listing-calls', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="assets/theme/styles.css">
 </head>
@@ -100,7 +133,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Important Dates</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./submissions.html" rel="" target="">
+    <a class="nav-link active" href="./submissions.html" rel="" target="" aria-current="page">
  <span class="menu-text">Call for Submissions</span></a>
   </li>  
   <li class="nav-item">
@@ -108,7 +141,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Speakers</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./registration.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="./registration.html" rel="" target="">
  <span class="menu-text">Registration</span></a>
   </li>  
   <li class="nav-item">
@@ -138,7 +171,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Sponsors</li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Call for Submissions</li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -183,7 +216,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Sponsors</h1>
+<h1 class="title">Call for Submissions</h1>
 </div>
 
 
@@ -198,42 +231,53 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Note
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>To be announced.</p>
-</div>
-</div>
-<div class="d-none">
-<section id="confirmed" class="level2">
-<h2 class="anchored" data-anchor-id="confirmed">Confirmed</h2>
-<ul>
-<li>NSF</li>
-<li>ISSMGE TC 102 - Ground Property Characterization from In-Situ Tests</li>
-<li>ISSMGE TC 215 – Environmental Geotechnics</li>
-</ul>
-</section>
-<section id="to-be-confirmed" class="level2">
-<h2 class="anchored" data-anchor-id="to-be-confirmed">To be confirmed</h2>
-<ul>
-<li>ISSMGE TC211 – Ground improvement</li>
-<li>Geo-institute</li>
-<li>TRB</li>
-<li>Specialty conference</li>
-</ul>
-</section>
-</div>
 
 
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-table" id="listing-calls">
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+Calls
+</th>
+<th>
+Due Date
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-listing-date-sort="1682838000000" data-listing-file-modified-sort="1687620853709" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="~~Call for Session Proposals~~">
+<td>
+<a href="./submissions/call-for-sessions.html" class="title listing-title"><del>Call for Session Proposals</del></a>
+</td>
+<td>
+<span class="listing-date">Apr 30, 2023</span>
+</td>
+</tr>
+<tr data-index="1" data-listing-date-sort="1698735600000" data-listing-file-modified-sort="1687620404089" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-title-sort="**Call for Abstracts**">
+<td>
+<a href="./submissions/call-for-abstracts.html" class="title listing-title"><strong>Call for Abstracts</strong></a>
+</td>
+<td>
+<span class="listing-date">Oct 31, 2023</span>
+</td>
+</tr>
+<tr data-index="2" data-listing-date-sort="1717138800000" data-listing-file-modified-sort="1687620710996" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="**Call for Full Papers**">
+<td>
+<a href="./submissions/call-for-papers.html" class="title listing-title"><strong>Call for Full Papers</strong></a>
+</td>
+<td>
+<span class="listing-date">May 31, 2024</span>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

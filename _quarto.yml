@@ -14,32 +14,24 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - schedule.qmd
+      - program.qmd
       - importantdates.qmd
-      - committees.qmd
-      - announcements.qmd
+      - submissions.qmd
       - speakers.qmd
-      - venue.qmd
       - registration.qmd 
-      - publication.qmd
       - sponsors.qmd
+      - committees.qmd
+      - venue.qmd
       - about.qmd
 
   sidebar:
     style: "floating"
     search: true
     contents:
-      - index.qmd
-      - schedule.qmd
-      - importantdates.qmd
-      - committees.qmd
-      - announcements.qmd
-      - speakers.qmd
-      - venue.qmd
-      - registration.qmd 
-      - publication.qmd
-      - sponsors.qmd
-      - about.qmd
+      - href: ./submissions/call-for-abstracts.qmd
+        text: Submit an abstract
+      - href: registration.qmd
+        text: Register
 format:
   html:
     theme: 

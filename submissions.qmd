@@ -1,8 +1,8 @@
 ---
-title: Announcements
+title: Call for Submissions
 listing:
-  - id: announcements
-    contents: "announcements/*.qmd"
+  - id: calls
+    contents: "submissions/*.qmd"
     type: table
     sort-ui: false
     sort: date
