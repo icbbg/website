@@ -7,6 +7,7 @@ project:
 website:
   # title: "ICBBG 2025"
   page-footer: "Coyright 2023 @ICBBG"
+  google-analytics: G-12S45SR1D0
   favicon: "./img/icbbg.svg"
   navbar:
     background: primary
