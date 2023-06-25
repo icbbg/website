@@ -6,6 +6,7 @@ project:
 
 website:
   # title: "ICBBG 2025"
+  page-footer: "Coyright 2023 @ICBBG"
   favicon: "./img/icbbg.svg"
   navbar:
     background: primary
