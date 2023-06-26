@@ -42,6 +42,7 @@ kbl(themes) %>%
   - If you are submitting multiple papers, please use a same account
 - Select a general session or a special symposium (see the above table)
   - If none of the provided themes fit your paper, please select "General session: Other"
+  - Note that abstracts submitted to Special Symposia may be later reassigned to General sessions depending on the number of abstracts received for each symposium.
 - Select a presentation type (oral, poster or either)
 
 ## What to Expect after Submission of Abstracts
