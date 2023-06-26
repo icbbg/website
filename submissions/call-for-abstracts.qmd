@@ -67,6 +67,8 @@ kbl(themes) %>%
 
 ## Questions?
 
-Please send emails to the organizing committee, <icbbg2015@gmail.com>
+Please send emails to the organizing committee, <icbbg2025@gmail.com>
+
+To learn more, visit the conference website: <https://www.icbbg2025.com>
 
 [Submit an abstract](https://www.issmge.org/publications/review-platform/conferences/icbbg2025/submit-abstract){.btn .btn-primary}
