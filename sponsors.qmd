@@ -6,13 +6,12 @@ title: Sponsors
 
 ICBBG 2025 is proudly supported by,
 
-* National Science Foundation (NSF)
-* International Society for Soil Mechanics and Geotechnical Engineering (ISSMGE)
-  * TC102 -- Ground Property Characterization from *In-Situ* Tests
-  * TC215 -- Environmental Geotechnics
-  * TC307 -- Sustainability in Geotechnical Engineering
-* Geo-institute, American Society of Civil Engineers 
-
+* [International Society for Soil Mechanics and Geotechnical Engineering](https://www.issmge.org/) (ISSMGE)
+  * [TC102](https://www.issmge.org/committees/technical-committees/fundamentals/in-situ-testing-)-- Ground Property Characterization from *In-Situ* Tests
+  * [TC215](https://www.issmge.org/committees/technical-committees/applications/geo-environmental-)-- Environmental Geotechnics
+  * [TC307](https://www.issmge.org/committees/technical-committees/impact-on-society/sustainability-)-- Sustainability in Geotechnical Engineering
+* [Geo-institute](https://www.geoinstitute.org/), American Society of Civil Engineers 
+* National Science Foundation (NSF), [EEC-1449501](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1449501)
 
 ::: {.d-none}
 
