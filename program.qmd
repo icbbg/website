@@ -63,7 +63,7 @@ kbl(themes) %>%
 | 10:30 | Plenary Session 2                                                         |
 |       | 30 min: Keynote 1: Bio-mediated Geotechnics/Hazard Mitigation             |
 |       | 30 min: Keynote 2: Bio-inspired Geotechnics/Infrastructure                |
-|       | 30 min: Keynote 3: Education and Outreach                                 |
+|       | 30 min: Keynote 3: Industry Perspectives on Biogeotechnics                |
 | 12:00 | lunchbreak                                                                |
 | 13:00 | General Session 1                                                         |
 |       | GS 1a: 6 x 15 min presentations                                           |
