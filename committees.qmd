@@ -65,9 +65,10 @@ subtitle: "Last Modified: 2023-05-18"
 |                  |                                 |             |
 |------------------|---------------------------------|-------------|
 | Julian Tao       | Arizona State University        | USA         |
-| Sheng Dai        | Georgia Institute of Technology | USA         |
-| Leon van Paassen | Boskalis                        | Netherlands |
 | Douglas Cortes   | New Mexico State University     | USA         |
+| Sheng Dai        | Georgia Institute of Technology | USA         |
+| Alejandro Martinez    | University of California, Davis  | USA       |
+| Leon van Paassen | Boskalis                        | Netherlands |
 | Mike Gomez       | University of Washington        | USA         |
 
 : {tbl-colwidths="[50, 70, 20]" .hover}
