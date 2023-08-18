@@ -29,7 +29,7 @@ themes <- tribble(
 "Bio-inspired methods for subsurface exploration and excavation    ", "Delivery strategies for MICP                   ",
 "Fundamental research on biogeotechnics                            ", "MICP for sustainable geoenergy applications    ",
 "Case studies on field applications of biogeotechnics              ", "Fungal treatment of soils                      ",
-"Education and outreach in biogeotechnics                          ", "Build with nature                              ",
+"Education, outreach, diversity, inclusion and equity in biogeotechnics", "Build with nature                              ",
 ) 
 kbl(themes) %>%
   column_spec(1, background = "#c4996c") %>%
