@@ -3,26 +3,29 @@ title: Venue
 ---
 
 
-## Meetings
+## Meeting Venue
 
 [**Memorial Union**](https://eoss.asu.edu/mu) at ASU campus
 
 ![](img/mu.png)
 
-[MU Map](https://eoss.asu.edu/sites/default/files/MU-buildingMap.pdf) 
+[**MU Map**](https://eoss.asu.edu/sites/default/files/MU-buildingMap.pdf) 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3330.210542945529!2d-111.93656502269626!3d33.41775485844431!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b08dca00b4809%3A0x545cd478036b125b!2sMemorial%20Union%2C%20Tempe%2C%20AZ%2085281!5e0!3m2!1sen!2sus!4v1637128793048!5m2!1sen!2sus" width="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-## Lodging
+- Take a virtual tour of the MU: [https://tours.asu.edu/tempe/memorial-union](https://tours.asu.edu/tempe/memorial-union)
+- [Download a map](https://www.asu.edu/map/pdf/asu_map_tempe_current.pdf) (PDF)
 
-[**The Westin Tempe**](https://www.marriott.com/hotels/travel/phxwt-the-westin-tempe/)
+
+## Loading (Rates for 2013, subject to change)
 
 ![](img/westin.png)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13320.034513901817!2d-111.9392877!3d33.4230194!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xec18c74a3000401!2sThe%20Westin%20Tempe!5e0!3m2!1sen!2sus!4v1637128725906!5m2!1sen!2sus" width="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
 
 ::: {.content-visible when-profile="local"}
+[**The Westin Tempe**](https://www.marriott.com/hotels/travel/phxwt-the-westin-tempe/)
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13320.034513901817!2d-111.9392877!3d33.4230194!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xec18c74a3000401!2sThe%20Westin%20Tempe!5e0!3m2!1sen!2sus!4v1637128725906!5m2!1sen!2sus" width="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ::: {.callout-note}
 * Originally planned for: 
@@ -30,6 +33,214 @@ title: Venue
   * Up to 200 in-person; up to 200 online
 * We may need to select an off-campus venue, such as the new Omni hotel
 :::
-
 :::
+
+Most of the hotels listed below are conveniently located within walking distance of the ASU Campus. Call the hotel directly to make your reservation. ASU and government rates may be available for many of them.  
+A list of all ASU Discounts are provided through this link: [Travel Information for ASU Campus Visitors](https://visit.asu.edu/travel)
+
+* **Omni Hotel** Book at [Preferred ASU rate](https://urldefense.com/v3/__https:/www.omnihotels.com/hotels/tempe-asu/corporate-rates/arizona-state-university__;!!IKRxdwAv5BmarQ!YJDw2XLeE27xhlcCH4uxO88a4ubF2vm831cktggASjxtx74mFY8kv76gCBiGQBitsGP9Cf-JXBIrwBW7VYkYzLxtt-FvpvO9$)  
+* **Canopy Hotel**, Book at [Preferred ASU rate](https://www.hilton.com/en/book/reservation/deeplink/?&ctyhocn=PHXTYPY&corporateCode=5236986)
+
+::: {layout="[1,1]"}
+
+::: {}
+**Tempe Mission Palms Hotel** 
+
+* 60 East 5th Street Tempe, AZ 85281 (480) 894-1400 [www.destinationhotels.com/tempe-mission-palms](http://www.destinationhotels.com/tempe-mission-palms)   
+* Check in: 3pm Check out: 12pm  
+* [Preferred ASU Rate](https://www.hyatt.com/en-US/hotel/arizona/tempe-mission-palms/phxdt?corp_id=8176)
+* 5 miles from Sky Harbor Int’l Airport – Located NW side of ASU campus/walking distance to ASU. Airport transportation 5:30am- 10:30pm or parking.
+* Hospitality fee of \$19.95 includes Wi-Fi, fitness center, airport transportation or parking. Full-service hotel restaurant and lounge.
+* 303 guest rooms/suites
+:::
+
+::: {}
+**Sonesta Select Tempe Downtown** 
+
+* 601 South Ash Tempe, AZ 85281 (480) 966-2800 [https://www.sonesta.com](https://www.sonesta.com/sonesta-select/az/tempe/sonesta-select-tempe-downtown/) [/sonesta-](https://www.sonesta.com/sonesta-select/az/tempe/sonesta-select-tempe-downtown/)[select/az/tempe/sonesta-](https://www.sonesta.com/sonesta-select/az/tempe/sonesta-select-tempe-downtown/) [select-tempe-downtown/](https://www.sonesta.com/sonesta-select/az/tempe/sonesta-select-tempe-downtown/) 
+* Check in: 3pm Check out: 12pm
+* 5 miles from Sky Harbor Int’l Airport – Located NW side of ASU campus/walking distance to ASU.
+* Complimentary Wi-Fi, outdoor heated pool, fitness center. Parking \$12 day. Mill Street restaurants nearby.
+* 155 guest rooms 5 suites
+:::
+:::
+
+::: {layout="[1, 1]"}
+::: {}
+**Residence Inn Tempe Downtown/University**
+
+* 510 South Forest Ave. Tempe, AZ 85281 (480) 967-2300 https://www.marriott.co[m/en-s/hotels/phxtd-](https://www.marriott.com/en-us/hotels/phxtd-residence-inn-tempe-downtown-university/overview/) [residence-inn-tempe-](https://www.marriott.com/en-us/hotels/phxtd-residence-inn-tempe-downtown-university/overview/) [downtown-](https://www.marriott.com/en-us/hotels/phxtd-residence-inn-tempe-downtown-university/overview/) [university/overview/](https://www.marriott.com/en-us/hotels/phxtd-residence-inn-tempe-downtown-university/overview/) 
+* Check in: 4pm Check out: 12pm
+* 5 miles from Sky Harbor Int’l Airport-Located NW side of ASU campus/walking distance to ASU.
+* Complimentary Wi-Fi, breakfast, fitness center, business center, outdoor pool. Parking \$15 day.
+* 11 floors, 173 guest suites with kitchenettes
+:::
+
+::: {}
+**MOXY Phoenix Tempe (Marriott)** 
+
+* 1333 S. Rural Road Tempe, AZ 85281 (480) 968-3451 [http://www.marriott.com/hotel](http://www.marriott.com/hotels/travel/phxox-moxy-phoenix-tempe/)[s/travel/phxox-moxy-phoenix-](http://www.marriott.com/hotels/travel/phxox-moxy-phoenix-tempe/) [tempe/](http://www.marriott.com/hotels/travel/phxox-moxy-phoenix-tempe/) 
+* Check in: 4pm Check out: 11am
+* 6.5 miles from Sky Harbor Int’l Airport – Located East side of ASU campus/walking distance to ASU.
+* Complimentary Wi-Fi, outdoor pool, fitness center. On-site restaurant, lounge. Parking \$12 day.
+* 190 guest rooms and suites
+:::
+:::
+
+::: {layout="[1,1]"}
+
+::: {}
+**ALOFT Tempe** 
+
+* 951 East Playa Del Norte Drive Tempe, AZ 85281 (480) 621-3300 [https://www.marriott.com/en](https://www.marriott.com/en-us/hotels/phxal-aloft-tempe/overview/) [\-us/hotels/phxal-aloft-](https://www.marriott.com/en-us/hotels/phxal-aloft-tempe/overview/) [tempe/overview/](https://www.marriott.com/en-us/hotels/phxal-aloft-tempe/overview/) 
+* Check in: 3pm Check out: 12pm
+* 5 miles from Sky Harbor Int’l Airport. 1 mile North of ASU. Complimentary airport shuttle.
+* Complimentary Wi-Fi, outdoor pool, fitness center, lounge, snack bar, parking.
+* 136 guest rooms
+:::
+
+::: {}
+**Hyatt House Tempe** 
+
+* 601 E. 6th Street Tempe, AZ 85281 (480) 207-1578  [https://www.hyatt.com/e](https://www.hyatt.com/en-US/hotel/arizona/hyatt-house-tempe-phoenix-university/phxxt) [n-US/hotel/arizona/hyatt-](https://www.hyatt.com/en-US/hotel/arizona/hyatt-house-tempe-phoenix-university/phxxt) [house-tempe-phoenix-](https://www.hyatt.com/en-US/hotel/arizona/hyatt-house-tempe-phoenix-university/phxxt) [university/phxxt](https://www.hyatt.com/en-US/hotel/arizona/hyatt-house-tempe-phoenix-university/phxxt) 
+* Check in: 4pm Check out: 12pm
+* [Book Your Preferred ASU Rate](https://www.hyatt.com/en-US/hotel/arizona/hyatt-house-tempe-phoenix-university/phxxt?corp_id=38975)
+* 5 miles from Sky Harbor Int’l Airport. Located North side of ASU campus/walking distance to ASU.
+* Complimentary Wi-Fi, breakfast, fitness center, outdoor pool. Restaurant on-site. Parking \$15 day.kj
+* 105 guest rooms/suites	
+:::
+:::
+
+::: {layout="[1,1]"}
+::: {}
+**Graduate Tempe** 
+
+* 225 E. Apache Blvd. Tempe, AZ 85281 (480) 967-9431 [http://graduatetempe.com](http://graduatetempe.com/)   
+* Check in: 4pm Check out: 11am  
+* [Book Your Preferred ASU Rate](https://be.synxis.com/?chain=21643&hotel=77204&promo=ASU)
+* 5 miles from Sky Harbor Int’l Airport. Located across the street from south side of ASU campus/walking distance to ASU.
+* Complimentary Wi-Fi, outdoor pool, fitness center. Restaurant on- site. Parking \$12 day.
+:::
+
+::: {}
+**Canopy by Hilton** 
+
+* 108 E. University Drive Tempe, AZ 85281 1-844-MY-CANOPY [https://www.hilton.com/en/hot](https://www.hilton.com/en/hotels/phxtypy-canopy-tempe-downtown/) [els/phxtypy-canopy-tempe-](https://www.hilton.com/en/hotels/phxtypy-canopy-tempe-downtown/) [downtown/](https://www.hilton.com/en/hotels/phxtypy-canopy-tempe-downtown/)   
+* Check in: 4pm Check out: 12pm  
+* [Book your Preferred ASU Rate](https://visit.asu.edu/travel#:~:text=480%2D968%2D6800-,Book%20your%20Preferred%20ASU%20Rate,-Complimentary%20WI%2DFI)
+* 6 miles from Sky Harbor Int’l Airport. Located NW side of ASU campus/walking distance to ASU.
+* Complimentary Wi-Fi, outdoor pool, fitness center. Restaurant on-site. Valet parking \$23 day.
+* 198 guest rooms/suites
+:::
+:::
+
+
+## City of Tempe
+
+The City of Tempe is located in the southeast of the metropolitan Phoenix in Maricopa County, Arizona. Tempe was recently designated as number 2 among The 50 Best Places to Live in the U.S. by the Money Magazine. Among the criteria for this recognition, its economic opportunities, quality of life, and diversity are noted. Home to Arizona State University, Tempe is known for its active arts and culture scene, relative affordability and myriad employment opportunities in education, finance, health care and tech.
+
+![Marina View of Tempe Town Lake](https://faculty.engineering.asu.edu/frc2023/wp-content/uploads/sites/105/2022/12/Marina-View-Tempe-Town-Lake-1-1500x1000.jpg)
+
+![Tempe Art Sign](https://faculty.engineering.asu.edu/frc2023/wp-content/uploads/sites/105/2022/12/TEMPE-art-sign-3-1500x844.jpg)
+
+![Desert Botanical Garden](https://faculty.engineering.asu.edu/frc2023/wp-content/uploads/sites/105/2023/02/Desert-Botanical-Garden-04-1-1500x1000.jpg)
+
+## Arizona State University
+
+The [School of Sustainable Engineering and the Built Environment](https://ssebe.engineering.asu.edu/) at Arizona State University (ASU) is the event’s host. ASU is currently the nation’s largest public research university impacting our community, region, and world at a scale that has more than 137,000 master learners across five campuses. Arizona State University, ranked No. 1 “Most Innovative School” in the nation by U.S. News & World Report for eight years in succession, has forged the model for a New American University by operating on the principles that learning is a personal and original journey for each student; that they thrive on experience and that the process of discovery cannot be bound by traditional academic disciplines.
+
+The Ira A. Fulton Schools of Engineering within ASU has an interdisciplinary structure consisting of 7 schools with program offerings on 2 campuses and online, fostering cross-campus and global partnerships. The academic programs, enrollments and graduates include a total of 25 undergraduate degree programs; 50+ graduate programs; approximately 27,000 students (~9,000 online, ~18,000 on-campus); and more than 5,100 graduates across all degree levels in during the 2020-2021 academic year.
+
+Visit ASU: [https://visit.asu.edu/travel](https://visit.asu.edu/travel)
+
+![ASU Hayden Library](https://faculty.engineering.asu.edu/frc2023/wp-content/uploads/sites/105/2023/02/hayden-library.jpg){width="800"}
+
+![ASU Old Main Building](https://faculty.engineering.asu.edu/frc2023/wp-content/uploads/sites/105/2022/12/ASU-Tempe-Campus-1500x1000.jpg)
+
+
+## Airport Transfer and Information
+
+![Valley Metro, University / Rural Road / ASU Station](https://faculty.engineering.asu.edu/frc2023/wp-content/uploads/sites/105/2023/02/Valley_Metro_tempe.jpg)
+
+The ASU Campus is conveniently located within a 10-minute drive to the Phoenix Skyharbor Airport using Taxicabs, Uber, or Lyft. Access to the local hotels or ASU Campus is also possible through the free Airport Tram, to the 44th street station.
+
+The Valley Metro light rail ride (\$2.00) to Tempe and ASU Campus (eastbound Train) is about 15 minutes as well. Exit at (university Drive/ Rural Rd. ASU Campus, Get on #10018 and off at 10023)
+
+**ASU Tempe Campus**  
+[1151 S. Forest Ave., Tempe](https://goo.gl/maps/aZcxhnNxD6VySLgV6)
+
+**Connections:**  
+[Route 48 – 48th St](https://www.valleymetro.org/maps-schedules/48)  
+[Route 62 – Hardy Dr](https://www.valleymetro.org/maps-schedules/62)  
+[Route 66 – Mill Ave/Kyrene Rd](https://www.valleymetro.org/maps-schedules/66)  
+[Route 72 – Scottsdale Rd/Rural Rd](https://www.valleymetro.org/maps-schedules/72)  
+[FLASH](https://www.valleymetro.org/maps-schedules/flsh)  
+[Orbit Earth](https://www.valleymetro.org/maps-schedules/eart)   
+[Orbit Jupiter](https://www.valleymetro.org/maps-schedules/jupi)  
+[Orbit Mars](https://www.valleymetro.org/maps-schedules/mars)  
+[Orbit Mercury](https://www.valleymetro.org/maps-schedules/merc)  
+[Orbit Venus](https://www.valleymetro.org/maps-schedules/venu)  
+[Valley Metro Rail](https://www.valleymetro.org/maps-schedules/rail) (University/Rural)
+
+## Things To Do Around Arizona
+
+### Tempe
+
+[Tempe Town Lake (boat rentals)](https://boats4rent.com/tempe-az/tempe-town/)  
+[ASU Art Museum](https://asuartmuseum.org/?_gl=1%2A3uz6c%2A_ga%2AMTQ1MzExMTAzOS4xNjgwMTkxMzA0%2A_ga_TEHJR60KD9%2AMTY4OTE4MjQyMi4xNDAuMS4xNjg5MTgyNDUyLjAuMC4w)  
+[Hike “A” Mountain](https://tours.asu.edu/tempe/a-mountain)  
+[Tempe Center for the Arts](https://www.tempecenterforthearts.com/)
+
+### Phoenix
+
+[Desert Botanical Garden](https://dbg.org/)  
+[Phoenix Zoo](https://www.phoenixzoo.org/)  
+[Hiking Camelback Mountain](https://climbcamelback.com/)  
+[Hiking Piestewa Peak](https://www.phoenix.gov/parks/trails/locations/piestewa-peak/hiking-trail-map)  
+[Musical Instrument Museum (MIM)](https://mim.org/plan-your-visit/)  
+[Heard Museum](https://heard.org/visit/)  
+[Phoenix Art Museum](https://phxart.org/)  
+[Arizona Science Center](https://www.azscience.org/)
+
+### Gilbert
+
+[Hale Theater](https://www.haletheatrearizona.com/Online/default.asp)  
+[Downtown Gilbert](http://www.downtowngilbert.com/)
+
+### Scottsdale
+
+[Butterfly Wonderland](https://butterflywonderland.com/)  
+[The OdySea Aquarium](https://www.odyseaaquarium.com/?utm_source=BW%20website&utm_medium=referral&utm_campaign=attraction%20bar)  
+[REI Co-op Experiences](https://destinations.rei.com/arizona)  
+[Old Town Scottsdale](https://oldtownscottsdaleaz.com/)  
+[Fashion Square Mall](https://www.fashionsquare.com/)
+
+### Mesa
+
+[Salt River Kayaking Trip](https://www.saguarolakeranch.com/activities/kayaking/)  
+[Salt River Tubing](https://www.saltrivertubing.com/river-tubing/)
+
+### Sedona
+
+[Pink Jeep Tours](https://www.pinkadventuretours.com/)  
+[Grand Canyon Railway](https://www.thetrain.com/?gad=1&gclid=Cj0KCQjwnrmlBhDHARIsADJ5b_lCYob2Fv3wC2IokZgCTOmysYbJsO-TEq40lancA77rtHHutIg6azIaAityEALw_wcB)  
+[Segway and Bike Tours](https://visitsedona.com/things-to-do/tours-sightseeing/bike-segway-tours/)  
+[Wine Tours](https://winetoursofsedona.com/)  
+[Horsin’ Around Adventures](https://horsinaroundadventures.com/)
+
+### Grand Canyon
+
+[Gateway to Northern Arizona](https://www.flagstaffarizona.org/things-to-do/outdoors-nature/parks-monuments/)
+
+### Page, AZ
+
+[Horseshoe Bend Rafting](https://grandcanyon.com/tours/east-tours/colorado-river-discovery-rafting/)  
+[Antelope Canyon Tours](https://www.antelopecanyon.com/)  
+[Lake Powell Boat Tours](https://www.canyon-country.com/lakepowell/rbridge.htm)  
+[Antelope Canyon](https://www.visitarizona.com/places/parks-monuments/antelope-canyon/)
+
+### Southern Utah
+
+[Bryce Canyon National Park](https://www.nps.gov/brca/index.htm)  
+[Zion National Park](https://www.utah.com/destinations/national-parks/zion-national-park/)
 
