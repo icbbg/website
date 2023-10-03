@@ -7,7 +7,7 @@ published-title: "Due date:"
 
 [Submit an abstract](https://www.issmge.org/publications/review-platform/conferences/icbbg2025/submit-abstract){.btn .btn-primary}
 
-We sincerely invite you to submit abstracts to the International Conference on Bio-mediated and Bio-inspired Geotechnics (ICBBG) 2025, scheduled to take place in Temple, Arizona, USA from May 19 to 21, 2023. 
+We sincerely invite you to submit abstracts to the International Conference on Bio-mediated and Bio-inspired Geotechnics (ICBBG) 2025, scheduled to take place in Temple, Arizona, USA from May 19 to 21, 2025. 
 ICBBG aims to bring together top researchers from around the world to present the state of the art and state of the practice on biogeotechnics, and to facilitate knowledge exchange among researchers, industry, agencies and educators.
 
 ## Themes
@@ -52,7 +52,7 @@ kbl(themes) %>%
 | Abstract review notification | December 15, 2023 |
 | Full paper submission        | May 31, 2024      |
 | Completion of paper review   | July 31, 2024     |
-| Paper review notifiaction    | August 15, 2024   |
+| Paper review notification    | August 15, 2024   |
 | Final paper submission       | December 15, 2024 |
 | Conference registration      | March 31, 2025    |
 
