@@ -47,6 +47,7 @@ kbl(themes) %>%
 
 ## What to Expect after Submission of Abstracts
 
+::: {.table-striped}
 
 | Expected actions             |                                              Due date |
 |------------------------------|------------------------------------------------------:|
@@ -57,6 +58,8 @@ kbl(themes) %>%
 | Final paper submission       | ~~December 15, 2024~~ [January 31 , 2025]{.highlight} |
 | Conference registration      |                                        March 31, 2025 |
 
+
+:::
 
 ## Publication and Copyright Information
 
