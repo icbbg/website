@@ -1,7 +1,8 @@
 ---
 title: "**Call for Abstracts**"
-date: "2024-03-15"
-published-title: "Due date:"
+date: "2023-11-07"
+published-title: "Last Modified"
+subtitle: "Now Due: 2024-03-15"
 ---
 
 
@@ -37,7 +38,7 @@ kbl(themes) %>%
 ## Abstract Submission Instructions for Authors
 
 - Abstracts should have 150 to 250 words.
-- Abstracts are submitted to the [ISSMGE conference review platform](https://www.issmge.org/publications/review-platform/conferences/icbbg2025/submit-abstract) (deadline: October 31, 2023).
+- Abstracts are submitted to the [ISSMGE conference review platform](https://www.issmge.org/publications/review-platform/conferences/icbbg2025/submit-abstract) (deadline: March 15, 2024).
   - You need to use your free ISSMGE account to login
   - If you are submitting multiple papers, please use a same account
 - Select a general session or a special symposium (see the above table)
