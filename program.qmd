@@ -10,7 +10,7 @@ talks <- 6
 total <- parallels * sessions * talks
 ```
 
-## [At a glance]{.highlight}
+## At a glance
 
 ### Themes
 
