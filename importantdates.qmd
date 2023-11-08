@@ -3,15 +3,16 @@ title: Important Dates
 ---
 
 
-| Event                              | Due                                                     |
+| Event                              | Date                                                     |
 | ---------------------------------- | ------------------------------------------------------: |
 | Session Proposals Due              | April  2023                                             |
 | Abstract Submissions Begin         | June 2023                                               |
-| Abstracts Due                      | ~~October 2023~~ [April 30, 2023]{.highlight}           |
-| Full Paper Invitations Begin       | ~~December 2023~~ [May 31, 2024 ]{.highlight}           |
-| Draft Full Papers due              | ~~May 2024~~ [August 31, 2024]{.highlight}              |
-| Final Full papers due              | ~~December 2024~~ [January 31 , 2025]{.highlight}       |
-| I-CBBG 2025                        | May 18-21, 2025                                         |
+| Abstracts Due                      | ~~October 2023~~ [March 15, 2024]{.highlight}           |
+| Full Paper Invitations Begin       | ~~December 2023~~ [April 15, 2024 ]{.highlight}         |
+| Draft Papers due                   | ~~May 2024~~ [August 31, 2024]{.highlight}              |
+| Review Comments to Authors         | [November 15, 2024]{.highlight}                         |
+| Final Papers due                   | ~~December 2024~~ [January 31 , 2025]{.highlight}       |
+| I-CBBG 2025                        | May 19-21, 2025                                         |
 
 
 
