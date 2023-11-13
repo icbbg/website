@@ -7,11 +7,11 @@ listing:
     sort-ui: false
     sort: date
     filter-ui: false
-    fields: [title, date]
+    fields: [title, subtitle]
     field-links: [title]
     field-display-names:
       title: "Calls"
-      date: "Due Date"
+      subtitle: "Due Date"
 ---
 
 

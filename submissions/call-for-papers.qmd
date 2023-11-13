@@ -1,7 +1,8 @@
 ---
 title: "**Call for Full Papers**"
-date: "2024-08-31"
-published-title: "Due date:"
+date: "2023-11-07"
+published-title: "Last Modified"
+subtitle: "Now Due: 2024-08-31"
 ---
 
 ::: {.callout-note}
