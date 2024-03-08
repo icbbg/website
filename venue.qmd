@@ -139,11 +139,11 @@ A list of all ASU Discounts are provided through this link: [Travel Information 
 
 The City of Tempe is located in the southeast of the metropolitan Phoenix in Maricopa County, Arizona. Tempe was recently designated as number 2 among The 50 Best Places to Live in the U.S. by the Money Magazine. Among the criteria for this recognition, its economic opportunities, quality of life, and diversity are noted. Home to Arizona State University, Tempe is known for its active arts and culture scene, relative affordability and myriad employment opportunities in education, finance, health care and tech.
 
-![Marina View of Tempe Town Lake](https://faculty.engineering.asu.edu/frc2023/wp-content/uploads/sites/105/2022/12/Marina-View-Tempe-Town-Lake-1-1500x1000.jpg)
+![Marina View of Tempe Town Lake](img/marina-view.png) 
 
-![Tempe Art Sign](https://faculty.engineering.asu.edu/frc2023/wp-content/uploads/sites/105/2022/12/TEMPE-art-sign-3-1500x844.jpg)
+![Tempe Art Sign](img/tempe-art.png)
 
-![Desert Botanical Garden](https://faculty.engineering.asu.edu/frc2023/wp-content/uploads/sites/105/2023/02/Desert-Botanical-Garden-04-1-1500x1000.jpg)
+![Desert Botanical Garden](img/desert-botanical-garden.png)
 
 ## Arizona State University
 
@@ -153,14 +153,13 @@ The Ira A. Fulton Schools of Engineering within ASU has an interdisciplinary str
 
 Visit ASU: [https://visit.asu.edu/travel](https://visit.asu.edu/travel)
 
-![ASU Hayden Library](https://faculty.engineering.asu.edu/frc2023/wp-content/uploads/sites/105/2023/02/hayden-library.jpg){width="800"}
+![ASU Hayden Library](img/hayden-lib.png)
 
-![ASU Old Main Building](https://faculty.engineering.asu.edu/frc2023/wp-content/uploads/sites/105/2022/12/ASU-Tempe-Campus-1500x1000.jpg)
-
+![ASU Old Main Building](img/old-main.png)
 
 ## Airport Transfer and Information
 
-![Valley Metro, University / Rural Road / ASU Station](https://faculty.engineering.asu.edu/frc2023/wp-content/uploads/sites/105/2023/02/Valley_Metro_tempe.jpg)
+![Valley Metro, University / Rural Road / ASU Station](img/valley-metro.png)
 
 The ASU Campus is conveniently located within a 10-minute drive to the Phoenix Skyharbor Airport using Taxicabs, Uber, or Lyft. Access to the local hotels or ASU Campus is also possible through the free Airport Tram, to the 44th street station.
 
