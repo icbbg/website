@@ -32,6 +32,8 @@ website:
     contents:
       - href: ./submissions/call-for-abstracts.qmd
         text: Submit an abstract
+      - href: ./submissions/call-for-papers.qmd
+        text: Submit your full paper
       - href: registration.qmd
         text: Register
 format:

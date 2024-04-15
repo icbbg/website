@@ -1,14 +1,49 @@
 ---
 title: "**Call for Full Papers**"
-date: "2023-11-07"
+date: "2024-04-15"
 published-title: "Last Modified"
-subtitle: "Now Due: 2024-08-31"
+subtitle: "Due: 2024-08-31"
 ---
 
-::: {.callout-note}
-To be announced
+[Submit your full paper](https://www.issmge.org/publications/review-platform/conferences/icbbg2025){.btn .btn-primary}
+
+We are glad to share that ICBBG 2025 has accepted over 170 abstracts. Thank you, all the authors! 
+We now invite the authors of the accepted abstracts to submit full papers for peer review.
+
+## Instructions for Submitting Full Papers
+
+- Follow the [Authors Instructions for ICBBG 2025 Proceeding](../resources/ICBBG2025_Proceedings_Author_Instructions.docx) to prepare the full paper
+  - It is mandatory that all submitted papers fall within the range of 6 to 10 pages.
+- Full papers are submitted via the [ISSMGE conference review platform](https://www.issmge.org/publications/review-platform/conferences/icbbg2025/submit-abstract) (deadline: August 31, 2024).
+  - You need to use your free ISSMGE account to login
+  - If you are submitting multiple papers, please use a same account
+
+## What to Expect Next 
+
+::: {.table-striped}
+
+| Actions                     |              Date |
+|-----------------------------|------------------:|
+| Draft Papers due            |   August 31, 2024 |
+| Review Comments to Authors  | November 15, 2024 |
+| Final Papers due            | January 31 , 2025 |
+| Conference Registration Due |    March 31, 2025 |
+
 :::
+
+## Publication and Copyright Information
+
+- Authors retain all rights to their articles in the conference proceedings.
+- A copyright agreement form will be provided to authors and must be submitted at the time of acceptance and final submission of revised papers.
+- Accepted papers will be published in a free and open access conference proceedings in the ISSMGE Online Library.
+- Each paper will be indexed with its own individual DOI number and Conference Proceedings, with their own ISSN.
+- Additional indexing options such as Scopus, WoS/Clarivate, EI, and Compendex will be sought. The selected indexing services will be announced by July 15, 2024.
+- The conference editorial board may invite selected conference papers for special issues of high impact journals.
 
 ## Questions?
 
-Please send email to the organizing committee, <icbbg2015@gmail.com>
+Please send emails to the organizing committee, <icbbg2025@gmail.com>
+
+To learn more, visit the conference website: <https://www.icbbg2025.com>
+
+[Submit your full paper](https://www.issmge.org/publications/review-platform/conferences/icbbg2025){.btn .btn-primary}

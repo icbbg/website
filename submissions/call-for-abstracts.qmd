@@ -1,8 +1,8 @@
 ---
-title: "**Call for Abstracts**"
+title: "~~Call for Abstracts~~"
 date: "2023-11-07"
 published-title: "Last Modified"
-subtitle: "Now Due: 2024-03-15"
+subtitle: "Due: 2024-03-15"
 ---
 
 
