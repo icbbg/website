@@ -7,4 +7,4 @@ sidebar: false
 
 <!-- ![](./img/icbbg-art.png) -->
 
-![](./img/web-2nd-call.png)
+![](./img/web-flyer-3rd.png)
