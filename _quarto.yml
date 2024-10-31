@@ -44,8 +44,8 @@ format:
       - ./assets/theme/styles.css
     toc: true
     email-obfuscation: javascript
-    include-in-header: 
-      - assets/theme/banner.html
+    # include-in-header: 
+    #   - assets/theme/banner.html
     filters: 
       - ./assets/theme/highlight-span.lua
 execute:

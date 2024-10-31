@@ -1,0 +1,42 @@
+---
+title: "Guidelines for Reviewers"
+date: "2024-10-31"
+---
+
+::: {.callout-tip}
+This is a living document; the Q&A section at the end will be updated continuously as new questions arise.
+:::
+
+Thank you for accepting our invitation to serve as a reviewer for ICBBG 2025. 
+
+## Timeline
+
+The suggested timeline for reviews is provided below. Due dates for reviewers are flexible based on when they accept their invitation. However, please finish your review promptly and aim to follow these dates closely, especially with the holiday season approaching, to avoid delays and ensure timely publication in the ISSMGE system.
+
+![Tentative timeline](https://treehole.juliantao.xyz/slides/2024-cbbg-annual-meeting_files/figure-revealjs/timeline-1.png)
+
+## Review Criteria 
+
+Similar to other conference proceeding papers, please consider the following criteria for acceptance:
+
+1. **Relevance** to the conference
+2. **Impact** on the field
+3. **Novelty** of the contribution
+4. **Rigor** of the research
+5. **Presentation** quality and adherence to [guidelines](https://icbbg2025.com/resources/ICBBG2025_Proceedings_Author_Instructions.docx). ***This is essential for final publication, and we rely on reviewers and editors to ensure the final submission is truly camera-ready.***.
+
+Please provide review comments based on the above criteria and make a recommendation accordingly.
+
+## ISSMGE Conference Review Platform
+
+- **Login Information**: Use your existing ISSMGE account for <https://www.issmge.org/publications/review-platform>. For login issues, contact <webmaster@issmge.org>, directly.
+- **Platform Overview**:
+    - After logging in, you’ll see a list of papers under your “Reviewer” role, with their review status.
+    - Clicking a paper directs to the "Summary tab" which contains all related information about the paper. Option is given to download the submitted paper. Upon review request an option is given to either accept or decline the review. 
+    - "Review tab" is available upon review acceptance. It contains a form to fill in the review. Reviewer is able to select between “Accept As Is”, “Accept With Changes” and “Decline”. A text area is provided to submit his/her comments along with an attachment option to submit a supplementary file. Information on how to remove metadata, that will reveal his/her identity, is also provided. Reviewer will also need to recommend whether the paper is suited for Oral, Poster or both. 
+
+For more detailed guidance, please refer to the [CRP User Guide](https://www.issmge.org/user_guides/CRP_FUNCTIONALITY.pdf).
+
+## Q&A
+
+
