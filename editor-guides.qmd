@@ -64,4 +64,9 @@ Thank you for your commitment to ensuring an efficient review process!
 
 ## Q&A
 
+**Q**:  I got the following error when trying to accept the invitation:
+
+![](img/404.png)
+
+**A**: Many editors have reported this issue. There appears to be a bug in the ISSMGE system when accepting editor role invitations. Although you encountered a 404 error, it seems the role acceptance was successful, as we received a confirmation email indicating this. Please kindly log in to <https://www.issmge.org/publications/review-platform> and check if you have papers listed under the "Theme Editor" role. 
 
