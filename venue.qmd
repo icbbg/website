@@ -3,19 +3,15 @@ title: Venue
 ---
 
 
-## Meeting Venue
+## Meetings
 
-[**Memorial Union**](https://eoss.asu.edu/mu) at ASU campus
+[**OMNI Tempe**](https://www.omnihotels.com/hotels/tempe-asu) at ASU 
 
-![](img/mu.png)
+![](img/omni-tempe.png)
 
-[**MU Map**](https://eoss.asu.edu/sites/default/files/MU-buildingMap.pdf) 
+**Location**:
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3330.210542945529!2d-111.93656502269626!3d33.41775485844431!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b08dca00b4809%3A0x545cd478036b125b!2sMemorial%20Union%2C%20Tempe%2C%20AZ%2085281!5e0!3m2!1sen!2sus!4v1637128793048!5m2!1sen!2sus" width="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
-- Take a virtual tour of the MU: [https://tours.asu.edu/tempe/memorial-union](https://tours.asu.edu/tempe/memorial-union)
-- [Download a map](https://www.asu.edu/map/pdf/asu_map_tempe_current.pdf) (PDF)
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3330.0665042212554!2d-111.94229968785068!3d33.42151047329007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b0987215d9acb%3A0xf166d63eda841ec6!2sOmni%20Tempe%20Hotel%20at%20ASU!5e0!3m2!1sen!2sus!4v1730490421522!5m2!1sen!2sus" width=100% height = "400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Loading (Rates for 2013, subject to change)
 
@@ -37,6 +33,10 @@ title: Venue
 
 Most of the hotels listed below are conveniently located within walking distance of the ASU Campus. Call the hotel directly to make your reservation. ASU and government rates may be available for many of them.  
 A list of all ASU Discounts are provided through this link: [Travel Information for ASU Campus Visitors](https://visit.asu.edu/travel)
+
+::: {.callout-important}
+The special block rate for limited rooms at the Omni Hotel will be released soon.
+:::
 
 * **Omni Hotel** Book at [Preferred ASU rate](https://urldefense.com/v3/__https:/www.omnihotels.com/hotels/tempe-asu/corporate-rates/arizona-state-university__;!!IKRxdwAv5BmarQ!YJDw2XLeE27xhlcCH4uxO88a4ubF2vm831cktggASjxtx74mFY8kv76gCBiGQBitsGP9Cf-JXBIrwBW7VYkYzLxtt-FvpvO9$)  
 * **Canopy Hotel**, Book at [Preferred ASU rate](https://www.hilton.com/en/book/reservation/deeplink/?&ctyhocn=PHXTYPY&corporateCode=5236986)
