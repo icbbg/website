@@ -41,7 +41,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-494121dfa8658343c03537e94414993d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-15e772649501b19d54c082ab55fb5b92.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-07309db10c165b8a6a21d2710cfd03c5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -217,6 +217,9 @@ window.Quarto = {
       </button>
     </div>
   </nav>
+  <div id="quarto-announcement" data-announcement-id="224da4f6ca57a1cb593c5091b3d34c34" class="alert alert-danger hidden"><i class="bi bi-info-circle-fill quarto-announcement-icon"></i><div class="quarto-announcement-content">
+<p><strong>Update on Paper Reviews: Expecting Some Delays.</strong> <a href="./review-update.html">Learn More</a></p>
+</div><i class="bi bi-x-lg quarto-announcement-action"></i></div>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
@@ -231,14 +234,8 @@ window.Quarto = {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./submissions/call-for-abstracts.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Submit an abstract</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./submissions/call-for-papers.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Submit your full paper</span></a>
+  <a href="././submissions/call-for-posters.qmd" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Submit a poster</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -294,7 +291,7 @@ Due Date
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-listing-date-sort="1676012400000" data-listing-file-modified-sort="1699848980535" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="421" data-listing-title-sort="~~Call for Session Proposals~~">
+<tr data-index="0" data-listing-date-sort="1676012400000" data-listing-file-modified-sort="1734408809521" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="421" data-listing-title-sort="~~Call for Session Proposals~~">
 <td>
 <a href="./submissions/call-for-sessions.html" class="title listing-title"><del>Call for Session Proposals</del></a>
 </td>
@@ -310,12 +307,20 @@ Due Date
 <span class="listing-subtitle">Due: 2024-03-15</span>
 </td>
 </tr>
-<tr data-index="2" data-listing-date-sort="1724655600000" data-listing-file-modified-sort="1724698409093" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="429" data-listing-title-sort="**Call for Full Papers**">
+<tr data-index="2" data-listing-date-sort="1724655600000" data-listing-file-modified-sort="1724698409000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="429" data-listing-title-sort="**Call for Full Papers**">
 <td>
 <a href="./submissions/call-for-papers.html" class="title listing-title"><strong>Call for Full Papers</strong></a>
 </td>
 <td>
 <span class="listing-subtitle">Now Due: 2024-09-30</span>
+</td>
+</tr>
+<tr data-index="3" data-listing-date-sort="1734332400000" data-listing-file-modified-sort="1734411321131" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="7" data-listing-title-sort="**Call for Posters**">
+<td>
+<a href="./submissions/call-for-poster.html" class="title listing-title"><strong>Call for Posters</strong></a>
+</td>
+<td>
+<span class="listing-subtitle">Now Due: TBD</span>
 </td>
 </tr>
 </tbody>
@@ -406,8 +411,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -518,7 +521,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
@@ -751,7 +753,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>Coyright 2023 <span class="citation" data-cites="ICBBG">@ICBBG</span></p>
+<p>Coyright 2025 <span class="citation" data-cites="ICBBG">@ICBBG</span></p>
 </div>
     <div class="nav-footer-right">
       &nbsp;

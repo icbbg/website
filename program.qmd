@@ -1,10 +1,10 @@
 ---
 title: "Program"
-subtitle: "Last Modified: 2023-02-09"
+subtitle: "Last Modified: 2024-12-16"
 ---
 
 ```{r} 
-parallels <- 5
+parallels <- 6+4/6 
 sessions <- 3
 talks <- 6
 total <- parallels * sessions * talks
@@ -14,7 +14,7 @@ total <- parallels * sessions * talks
 
 ### Themes
 
-8 general sessions and 8 special symposia:
+8 general themes and 8 special symposia:
 
 ```{r} 
 library(kableExtra)
@@ -36,47 +36,39 @@ kbl(themes) %>%
   row_spec(0, background = "#747474")
 ```
 
-* 4 plenary sessions: 
-  * 3 general reports
+* 3 plenary sessions: 
   * 6 keynote lectures
-  * 1 panel discussion
-* `r parallels` general sessions:
+* `r round(parallels)` oral presentation sessions:
   * `r sessions` parallel sessions
-  * `r talks` presentations in each session
+  * `r talks` presentations in each parallel session
   * `r total` presentations in total
 * 1 poster session
 
 
-##  Monday, May 19, 2025
+## Sunday, May 18, 2025
+
+| Time         | Event               |
+|--------------|---------------------|
+| 4:00-7:00pm             | Welcome Reception   |
+
+## Monday, May 19, 2025
 
 : {.hover}
 
-| Time  | Event                                                                     |
-| ----- | ------------------------------------------------------------------------- |
-| 8:00  | Registration                                                              |
-| 8:30  | Plenary Session 1                                                         |
-|       | 10 min: Welcome: Conference Chairs                                        |
-|       | 30 min: General report on Bio-mediated  Geotechnics                       |
-|       | 30 min: General report on Bio-inspired Geotechnics                        |
-|       | 20 min: General report on Education and Outreach                          |
-| 10:00 | coffee break                                                              |
-| 10:30 | Plenary Session 2                                                         |
-|       | 30 min: Keynote 1: Bio-mediated Geotechnics/Hazard Mitigation             |
-|       | 30 min: Keynote 2: Bio-inspired Geotechnics/Infrastructure                |
-|       | 30 min: Keynote 3: Industry Perspectives on Biogeotechnics                |
-| 12:00 | lunchbreak                                                                |
-| 13:00 | General Session 1                                                         |
-|       | GS 1a: 6 x 15 min presentations                                           |
-|       | GS 1b: 6 x 15 min presentations                                           |
-|       | GS 1c: 6 x 15 min presentations                                           |
-| 14:30 | coffee break                                                              |
-| 15:00 | General Session 2                                                         |
-|       | GS 2a: 6 x 15 min presentations                                           |
-|       | GS 2b: 6 x 15 min presentations                                           |
-|       | GS 2c: 6 x 15 min presentations                                           |
-| 16:30 | End of sessions                                                           |
-| 16:45 | Poster Session w/ hors d’oeuvres and cash bar (1 drink ticket per person) |
-| 18:30 | End of day 1                                                              |
+| Time          | Event          | Track 1   | Track 2   | Track 3   |
+|---------------|----------------|-----------|-----------|-----------|
+| 7:45-8:00am   | Opening Remark |           |           |           |
+| 8:00-8:40am   | Keynote 1      |           |           |           |
+| 8:40-8:50am   | 10 min Break   |           |           |           |
+| 8:50-10:20am  |                | Session 1 | Session 2 | Session 3 |
+| 10:20-10:40am | 20 min Break   |           |           |           |
+| 10:40-12:10pm |                | Session 4 | Session 5 | Session 6 |
+| 12:10-1:10pm  | Lunch Break    |           |           |           |
+| 1:10-1:50pm   | Keynote 2      |           |           |           |
+| 1:50-2:50pm   | Poster Session |           |           |           |
+| 2:50-4:20pm   |                | Session 7 | Session 8 | Session 9 |
+| 4:20-4:50pm   | 30 min Break   |           |           |           |
+| 4:50-5:30pm   | Keynote 3      |           |           |           |
 
 \newpage
 
@@ -84,33 +76,22 @@ kbl(themes) %>%
 
 : {.hover}
 
-| Time  | Event                                                                     |
-| ----- | ------------------------------------------------------------------------- |
-| 8:00  | Registration                                                              |
-| 8:30  | Plenary Session 3                                                         |
-|       | Keynote 4: Bio-mediated Geotechnics/Environmental                         |
-|       | Keynote 5: Bio-inspired Geotechnics/Probes and Tunneling                  |
-|       | Keynote 6: Bio-mediated Geotechnics/Infrastructure                        |
-| 10:00 | coffee break                                                              |
-| 10:30 | General Session 3                                                         |
-|       | GS 3a: 6 x 15 min presentations                                           |
-|       | GS 3b: 6 x 15 min presentations                                           |
-|       | GS 3c: 6 x 15 min presentations                                           |
-| 12:00 | lunchbreak                                                                |
-| 13:00 | General Session 4                                                         |
-|       | GS 4a: 6 x 15 min presentations                                           |
-|       | GS 4b: 6 x 15 min presentations                                           |
-|       | GS 4c: 6 x 15 min presentations                                           |
-| 14:30 | coffee break                                                              |
-| 15:00 | General Session 5                                                         |
-|       | GS 5a: 6 x 15 min presentations                                           |
-|       | GS 5b: 6 x 15 min presentations                                           |
-|       | GS 5c: 6 x 15 min presentations                                           |
-| 16:30 | End of sessions                                                           |
-| 16:45 | Plenary Session 4: Panel discussion: Future directions for biogeotechnics |
-| 17:45 | Closing Remarks: Conference Chairs                                        |
-| 18:00 | Banquet and award ceremony                                                |
-
+| Time          | Event           | Track 1    | Track 2    | Track 3    |
+|---------------|-----------------|------------|------------|------------|
+| 8:00-8:40am   | Keynote 4       |            |            |            |
+| 8:40-8:50am   | 10 min Break    |            |            |            |
+| 8:50-10:20am  |                 | Session 10 | Session 11 | Session 12 |
+| 10:20-10:40am | 20 min Break    |            |            |            |
+| 10:40-12:10am |                 | Session 13 | Session 14 | Session 15 |
+| 12:10-1:10am  | Lunch Break     |            |            |            |
+| 1:10-1:50pm   | Keynote 5       |            |            |            |
+| 1:50-2:00pm   | 10 min Break    |            |            |            |
+| 1:50-3:20pm   |                 | Session 16 | Session 17 | Session 18 |
+| 3:20-3:50pm   | 30 min Break    |            |            |            |
+| 3:50-4:50pm   |                 | Session 19 | Session 20 | Session 21 |
+| 4:50-5:30pm   | Keynote 6       |            |            |            |
+| 5:30-5:45pm   | Closing Remarks |            |            |            |
+| 6:00-9:00pm   | Banquet         |            |            |            |
 
 ::: {.content-visible when-profile="local"}
 

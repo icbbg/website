@@ -6,7 +6,7 @@ project:
 
 website:
   # title: "ICBBG 2025"
-  page-footer: "Coyright 2023 @ICBBG"
+  page-footer: "Coyright 2025 @ICBBG"
   google-analytics: G-12S45SR1D0
   favicon: "./img/icbbg.svg"
   navbar:
@@ -30,12 +30,16 @@ website:
     style: "floating"
     search: true
     contents:
-      - href: ./submissions/call-for-abstracts.qmd
-        text: Submit an abstract
-      - href: ./submissions/call-for-papers.qmd
-        text: Submit your full paper
+      - href: ./submissions/call-for-posters.qmd
+        text: Submit a poster
       - href: registration.qmd
         text: Register
+  announcement:
+    icon: info-circle-fill
+    dismissable: true
+    content: "**Update on Paper Reviews: Expecting Some Delays.** [Learn More](./review-update.qmd)"
+    type: danger
+    position: below-navbar
 format:
   html:
     theme: 

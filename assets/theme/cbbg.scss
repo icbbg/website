@@ -1,18 +1,18 @@
 /*--scss:defaults --*/
-$yellow:  #ffc627 !default;
-$red:     #8c1d40 !default;
-$orange:  #ff7f32 !default;
-$blue:    #00a3e0 !default;
-$green:   #78be20 !default;
-$grey:    #747474 !default;
-$cgreen:  #99bfaa !default;
-$cbrown:  #c4996c !default;
+$yellow: #ffc627 !default;
+$red: #8c1d40 !default;
+$orange: #ff7f32 !default;
+$blue: #00a3e0 !default;
+$green: #78be20 !default;
+$grey: #747474 !default;
+$cgreen: #99bfaa !default;
+$cbrown: #c4996c !default;
 
-$primary: $cgreen !default; 
+$primary: $cgreen !default;
 $secondary: $cbrown !default;
 $navbar-default-link-color: $cbrown !default;
-$navbar-light-active-color:  $cbrown !default;
-$link-color: $cbrown !default;
+$navbar-light-active-color: $cbrown !default;
+$link-color: $red !default;
 
 /*--scss:rules --*/
 
@@ -23,7 +23,8 @@ table {
   border: 0px;
 }
 
-table td, table th {
+table td,
+table th {
   // color: darkgrey;
   border: 1px;
   // font-size: 11pt;
@@ -41,8 +42,7 @@ table td, table th {
   font-weight: bold;
 }
 
-.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+.table-hover tbody tr:hover td,
+.table-hover tbody tr:hover th {
   background-color: $secondary;
 }
-
-

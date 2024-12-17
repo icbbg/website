@@ -3,7 +3,7 @@ title: Registration
 ---
 
 ::: {.callout-note}
-To be announced.
+Coming soon!
 :::
 
 ::: {.d-none}
