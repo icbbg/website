@@ -24,17 +24,17 @@ The conference seeks to present the state of the art in the field of Bio-mediate
 
 ::: {layout="[[1,1,1], [1,1,1]]" .center}
 
-![Jian Chu <br/> Nanyang Technological University, Singapore](img/chu.svg){.rounded-circle}
+![**Jian Chu** <br/> Nanyang Technological University, Singapore](img/chu.svg){.rounded-circle}
 
-![Alejandro Martinez <br/> University of California, Davis](./img/martinez.svg){.rounded-circle}
+![**Anca Delgado** <br/> Arizona State University](./img/delgado.svg){.rounded-circle}
 
-![Annette Esnault Filet <br/> Soletanche Bachy International Inc.](./img/esnault-filet.svg){.rounded-circle}
+![**Annette Esnault Filet** <br/> Soletanche Bachy International Inc.](./img/esnault-filet.svg){.rounded-circle}
 
-![Anca Delgado <br/> Arizona State University](./img/delgado.svg){.rounded-circle}
+![**Jonathan Knappett** <br/> University of Dundee, Scotland](./img/knappett.svg){.rounded-circle}
 
-![Jonathan Knappett <br/> University of Dundee, Scotland](./img/knappett.svg){.rounded-circle}
+![**Alejandro Martinez** <br/> University of California, Davis](./img/martinez.svg){.rounded-circle}
 
-![Brina Montoya <br/> North Carolina State University](./img/montoya.svg){.rounded-circle}
+![**Brina Montoya** <br/> North Carolina State University](./img/montoya.svg){.rounded-circle}
 :::
 
 ## Session Topics [➡️](./program.qmd){.btn}
