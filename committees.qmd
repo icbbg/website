@@ -1,13 +1,13 @@
 ---
 title: "Committees"
-subtitle: "Last Modified: 2023-05-18"
+subtitle: "Last Modified: 2024-12-18" 
 ---
 
 ## Conference Chairs
 
 |                |                                 |         |
 |----------------|---------------------------------|---------|
-| Ed Kavazanjian | Arizona State University        | USA     |
+| Edward Kavazanjian | Arizona State University        | USA     |
 | Susan Burns    | Georgia Institute of Technology | USA     |
 
 : {tbl-colwidths="[50, 70, 20]" .hover}
@@ -49,16 +49,17 @@ subtitle: "Last Modified: 2023-05-18"
 
 ## Local Organizing Committee
 
-|                           |                          |     |
-|---------------------------|--------------------------|-----|
-| Jean Larson               | Arizona State University | USA |
-| Nariman Mahabadi          | Arizona State University | USA |
-| Emmanuel Salifu           | Arizona State University | USA |
-| Jong Seto                 | Arizona State University | USA |
-| Hamed Khodadadi Tirkolaei | Arizona State University | USA |
-| Claudia Zapata            | Arizona State University | USA |
+|                           |                          |                              |
+|---------------------------|--------------------------|------------------------------|
+| Claudia Zapata            | Arizona State University | Professor                    |
+| Hamed Khodadadi Tirkolaei | Arizona State University | Assistant Professor          |
+| Emmanuel Salifu           | Arizona State University | Assistant Professor          |
+| Nariman Mahabadi          | Arizona State University | Assistant Professor          |
+| Jean Larson               | Arizona State University | Research Associate Professor |
+| Dawn Takeuchi             | Arizona State University | Staff                        |
+| Emma Buchanan             | Arizona State University | Staff                        |
 
-: {tbl-colwidths="[50, 70, 20]" .hover}
+: {tbl-colwidths="[50, 50, 40]" .hover}
 
 ## Editorial Board
 

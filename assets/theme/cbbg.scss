@@ -46,3 +46,32 @@ table th {
 .table-hover tbody tr:hover th {
   background-color: $secondary;
 }
+
+.center {
+  text-align: center;
+}
+
+.drop-cap::first-letter {
+  font-size: 3em;
+  /* Larger size for the drop cap */
+  color: #c4996c;
+  /* Special color */
+  font-weight: bold;
+  /* Optional: Make it bold */
+  float: left;
+  /* Float the letter to the left of the text */
+  line-height: 1;
+  /* Adjust line height to align the drop cap */
+  margin-right: 0.1em;
+  /* Add some space between the letter and text */
+}
+
+/* Larger Font Text */
+.large {
+  font-size: 1.2em;
+}
+
+.fading {
+  font-size: .9rem;
+  color: #5a6570;
+}

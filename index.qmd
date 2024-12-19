@@ -1,10 +1,82 @@
 ---
 title: "Welcome"
-subtitle: The 2025 International Conference on Bio-mediated and Bio-inspired Geotechnics
+subtitle: "**The 1^st^ International Conference on Bio-mediated and Bio-inspired Geotechnics** <br/> May 18--20, 2025, Arizona State University <br/>Tempe, Arizona"
 toc: false
 sidebar: false
+# include CSS style for title blocks
+title-block-banner: "#00000000"
+title-block-banner-color: "rgba(255, 255, 255, 0.9)"
+css: ./assets/theme/title-block.css
 ---
 
-<!-- ![](./img/icbbg-art.png) -->
+<!-- ![](img/banner.svg) -->
 
-![](./img/web-flyer-3rd.png)
+[Submit](./submissions.qmd){.btn .btn-primary .large}
+[Register](./registration.qmd){.btn .btn-secondary .large}
+[Contact](mailto:icbbg2025@gmail.com){.btn .btn-primary .large}
+
+::: {.drop-cap}
+The conference seeks to present the state of the art in the field of Bio-mediated and Bio-inspired Geotechnics (BioGeotechnics), promote co-operation and exchange of information about the emerging field of bio-geotechnics; develop and promote improved modeling of bio-mediated and bio-inspired processes; translate fundamental bio-inspired knowledge into enabling technologies with future commercialization potential; and facilitate the adoption of bio-mediated and bio-inspired solutions into geotechnical engineering practice.
+:::
+
+## Featured Speakers [➡️](./speakers.qmd){.btn}
+
+::: {layout="[[1,1,1], [1,1,1]]" .center}
+
+![Jian Chu <br/> Nanyang Technological University, Singapore](img/chu.svg){.rounded-circle}
+
+![Alejandro Martinez <br/> University of California, Davis](./img/martinez.svg){.rounded-circle}
+
+![Annette Esnault Filet <br/> Soletanche Bachy International Inc.](./img/esnault-filet.svg){.rounded-circle}
+
+![Anca Delgado <br/> Arizona State University](./img/delgado.svg){.rounded-circle}
+
+![Jonathan Knappett <br/> University of Dundee, Scotland](./img/knappett.svg){.rounded-circle}
+
+![Brina Montoya <br/> North Carolina State University](./img/montoya.svg){.rounded-circle}
+:::
+
+## Session Topics [➡️](./program.qmd){.btn}
+
+::: {layout="[1,1]"}
+
+#### General Sessions
+- Bio-mediated methods for hazard mitigation
+- Bio-mediated methods for environmental protection and restoration
+- Bio-mediated methods for infrastructure construction
+- Bio-inspired methods for infrastructure construction
+- Bio-inspired methods for subsurface exploration and excavation
+- Fundamental research on biogeotechnics
+- Case studies on field applications of biogeotechnics
+
+::: {}
+
+#### Special Symposia
+- Bio-inspired Tunneling
+- Asia experiences on bio-mediated geotechnics
+- Europe experiences on bio-mediated geotechnics
+- Biopolymer treated soils
+- Delivery strategies for MICP
+- MICP for sustainable geoenergy applications
+- Fungal treatment of soils
+- Build with nature
+- Education, outreach, diversity, inclusion, and equity in engineering
+:::
+:::
+
+## Organizing Chairs [➡️](./committees.qmd){.btn}
+
+::: {layout="[1, 1, 1]" .center}
+
+![**Edward Kavazanjian** <br/> Arizona State University](img/edk.png){.rounded-circle}
+
+![**Susan Burns** <br/> Georgia Institute of Technology ](img/susan.png){.rounded-circle}
+:::
+
+## Venue [➡️](./venue.qmd){.btn}
+
+![Arizona State Universit](./img/ASU-campus.jpg)
+
+## Sponsors [➡️](./sponsors.qmd){.btn}
+
+![](./img/sponsors.svg)
