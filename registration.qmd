@@ -2,47 +2,45 @@
 title: Registration
 ---
 
-::: {.callout-note}
-Coming soon!
-:::
+## Categories and Rates
 
-::: {.d-none}
+[Register Now](https://na.eventscloud.com/icbbg2025){.btn .btn-primary .large}
 
-## Basic remote registration
-
-* Abstract
-* Oral/poster presentation  
-* Paper in peer-reviewed proceedings (or journal special issue)
-* Link to zoom access to video conference 
-* Proceedings
-
-## In person attendance includes 
-
-* All of above
-* 4 coffee breaks 
-* 1 x ice breaker
-* 2 x lunch
-* 1 x conference dinner
-
-## Extra activities
-
-* In person short courses, include lunch and coffee breaks)
-* Excursion (Frank Loyd Wright)
-* (Engineering) Geology excursion (2 days, including 1 overnight stay in Flagstaff) 
-* Golf clinic with Ed 
-
-::: {.content-visible when-profile="local"}
-
-::: {.callout-note}
-* Do we still need the virtual option?
-
-* We need a platform for registration
-
-* Do we still need the extra activities?
+| Category        | Prior to 03/15/2025 | Full Price till 05/04/2025 |
+|-----------------|---------------------|----------------------------|
+| General         | $750                | $850                       |
+| Student         | $400                | $400                       |
+| Guest/Companion | $250                | $250                       |
 
 
-:::
-:::
+## Terms and Conditions for Conference Registration
 
+- **Registration Includes:**
 
-:::
+    - **Full Registration:** Reception on May 18th, banquet on May 20th, lunch and coffee breaks on May 19th and 20th, and access to all technical programs.
+    - **Guest/Companion Registration:** Reception on May 18th and banquet on May 20th.
+    - **Payment Deadline:** Payments must be received and processed by **May 4rd**; unpaid registrations will be canceled.
+
+- **Paper Submission:**
+
+    - At least one author of an accepted paper must complete a **full registration** for the paper to be included in the program and proceedings.
+    - A maximum of **two papers** can be associated with a single registration.
+
+- **No-shows:**
+
+    - Registrants who do not attend the conference and fail to cancel in advance will not receive a refund.
+
+- **Data Protection:**
+
+    - Personal information collected during registration will only be used for conference-related purposes and will not be shared without consent.
+
+By completing the registration process, you agree to these terms and conditions. For inquiries, please contact [icbbg2025@gmail.com](mailto:icbbg2025@gmail.com).
+
+## Cancellation Policy
+
+- **Cancellation Deadline:** All cancellation requests must be submitted in writing by **April 18th**.
+- **Refunds:** Refunds are subject to 50% of the registration fee.
+
+For questions or to request a cancellation, please contact us at [icbbg2025@gmail.com](mailto:icbbg2025@gmail.com).
+
+[Register Now](https://na.eventscloud.com/icbbg2025){.btn .btn-primary .large}

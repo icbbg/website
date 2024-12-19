@@ -12,9 +12,15 @@ total <- parallels * sessions * talks
 
 ## At a glance
 
-### Themes
-
-8 general themes and 8 special symposia:
+* 8 general themes
+* 8 special symposia
+* 7 plenary sessions: 
+  * 6 keynote lectures
+  * 1 poster session
+* `r round(parallels)` oral presentation sessions:
+  * `r sessions` parallel sessions
+  * `r talks` presentations in each parallel session
+  * `r total` presentations in total
 
 ```{r} 
 library(kableExtra)
@@ -36,22 +42,16 @@ kbl(themes) %>%
   row_spec(0, background = "#747474")
 ```
 
-* 3 plenary sessions: 
-  * 6 keynote lectures
-* `r round(parallels)` oral presentation sessions:
-  * `r sessions` parallel sessions
-  * `r talks` presentations in each parallel session
-  * `r total` presentations in total
-* 1 poster session
-
 
 ## Sunday, May 18, 2025
 
-| Time         | Event               |
-|--------------|---------------------|
-| 4:00-7:00pm             | Welcome Reception   |
+| Time        | Event                                                                                               |
+|-------------|-----------------------------------------------------------------------------------------------------|
+| 4:00-7:00pm | Welcome Reception at [**Paul C. Helmick Center (HLMK)**](https://maps.app.goo.gl/UAZTpkQkEPtLqvf86) |
 
 ## Monday, May 19, 2025
+
+Meetings at [**Memorial Union**](https://eoss.asu.edu/mu)
 
 : {.hover}
 
@@ -76,22 +76,22 @@ kbl(themes) %>%
 
 : {.hover}
 
-| Time          | Event           | Track 1    | Track 2    | Track 3    |
-|---------------|-----------------|------------|------------|------------|
-| 8:00-8:40am   | Keynote 4       |            |            |            |
-| 8:40-8:50am   | 10 min Break    |            |            |            |
-| 8:50-10:20am  |                 | Session 10 | Session 11 | Session 12 |
-| 10:20-10:40am | 20 min Break    |            |            |            |
-| 10:40-12:10am |                 | Session 13 | Session 14 | Session 15 |
-| 12:10-1:10am  | Lunch Break     |            |            |            |
-| 1:10-1:50pm   | Keynote 5       |            |            |            |
-| 1:50-2:00pm   | 10 min Break    |            |            |            |
-| 1:50-3:20pm   |                 | Session 16 | Session 17 | Session 18 |
-| 3:20-3:50pm   | 30 min Break    |            |            |            |
-| 3:50-4:50pm   |                 | Session 19 | Session 20 | Session 21 |
-| 4:50-5:30pm   | Keynote 6       |            |            |            |
-| 5:30-5:45pm   | Closing Remarks |            |            |            |
-| 6:00-9:00pm   | Banquet         |            |            |            |
+| Time          | Event                                                              | Track 1    | Track 2    | Track 3    |
+|---------------|--------------------------------------------------------------------|------------|------------|------------|
+| 8:00-8:40am   | Keynote 4                                                          |            |            |            |
+| 8:40-8:50am   | 10 min Break                                                       |            |            |            |
+| 8:50-10:20am  |                                                                    | Session 10 | Session 11 | Session 12 |
+| 10:20-10:40am | 20 min Break                                                       |            |            |            |
+| 10:40-12:10am |                                                                    | Session 13 | Session 14 | Session 15 |
+| 12:10-1:10am  | Lunch Break                                                        |            |            |            |
+| 1:10-1:50pm   | Keynote 5                                                          |            |            |            |
+| 1:50-2:00pm   | 10 min Break                                                       |            |            |            |
+| 1:50-3:20pm   |                                                                    | Session 16 | Session 17 | Session 18 |
+| 3:20-3:50pm   | 30 min Break                                                       |            |            |            |
+| 3:50-4:50pm   |                                                                    | Session 19 | Session 20 | Session 21 |
+| 4:50-5:30pm   | Keynote 6                                                          |            |            |            |
+| 5:30-5:45pm   | Closing Remarks                                                    |            |            |            |
+| 6:00-9:00pm   | Banquet at [**Rustler's Rooste**](https://www.rustlersrooste.com/) |            |            |            |
 
 ::: {.content-visible when-profile="local"}
 

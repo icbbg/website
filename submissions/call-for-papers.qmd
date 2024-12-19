@@ -1,8 +1,8 @@
 ---
-title: "**Call for Full Papers**"
-date: "2024-08-26"
+title: "Call for Full Papers"
+date: "2024-10-15"
 published-title: "Last Modified"
-subtitle: "Now Due: 2024-09-30"
+subtitle: "Submission is closed"
 ---
 
 [Submit your full paper](https://www.issmge.org/publications/review-platform/conferences/icbbg2025){.btn .btn-primary}
@@ -22,12 +22,12 @@ We now invite the authors of the accepted abstracts to submit full papers for pe
 
 ::: {.table-striped}
 
-| Actions                     |                                   Date |
-|-----------------------------|---------------------------------------:|
-| Draft Papers due            | ~~August 31, 2024~~ September 30, 2024 |
-| Review Comments to Authors  |                      November 15, 2024 |
-| Final Papers due            |                      January 31 , 2025 |
-| Conference Registration Due |                         March 31, 2025 |
+| Actions                    |                                             Date |
+|----------------------------|-------------------------------------------------:|
+| Draft Papers due           |           ~~August 31, 2024~~ September 30, 2024 |
+| Review Comments to Authors | [[**Update**]{.highlight}](../review-update.qmd) |
+| Final Papers due           | [One month after receiving comments]{.highlight} |
+| I-CBBG 2025                |                                  May 18-20, 2025 |
 
 :::
 

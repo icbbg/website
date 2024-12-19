@@ -10,35 +10,12 @@ ICBBG 2025 is proudly supported by,
   * [TC102](https://www.issmge.org/committees/technical-committees/fundamentals/in-situ-testing-)-- Ground Property Characterization from *In-Situ* Tests
   * [TC215](https://www.issmge.org/committees/technical-committees/applications/geo-environmental-)-- Environmental Geotechnics
   * [TC307](https://www.issmge.org/committees/technical-committees/impact-on-society/sustainability-)-- Sustainability in Geotechnical Engineering
-* [Geo-institute](https://www.geoinstitute.org/), American Society of Civil Engineers 
+* [Geo-institute](https://www.geoinstitute.org/), American Society of Civil Engineers
+* Geo-institute Graduate Student Organization at Arizona Student University
 * National Science Foundation Engineering Research Center for Bio-mediated and Bio-inspired Geotechnics, [EEC-1449501](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1449501)
+* Arizona State University
+* Georgia Institute of Technology
+* New Mexico State University
+* University of California, Davis
 
-<br/>
-
-::: {layout="[1, -0.1, 1.3, 2]"}
-![](./img/ISSMGE.svg)
-
-![](./img/GEO_right_color.png)
-
-![](img/CBBG-logo.png)
-:::
-
-
-::: {.d-none}
-
-## Confirmed
-
-* National Science Foundation (NSF)
-* International Society for Soil Mechanics and Geotechnical Engineering (ISSMGE)
-  * TC 102 -- Ground Property Characterization from *In-Situ* Tests
-  * TC 215 -- Environmental Geotechnics
-  * TC307 -- Sustainability in Geotechnical Engineering
-
-## To be confirmed
-
-* ISSMGE TC211 – Ground improvement 
-* Geo-institute
-* TRB
-* Specialty conference
-
-:::
+![](./img/sponsors.svg)

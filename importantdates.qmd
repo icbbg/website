@@ -1,6 +1,6 @@
 ---
 title: Important Dates
-subtitle: "Last Modified: 2024-08-26"
+subtitle: "Last Modified: 2024-12-18"
 ---
 
 
@@ -13,7 +13,7 @@ subtitle: "Last Modified: 2024-08-26"
 | Draft Papers due                   | ~~August 2024~~ [September 30, 2024]{.highlight}              |
 | Review Comments to Authors         | [[**Update**]{.highlight}](./review-update.qmd)
 | Final Papers due                   | [One month after receiving comments]{.highlight}       |
-| I-CBBG 2025                        | May 19-21, 2025                                         |
+| I-CBBG 2025                        | May 18-20, 2025                                         |
 
 
 

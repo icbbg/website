@@ -2,7 +2,11 @@
 title: "About"
 ---
 
+![](./img/icbbg2025-banner.svg)
+
+::: {.drop-cap}
 The conference seeks to present the state of the art in the field of Bio-mediated and Bio-inspired Geotechnics (BioGeotechnics), promote co-operation and exchange of information about the emerging field of bio-geotechnics; develop and promote improved modeling of bio-mediated and bio-inspired processes; translate fundamental bio-inspired knowledge into enabling technologies with future commercialization potential; and facilitate the adoption of bio-mediated and bio-inspired solutions into geotechnical engineering practice.
+:::
 
 ## Conference objectives
 
@@ -15,5 +19,3 @@ The conference seeks to present the state of the art in the field of Bio-mediate
   * educators
 
 * Initiate development of an international research network
-
-* Provide workshops and short courses

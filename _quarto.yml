@@ -37,7 +37,7 @@ website:
   announcement:
     icon: info-circle-fill
     dismissable: true
-    content: "**Update on Paper Reviews: Expecting Some Delays.** [Learn More](./review-update.qmd)"
+    content: "**Update on Paper Reviews: Expecting Some Delays.** [Learn More](/review-update.qmd)"
     type: danger
     position: below-navbar
 format:

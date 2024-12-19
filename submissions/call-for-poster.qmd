@@ -1,5 +1,5 @@
 ---
-title: "**Call for Posters**"
+title: "Call for Posters"
 date: "2024-12-16"
 published-title: "Last Modified"
 subtitle: "Now Due: TBD"

@@ -49,15 +49,15 @@ subtitle: "Last Modified: 2024-12-18"
 
 ## Local Organizing Committee
 
-|                           |                          |                              |
-|---------------------------|--------------------------|------------------------------|
-| Claudia Zapata            | Arizona State University | Professor                    |
-| Hamed Khodadadi Tirkolaei | Arizona State University | Assistant Professor          |
-| Emmanuel Salifu           | Arizona State University | Assistant Professor          |
-| Nariman Mahabadi          | Arizona State University | Assistant Professor          |
-| Jean Larson               | Arizona State University | Research Associate Professor |
-| Dawn Takeuchi             | Arizona State University | Staff                        |
-| Emma Buchanan             | Arizona State University | Staff                        |
+|                           |                          |                                 |
+|---------------------------|--------------------------|---------------------------------|
+| Claudia Zapata            | Arizona State University | Professor                       |
+| Hamed Khodadadi Tirkolaei | Arizona State University | Assistant Professor             |
+| Emmanuel Salifu           | Arizona State University | Assistant Professor             |
+| Nariman Mahabadi          | Arizona State University | Assistant Professor             |
+| Jean Larson               | Arizona State University | Research Associate Professor    |
+| Dawn Takeuchi             | Arizona State University | Administrative Director of CBBG |
+| Emma Buchanan             | Arizona State University | Project Coordinator of CBBG     |
 
 : {tbl-colwidths="[50, 50, 40]" .hover}
 

@@ -1,6 +1,6 @@
 ---
-title: "Welcome"
-subtitle: "**The 1^st^ International Conference on Bio-mediated and Bio-inspired Geotechnics** <br/> May 18--20, 2025, Arizona State University <br/>Tempe, Arizona"
+title: "2025 International Conference on Bio-mediated and Bio-inspired Geotechnics (ICBBG)"
+subtitle: "**May 18--20, 2025 <br/> Arizona State University <br/>Tempe, Arizona**"
 toc: false
 sidebar: false
 # include CSS style for title blocks
@@ -73,10 +73,14 @@ The conference seeks to present the state of the art in the field of Bio-mediate
 ![**Susan Burns** <br/> Georgia Institute of Technology ](img/susan.png){.rounded-circle}
 :::
 
-## Venue [➡️](./venue.qmd){.btn}
+## Venues [➡️](./venue.qmd){.btn}
 
-![Arizona State Universit](./img/ASU-campus.jpg)
+![Arizona State University](./img/ASU-campus.jpg)
 
 ## Sponsors [➡️](./sponsors.qmd){.btn}
 
 ![](./img/sponsors.svg)
+
+[Submit](./submissions.qmd){.btn .btn-primary .large}
+[Register](./registration.qmd){.btn .btn-secondary .large}
+[Contact](mailto:icbbg2025@gmail.com){.btn .btn-primary .large}

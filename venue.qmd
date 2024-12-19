@@ -1,43 +1,35 @@
 ---
-title: Venue
-draft: true
+title: Venues
 ---
 
+## Welcome Reception
+
+![[**Paul C. Helmick Center (HLMK)**](https://maps.app.goo.gl/UAZTpkQkEPtLqvf86)](img/HLMK.png)
 
 ## Meetings
 
-[**OMNI Tempe**](https://www.omnihotels.com/hotels/tempe-asu) at ASU 
+[**Memorial Union**](https://eoss.asu.edu/mu) at ASU campus
 
-![](img/omni-tempe.png)
+![](img/mu.png)
 
-**Location**:
+[**MU Room Map**](https://eoss.asu.edu/sites/default/files/MU-buildingMap.pdf) 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3330.0665042212554!2d-111.94229968785068!3d33.42151047329007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b0987215d9acb%3A0xf166d63eda841ec6!2sOmni%20Tempe%20Hotel%20at%20ASU!5e0!3m2!1sen!2sus!4v1730490421522!5m2!1sen!2sus" width=100% height = "400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3330.210542945529!2d-111.93656502269626!3d33.41775485844431!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b08dca00b4809%3A0x545cd478036b125b!2sMemorial%20Union%2C%20Tempe%2C%20AZ%2085281!5e0!3m2!1sen!2sus!4v1637128793048!5m2!1sen!2sus" width="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-## Loading (Rates for 2013, subject to change)
+- Take a virtual tour of the MU: [https://tours.asu.edu/tempe/memorial-union](https://tours.asu.edu/tempe/memorial-union)
+- [Download a campus map](https://tours.asu.edu/sites/default/files/self_guided_tour_maps_download_tempe.pdf) (PDF)
+
+## Banquet
+
+
+![[**Rustler's Rooste**](https://www.rustlersrooste.com/)](img/rustlers-rooste.png)
+
+## Lodging Suggestions (Rates for 2023, subject to change)
 
 ![](img/westin.png)
 
-
-::: {.content-visible when-profile="local"}
-[**The Westin Tempe**](https://www.marriott.com/hotels/travel/phxwt-the-westin-tempe/)
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13320.034513901817!2d-111.9392877!3d33.4230194!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xec18c74a3000401!2sThe%20Westin%20Tempe!5e0!3m2!1sen!2sus!4v1637128725906!5m2!1sen!2sus" width="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
-::: {.callout-note}
-* Originally planned for: 
-  * 150 -400 attendees 
-  * Up to 200 in-person; up to 200 online
-* We may need to select an off-campus venue, such as the new Omni hotel
-:::
-:::
-
 Most of the hotels listed below are conveniently located within walking distance of the ASU Campus. Call the hotel directly to make your reservation. ASU and government rates may be available for many of them.  
 A list of all ASU Discounts are provided through this link: [Travel Information for ASU Campus Visitors](https://visit.asu.edu/travel)
-
-::: {.callout-important}
-The special block rate for limited rooms at the Omni Hotel will be released soon.
-:::
 
 * **Omni Hotel** Book at [Preferred ASU rate](https://urldefense.com/v3/__https:/www.omnihotels.com/hotels/tempe-asu/corporate-rates/arizona-state-university__;!!IKRxdwAv5BmarQ!YJDw2XLeE27xhlcCH4uxO88a4ubF2vm831cktggASjxtx74mFY8kv76gCBiGQBitsGP9Cf-JXBIrwBW7VYkYzLxtt-FvpvO9$)  
 * **Canopy Hotel**, Book at [Preferred ASU rate](https://www.hilton.com/en/book/reservation/deeplink/?&ctyhocn=PHXTYPY&corporateCode=5236986)
@@ -135,17 +127,6 @@ The special block rate for limited rooms at the Omni Hotel will be released soon
 :::
 :::
 
-
-## City of Tempe
-
-The City of Tempe is located in the southeast of the metropolitan Phoenix in Maricopa County, Arizona. Tempe was recently designated as number 2 among The 50 Best Places to Live in the U.S. by the Money Magazine. Among the criteria for this recognition, its economic opportunities, quality of life, and diversity are noted. Home to Arizona State University, Tempe is known for its active arts and culture scene, relative affordability and myriad employment opportunities in education, finance, health care and tech.
-
-![Marina View of Tempe Town Lake](img/marina-view.png) 
-
-![Tempe Art Sign](img/tempe-art.png)
-
-![Desert Botanical Garden](img/desert-botanical-garden.png)
-
 ## Arizona State University
 
 The [School of Sustainable Engineering and the Built Environment](https://ssebe.engineering.asu.edu/) at Arizona State University (ASU) is the event’s host. ASU is currently the nation’s largest public research university impacting our community, region, and world at a scale that has more than 137,000 master learners across five campuses. Arizona State University, ranked No. 1 “Most Innovative School” in the nation by U.S. News & World Report for eight years in succession, has forged the model for a New American University by operating on the principles that learning is a personal and original journey for each student; that they thrive on experience and that the process of discovery cannot be bound by traditional academic disciplines.
@@ -157,6 +138,17 @@ Visit ASU: [https://visit.asu.edu/travel](https://visit.asu.edu/travel)
 ![ASU Hayden Library](img/hayden-lib.png)
 
 ![ASU Old Main Building](img/old-main.png)
+
+
+## City of Tempe
+
+The City of Tempe is located in the southeast of the metropolitan Phoenix in Maricopa County, Arizona. Tempe was recently designated as number 2 among The 50 Best Places to Live in the U.S. by the Money Magazine. Among the criteria for this recognition, its economic opportunities, quality of life, and diversity are noted. Home to Arizona State University, Tempe is known for its active arts and culture scene, relative affordability and myriad employment opportunities in education, finance, health care and tech.
+
+![Marina View of Tempe Town Lake](img/marina-view.png) 
+
+![Tempe Art Sign](img/tempe-art.png)
+
+![Desert Botanical Garden](img/desert-botanical-garden.png)
 
 ## Airport Transfer and Information
 
