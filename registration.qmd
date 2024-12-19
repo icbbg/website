@@ -4,7 +4,7 @@ title: Registration
 
 ## Categories and Rates
 
-<!-- [Register Now](https://na.eventscloud.com/icbbg2025){.btn .btn-primary .large} -->
+<!-- [Register Now](https://specialevents.asu.edu/icbbg2025){.btn .btn-primary .large} -->
 [Register Now](./comingsoon.qmd){.btn .btn-primary .large}
 
 | Category        | Prior to 03/15/2025 | Full Price till 05/04/2025 |
@@ -44,5 +44,5 @@ By completing the registration process, you agree to these terms and conditions.
 
 For questions or to request a cancellation, please contact us at [icbbg2025@gmail.com](mailto:icbbg2025@gmail.com).
 
-<!-- [Register Now](https://na.eventscloud.com/icbbg2025){.btn .btn-primary .large} -->
+<!-- [Register Now](https://specialevents.asu.edu/icbbg2025){.btn .btn-primary .large} -->
 [Register Now](./comingsoon.qmd){.btn .btn-primary .large}

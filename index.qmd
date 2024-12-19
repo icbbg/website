@@ -13,7 +13,8 @@ css: ./assets/theme/title-block.css
 
 [Submit](./submissions.qmd){.btn .btn-primary .large}
 [Register](./registration.qmd){.btn .btn-secondary .large}
-[Contact](mailto:icbbg2025@gmail.com){.btn .btn-primary .large}
+[Exhibition and Sponsorship Opportunities](./call-for-exhibitors-sponsors.qmd){.btn .btn-primary .large}
+[Contact](mailto:icbbg2025@gmail.com){.btn .btn-secondary .large}
 
 ::: {.drop-cap}
 The conference seeks to present the state of the art in the field of Bio-mediated and Bio-inspired Geotechnics (BioGeotechnics), promote co-operation and exchange of information about the emerging field of bio-geotechnics; develop and promote improved modeling of bio-mediated and bio-inspired processes; translate fundamental bio-inspired knowledge into enabling technologies with future commercialization potential; and facilitate the adoption of bio-mediated and bio-inspired solutions into geotechnical engineering practice.
@@ -83,4 +84,5 @@ The conference seeks to present the state of the art in the field of Bio-mediate
 
 [Submit](./submissions.qmd){.btn .btn-primary .large}
 [Register](./registration.qmd){.btn .btn-secondary .large}
-[Contact](mailto:icbbg2025@gmail.com){.btn .btn-primary .large}
+[Exhibition and Sponsorship Opportunities](./call-for-exhibitors-sponsors.qmd){.btn .btn-primary .large}
+[Contact](mailto:icbbg2025@gmail.com){.btn .btn-secondary .large}

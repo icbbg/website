@@ -30,7 +30,7 @@ website:
     style: "floating"
     search: true
     contents:
-      - href: ./submissions/call-for-poster.qmd
+      - href: ./submissions/call-for-posters.qmd
         text: Submit a poster
       - href: registration.qmd
         text: Register

@@ -1,0 +1,49 @@
+---
+title: "Call for Posters"
+date: "2024-12-16"
+published-title: "Last Modified"
+subtitle: "Due: January 31, 2025"
+---
+
+![](../img/icbbg2025-banner.svg)
+
+::: {.drop-cap}
+We are excited to announce the **Call for Posters** for **ICBBG 2025**! The conference has already attracted over 120 paper submissions, and since the close of paper submissions, we have received significant interest from researchers eager to present at the event.  
+:::
+
+To expand participation and provide another platform to share cutting-edge work, we are now inviting poster presentations. This is your final opportunity at **ICBBG 2025** to showcase your research, innovations, or projects to a diverse audience of leading researchers, professionals, and experts in the rapidly evolving field of biogeotechnics.  
+
+[Submit your poster abstract today!](https://specialevents.asu.edu/esurvey/icbbg2025){.btn .btn-primary .large}
+
+## Poster Topics
+
+We welcome submissions on a wide range of topics, including but not limited to:  
+- Bio-mediated methods for hazard mitigation  
+- Bio-mediated methods for environmental protection and restoration  
+- Bio-mediated methods for infrastructure construction  
+- Bio-inspired methods for infrastructure construction  
+- Bio-inspired methods for subsurface exploration and excavation  
+- Fundamental research on biogeotechnics  
+- Case studies on field applications of biogeotechnics  
+- Education, outreach, diversity, inclusion, and equity in engineering  
+
+## Submission Details
+
+- **Poster Abstract Deadline**: January 31, 2025  
+- **Notification of Acceptance**: February 28, 2025  
+- **Poster Display Size**: Maximum dimensions 36” x 48” (Portrait)  
+- **Poster Printing**:  
+  - Printing is not included in registration.  
+  - We are not responsible for poster printing. However, assistance with pick-up may be provided for posters printed at stores near the conference venue, subject to availability.  
+
+More detailed instructions on poster requirements will be provided upon acceptance of your poster abstract. 
+
+- To submit your poster abstract, visit [Poster Submission](https://specialevents.asu.edu/esurvey/icbbg2025)
+- To learn more about the conference, visit [Conference Website](https://www.icbbg2025.com)
+- For questions, contact us at <icbbg2025@gmail.com>.
+
+## Don’t Miss Out! 
+
+The poster session space is limited and will be offered on a first-come, first-served basis.
+
+[Submit your poster abstract today!](https://specialevents.asu.edu/esurvey/icbbg2025){.btn .btn-primary .large}
