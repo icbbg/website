@@ -1,21 +1,13 @@
 ---
-title: "About"
+title: "Contact Us"
 ---
 
-![](./img/icbbg2025-banner.svg)
 
-::: {.drop-cap}
-The conference seeks to present the state of the art in the field of Bio-mediated and Bio-inspired Geotechnics (BioGeotechnics), promote co-operation and exchange of information about the emerging field of bio-geotechnics; develop and promote improved modeling of bio-mediated and bio-inspired processes; translate fundamental bio-inspired knowledge into enabling technologies with future commercialization potential; and facilitate the adoption of bio-mediated and bio-inspired solutions into geotechnical engineering practice.
-:::
+<i class="bi bi-envelope-fill"></i>: <icbbg2025@gmail.com>
 
-## Conference objectives
+<i class="bi bi-telephone-fill"></i>: (480) 965-2489
 
-* Provide a state of the art on biogeotechnics 
-
-* Facilitate knowledge exchange on biogeotechnics among 
-  * international researchers, 
-  * industry, 
-  * agencies, 
-  * educators
-
-* Initiate development of an international research network
+<i class="bi bi-geo-alt-fill"></i> Center for Bio-mediated and Bio-inspired Geotechnics (CBBG)  
+&nbsp;&nbsp;&nbsp;&nbsp;Arizona State University  
+&nbsp;&nbsp;&nbsp;&nbsp;660 S College Ave  
+&nbsp;&nbsp;&nbsp;&nbsp;Tempe, AZ 85281

@@ -2,175 +2,42 @@
 title: Venues
 ---
 
-## Welcome Reception
-
-![[**Paul C. Helmick Center (HLMK)**](https://maps.app.goo.gl/UAZTpkQkEPtLqvf86)](img/HLMK.png)
-
-## Meetings
-
-[**Memorial Union**](https://eoss.asu.edu/mu) at ASU campus
-
-![](img/mu.png)
-
-[**MU Room Map**](https://eoss.asu.edu/sites/default/files/MU-buildingMap.pdf) 
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3330.210542945529!2d-111.93656502269626!3d33.41775485844431!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b08dca00b4809%3A0x545cd478036b125b!2sMemorial%20Union%2C%20Tempe%2C%20AZ%2085281!5e0!3m2!1sen!2sus!4v1637128793048!5m2!1sen!2sus" width="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
-- Take a virtual tour of the MU: [https://tours.asu.edu/tempe/memorial-union](https://tours.asu.edu/tempe/memorial-union)
-- [Download a campus map](https://tours.asu.edu/sites/default/files/self_guided_tour_maps_download_tempe.pdf) (PDF)
-
-## Banquet
-
-
-![[**Rustler's Rooste**](https://www.rustlersrooste.com/)](img/rustlers-rooste.png)
-
-
 ## Conference Partner Hotel
 
-![](img/westin.png)
+![](./img/westin-small.png)
 
-**The Westin Tempe**  
+**The Westin Tempe** [Book here](https://www.marriott.com/event-reservations/reservation-link.mi?id=1733422779793&key=GRP&guestreslink2=true&app=resvlink)
+
 [11 E. 7th Street, Tempe, AZ 85281](https://goo.gl/maps/PSLQC8nTVZvoBkgd6)  
 480-968-8885
 
-[**Book at the ICBBG 2025 Rate by Monday, April 21, 2025**](https://www.marriott.com/event-reservations/reservation-link.mi?id=1733422779793&key=GRP&guestreslink2=true&app=resvlink){.btn .btn-primary .large}
+## Welcome Reception
 
-- Complimentary High Speed Wi-Fi
-- Complimentary access to WestinWorkout
-- ½ block from Mill Ave. District; walking distance to over 70 dining options
-- [Waived Destination Fee (\$22)]{.highlight} 
-- Destination Fee includes the following:
-    - Daily Enhanced High Speed Wi-Fi
-    - \$25 Food and Beverage credit in Cup of Joe, Terra Tempe, or SkySill Rooftop
-    - Bike Rental for 2 (2 hour max)
-    - 1 free Drip Coffee for up to (2) guests at Cup of Joe
+![](img/HLMK.png)
 
-## Other Lodging Options
+**Paul C. Helmick Center (HLMK)** at ASU
 
-::: {.callout-tip collapse=true icon=false}
+[660 S College Ave, Tempe, AZ 85281](https://maps.app.goo.gl/UAZTpkQkEPtLqvf86)
 
-## Stay Near ASU with Special Rates
+## Meetings
 
-Most of the hotels listed below are conveniently located within walking distance of the ASU Campus. Call the hotel directly to make your reservation. ASU and government rates may be available for many of them.  
-A list of all ASU Discounts are provided through this link: [Travel Information for ASU Campus Visitors](https://visit.asu.edu/travel)
+![](img/mu.png)
 
-**AC Hotel Phoenix Tempe/Downtown**  
-100 E Rio Salado Pkwy, Tempe, AZ 85281  
-(480) 642-6140
+**Memorial Union** at ASU
 
-[Book Your Preferred ASU Rate](https://www.marriott.com/event-reservations/reservation-link.mi?id=1704823052094&key=CORP&app=resvlink) 
+[301 E Orange St., Tempe, AZ 85281](https://maps.app.goo.gl/bQGHKUf8MNyKMs4k6)
 
-- Complimentary Wi-Fi in all guest rooms
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3330.210542945529!2d-111.93656502269626!3d33.41775485844431!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b08dca00b4809%3A0x545cd478036b125b!2sMemorial%20Union%2C%20Tempe%2C%20AZ%2085281!5e0!3m2!1sen!2sus!4v1637128793048!5m2!1sen!2sus" width="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-**Canopy by Hilton Tempe Downtown**  
-108 E. University Drive, Tempe, AZ 85281  
-480-968-6800
+- [Campus map](https://tours.asu.edu/sites/default/files/self_guided_tour_maps_download_tempe.pdf) (PDF)
 
-[Book your Preferred ASU Rate](https://www.hilton.com/en/book/reservation/deeplink/?&ctyhocn=PHXTYPY&corporateCode=5236986)
+- [MU room map](https://eoss.asu.edu/sites/default/files/MU-buildingMap.pdf) (PDF)
 
-- Complimentary WI-FI
-- Complimentary Bikes and access to Fitness Center
-- Conveniently located to ASU, Gammage and Mill Avenue, walking distance to dining, shopping and nightlife
+- [Take a virtual tour of the MU](https://tours.asu.edu/tempe/memorial-union)
 
-**DoubleTree by Hilton Phoenix - Tempe**  
-[2100 S Priest Dr Tempe, AZ 85282](https://goo.gl/maps/8qqJc5a4UTMCgDLy7)  
-Tempe, AZ 85281  
-480-804-5264
+## Banquet
 
-[Book your preferred ASU rate](https://urldefense.com/v3/__https:/www.hilton.com/en/book/reservation/deeplink/?ctyhocn=PHXMPDT&corporateCode=0560044993__;!!IKRxdwAv5BmarQ!YpT_sq-EjWOI0Ko_AUv0gSZ_IoGR1b1CN6aikgDJUg1WPHloomwdKj_HQy8GdFCS7WbHY5JoQJCCx49CLRQYmlcgKqnwc3Cv$).
-
-- Complimentary daily full hot breakfast
-- Complimentary shuttle to and from the Phoenix Sky Harbor Airport/ within 5 mile radius of Hotel
-- Complimentary Wi-Fi in all guest rooms
-- Complimentary self parking
-
-**Element Scottsdale at SkySong**  
-[1345 N. Scottsdale Road, Scottsdale, AZ 85257](https://goo.gl/maps/LKyrU2ZkMK3fPHAm7)  
-480-361-0000
-
-[Book your preferred ASU rate](https://www.marriott.com/event-reservations/reservation-link.mi?id=1600970991652&key=CORP&app=resvlink)
-
-- Complimentary hot breakfast buffet daily
-- Complimentary light evening reception, Monday – Thursday
-
-**Graduate Tempe by Hilton**  
-[225 East Apache Boulevard, Tempe, AZ 85281](https://goo.gl/maps/Xie9DFszLvc7UumU8)  
-480-967-9431  
-[Book your Preferred ASU Rate](https://urldefense.com/v3/__https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=PHXGPGU&corporateCode=5236986__;!!IKRxdwAv5BmarQ!cjDdg1N66ggISRwyH_MRJPCRPzO4QDLxaT77i6HD6m_V4Vh6VGbmjX4r-BVZNzIHekUoRLuQDLt7D-gBxI394jYNjDkRtQ0jV8I$)
-
-- Walking distance to ASU, restaurants, shopping and entertainment
-- Complimentary High Speed Wi-Fi.
-- Complimentary Bikes
-
-**Hyatt House Tempe/Phoenix/University**  
-[601 E. 6th St Tempe, AZ 85281](https://goo.gl/maps/UJVbsmAa19Vt49v78)  
-480-219-5956
-
-[Book your preferred ASU rate](https://www.hyatt.com/en-US/hotel/arizona/hyatt-house-tempe-phoenix-university/phxxt?corp_id=38975)
-
-- Walking distance to ASU
-- Complimentary breakfast
-- Complimentary High-speed wireless internet
-- Parking is \$15.00 per night in a secure parking garage
-
-**Hyatt Place Tempe/Phoenix/University**  
-[Book your preferred ASU rate](https://urldefense.com/v3/__https:/www.hyatt.com/en-US/hotel/arizona/hyatt-place-tempe-phoenix-university/phxzt?corp_id=38975__;!!IKRxdwAv5BmarQ!JxQ5mfCwJq6pgINPX286wrGkOF9wY5PAXGE6WmXtKC0-_CFD5PddKMr0Ohwo01g3bh0$)  
-[601 E. 6th St Tempe, AZ 85281](https://goo.gl/maps/UJVbsmAa19Vt49v78)  
-480-219-5956
-
-- Walking distance to ASU
-- Complimentary breakfast
-- Complimentary High-speed wireless internet
-- Parking is \$15.00 per night in a secure parking garage
-
-**Omni Tempe Hotel at ASU**  
-[7 E University Dr, Tempe, AZ 85281](https://goo.gl/maps/VpHUkUQiUFvWvVuC6)  
-1-800-THE-OMNI  
-[Book your Preferred ASU Rate](https://urldefense.com/v3/__https:/www.omnihotels.com/hotels/tempe-asu/corporate-rates/arizona-state-university__;!!IKRxdwAv5BmarQ!YJDw2XLeE27xhlcCH4uxO88a4ubF2vm831cktggASjxtx74mFY8kv76gCBiGQBitsGP9Cf-JXBIrwBW7VYkYzLxtt-FvpvO9$)
-
-- Destination Fee Waived (\$25 per night value)
-- Complimentary Wi-Fi
-- 24-Hour access to Fitness Center with Amenities
-- Access to Rooftop Pool
-- Restful Sleep Kit Amenities (Upon Request)
-- Located on ASU campus (corner of Mills Ave/East University Dr.)
-- Walk to campus activities at ASU Gammage, ASU Art Museum, Mountain America Stadium, Hayden Library
-- Steps to Mill Avenue restaurants, shopping, and entertainment
-- Steps to Tempe Valley Metro Streetcar (Ninth St./Mill Stop)
-
-**Sonesta Select Tempe Downtown**  
-601 S Ash Ave, Tempe, AZ 85281  
-(480) 395-7328
-
-[Book your Preferred ASU rate](https://urldefense.com/v3/__https:/nam12.safelinks.protection.outlook.com/?url=https*3A*2F*2Fbe.synxis.com*2F*3FHotel*3D32944*26Chain*3D5157*26promo*3DASU1&data=04*7C01*7Ckyraanbe*40anthonytravel.com*7C44cc4f88414d4e94618e08d9d068ef1c*7Cec7d4cedcaa64eb7b66da35dfdfb9007*7C0*7C0*7C637769971421593309*7CUnknown*7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0*3D*7C3000&sdata=*2FEF*2BY1KSezPxdeaJ9INELlG94TLPULpkGPVrFgpWGWg*3D&reserved=0__;JSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJQ!!IKRxdwAv5BmarQ!JxQ5mfCwJq6pgINPX286wrGkOF9wY5PAXGE6WmXtKC0-_CFD5PddKMr0OhwoVqZu7VM$)
-
-- Complimentary Breakfast vouchers
-- Complimentary Wi-Fi Internet in every guest room and guest areas
-- Complimentary parking
-
-**Tempe Mission Palms**  
-[60 East Fifth Street, Tempe, AZ 85281](https://goo.gl/maps/5eJBpr8SR6JbetQx8)  
-[Book your Preferred ASU Rate](https://www.hyatt.com/en-US/hotel/arizona/tempe-mission-palms/phxdt?corp_id=08176)
-
-480-894-1400
-
-- Valet or self-parking (included in destination fee)
-- Access to health club and fitness center (included in destination fee)
-- Airport Shutte Service (included in destination fee)
-- High-speed wireless Internet access (included in destination fee)
-- Discounted hospitality fee to \$12.95 plus tax per room, per night (regularly \$25.00 plus tax per room, per night)
-
-**Vīb Best Western Tempe**  
-[511 S Farmer Ave, Tempe, AZ 85281](https://goo.gl/maps/nfVCwjUAEDr9LQmV8)  
-(480) 805-2070  
-[Book your Preferred ASU Rate](https://urldefense.com/v3/__https:/nam02.safelinks.protection.outlook.com/?url=https*3A*2F*2Fwww.bestwestern.com*2Fen_US*2Fbook*2Fhotel-rooms.03177.html*3FcorpId*3D01541060&data=05*7C01*7Cashinn*40onlocationexp.com*7C0f1efe6a1d794d32277608da29654a81*7C6290e9625a32437ab97d5ef0567a15b1*7C0*7C0*7C637867812479539010*7CUnknown*7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0*3D*7C3000*7C*7C*7C&sdata=CC*2BdAM91kBxolbPeOMcXkR6WiNiGsze*2FUYk9egFA6tA*3D&reserved=0__;JSUlJSUlJSUlJSUlJSUlJSUlJSUlJSUlJSU!!IKRxdwAv5BmarQ!azv6-qXFNgrb1Wn4pJC8hRHWb0hL_lDr3nPKauhryyDMXgb7KVrubzumnNEOxPikMomnZSicXIkQsQlyw1PLUZ44NNU$)
-
-- Parking is \$10.00 per night  
-    Walking distance to ASU, restaurants, shopping, and entertainment  
-    Complimentary Wi-Fi in Guest Rooms & Lobby  
-     
-:::
-
+![[**Rustler's Rooste**](https://www.rustlersrooste.com/)](img/rustlers-rooste.png)
 
 ## Arizona State University
 
@@ -178,7 +45,9 @@ The [School of Sustainable Engineering and the Built Environment](https://ssebe.
 
 The Ira A. Fulton Schools of Engineering within ASU has an interdisciplinary structure consisting of 7 schools with program offerings on 2 campuses and online, fostering cross-campus and global partnerships. The academic programs, enrollments and graduates include a total of 25 undergraduate degree programs; 50+ graduate programs; approximately 27,000 students (~9,000 online, ~18,000 on-campus); and more than 5,100 graduates across all degree levels in during the 2020-2021 academic year.
 
-Visit ASU: [https://visit.asu.edu/travel](https://visit.asu.edu/travel)
+![[Visit ASU](https://visit.asu.edu/travel)](./img/ASU-campus.jpg)
+
+
 
 ![ASU Hayden Library](img/hayden-lib.png)
 
@@ -194,30 +63,6 @@ The City of Tempe is located in the southeast of the metropolitan Phoenix in Mar
 ![Tempe Art Sign](img/tempe-art.png)
 
 ![Desert Botanical Garden](img/desert-botanical-garden.png)
-
-## Airport Transfer and Information
-
-![Valley Metro, University / Rural Road / ASU Station](img/valley-metro.png)
-
-The ASU Campus is conveniently located within a 10-minute drive to the Phoenix Skyharbor Airport using Taxicabs, Uber, or Lyft. Access to the local hotels or ASU Campus is also possible through the free Airport Tram, to the 44th street station.
-
-The Valley Metro light rail ride (\$2.00) to Tempe and ASU Campus (eastbound Train) is about 15 minutes as well. Exit at (university Drive/ Rural Rd. ASU Campus, Get on #10018 and off at 10023)
-
-**ASU Tempe Campus**  
-[1151 S. Forest Ave., Tempe](https://goo.gl/maps/aZcxhnNxD6VySLgV6)
-
-**Connections:**  
-[Route 48 – 48th St](https://www.valleymetro.org/maps-schedules/48)  
-[Route 62 – Hardy Dr](https://www.valleymetro.org/maps-schedules/62)  
-[Route 66 – Mill Ave/Kyrene Rd](https://www.valleymetro.org/maps-schedules/66)  
-[Route 72 – Scottsdale Rd/Rural Rd](https://www.valleymetro.org/maps-schedules/72)  
-[FLASH](https://www.valleymetro.org/maps-schedules/flsh)  
-[Orbit Earth](https://www.valleymetro.org/maps-schedules/eart)   
-[Orbit Jupiter](https://www.valleymetro.org/maps-schedules/jupi)  
-[Orbit Mars](https://www.valleymetro.org/maps-schedules/mars)  
-[Orbit Mercury](https://www.valleymetro.org/maps-schedules/merc)  
-[Orbit Venus](https://www.valleymetro.org/maps-schedules/venu)  
-[Valley Metro Rail](https://www.valleymetro.org/maps-schedules/rail) (University/Rural)
 
 ## Things To Do Around Arizona
 
@@ -257,13 +102,14 @@ The Valley Metro light rail ride (\$2.00) to Tempe and ASU Campus (eastbound Tra
 [Salt River Kayaking Trip](https://www.saguarolakeranch.com/activities/kayaking/)  
 [Salt River Tubing](https://www.saltrivertubing.com/river-tubing/)
 
-### Sedona
+### Sedona and Flagstaff
 
 [Pink Jeep Tours](https://www.pinkadventuretours.com/)  
 [Grand Canyon Railway](https://www.thetrain.com/?gad=1&gclid=Cj0KCQjwnrmlBhDHARIsADJ5b_lCYob2Fv3wC2IokZgCTOmysYbJsO-TEq40lancA77rtHHutIg6azIaAityEALw_wcB)  
 [Segway and Bike Tours](https://visitsedona.com/things-to-do/tours-sightseeing/bike-segway-tours/)  
 [Wine Tours](https://winetoursofsedona.com/)  
 [Horsin’ Around Adventures](https://horsinaroundadventures.com/)
+[Meteor Crater and Barringer Space Musem]()
 
 ### Grand Canyon
 

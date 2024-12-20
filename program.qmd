@@ -3,51 +3,12 @@ title: "Program"
 subtitle: "Last Modified: 2024-12-16"
 ---
 
-```{r} 
-parallels <- 6+4/6 
-sessions <- 3
-talks <- 6
-total <- parallels * sessions * talks
-```
-
-## At a glance
-
-* 8 general themes
-* 8 special symposia
-* 7 plenary sessions: 
-  * 6 keynote lectures
-  * 1 poster session
-* `r round(parallels)` oral presentation sessions:
-  * `r sessions` parallel sessions
-  * `r talks` presentations in each parallel session
-  * `r total` presentations in total
-
-```{r} 
-library(kableExtra)
-library(tidyverse)
-
-themes <- tribble(
-  ~"General sessions", ~"Special symposia",
-"Bio-mediated methods for hazard mitigation                        ", "Bio-inspired Tunneling                         ",
-"Bio-mediated methods for environmental protection and restoration ", "Asia experiences on bio-mediated geotechnics   ",
-"Bio-mediated methods for infrastructure construction              ", "Europe experiences on bio-mediated geotechnics ",
-"Bio-inspired methods for infrastructure construction              ", "Biopolymer treated soils                       ",
-"Bio-inspired methods for subsurface exploration and excavation    ", "Delivery strategies for MICP                   ",
-"Fundamental research on biogeotechnics                            ", "MICP for sustainable geoenergy applications    ",
-"Case studies on field applications of biogeotechnics              ", "Fungal treatment of soils                      ",
-"Education, outreach, diversity, inclusion and equity in engineering", "Build with nature                              ",
-) 
-kbl(themes) %>%
-  column_spec(1, background = "#c4996c") %>%
-  row_spec(0, background = "#747474")
-```
-
 
 ## Sunday, May 18, 2025
 
 | Time        | Event                                                                                               |
 |-------------|-----------------------------------------------------------------------------------------------------|
-| 4:00-7:00pm | Welcome Reception at [**Paul C. Helmick Center (HLMK)**](https://maps.app.goo.gl/UAZTpkQkEPtLqvf86) |
+| 5:00-7:00pm | Welcome Reception at [**Paul C. Helmick Center (HLMK)**](https://maps.app.goo.gl/UAZTpkQkEPtLqvf86) |
 
 ## Monday, May 19, 2025
 
@@ -120,7 +81,34 @@ Meetings at [**Memorial Union**](https://eoss.asu.edu/mu)
     * Training
     * Industrial collaborations
     * Sustainability
+:::
+:::
 
+## Session Topics 
+
+::: {layout="[1,1]"}
+
+#### General Sessions
+- Bio-mediated methods for hazard mitigation
+- Bio-mediated methods for environmental protection and restoration
+- Bio-mediated methods for infrastructure construction
+- Bio-inspired methods for infrastructure construction
+- Bio-inspired methods for subsurface exploration and excavation
+- Fundamental research on biogeotechnics
+- Case studies on field applications of biogeotechnics
+
+::: {}
+
+#### Special Symposia
+- Bio-inspired Tunneling
+- Asia experiences on bio-mediated geotechnics
+- Europe experiences on bio-mediated geotechnics
+- Biopolymer treated soils
+- Delivery strategies for MICP
+- MICP for sustainable geoenergy applications
+- Fungal treatment of soils
+- Build with nature
+- Education, outreach, diversity, inclusion, and equity in engineering
 :::
 :::
 

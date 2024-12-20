@@ -5,8 +5,9 @@ project:
     port: 2025
 
 website:
-  # title: "ICBBG 2025"
-  page-footer: "Coyright 2025 @ICBBG"
+  page-footer: 
+    left: "Coyright 2025 @ICBBG"
+    center: "[Contact Us](/about.qmd)"
   google-analytics: G-12S45SR1D0
   favicon: "./img/icbbg.svg"
   navbar:
@@ -16,24 +17,26 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - program.qmd
       - importantdates.qmd
-      - submissions.qmd
       - speakers.qmd
-      - registration.qmd 
-      - sponsors.qmd
-      - committees.qmd
+      - submissions.qmd
+      - program.qmd
+      - exhibition-sponsorship.qmd
       - venue.qmd
-      - about.qmd
-
+      - registration.qmd 
+      - committees.qmd
   sidebar:
     style: "floating"
     search: true
     contents:
-      - href: ./submissions/call-for-posters.qmd
-        text: Submit a poster
-      - href: registration.qmd
-        text: Register
+      section: "Opprotunities"
+      contents:
+        - href: ./submissions/call-for-posters.qmd
+          text: Call for posters
+        - href: call-for-exhibitors-sponsors.qmd
+          text: Call for Exhibition and Sponsorship
+        - href: registration.qmd
+          text: Register
   announcement:
     icon: info-circle-fill
     dismissable: true
