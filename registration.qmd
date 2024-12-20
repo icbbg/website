@@ -13,6 +13,7 @@ title: Registration
 | Student         | $400                | $400                       |
 | Guest/Companion | $250                | $250                       |
 
+[Book a room at the ICBBG 2025 Rate by Monday, April 21, 2025](https://www.marriott.com/event-reservations/reservation-link.mi?id=1733422779793&key=GRP&guestreslink2=true&app=resvlink){.btn .btn-secondary .large}
 
 ## Terms and Conditions for Conference Registration
 
@@ -57,3 +58,4 @@ For questions or to request a cancellation, please contact us at [icbbg2025@gmai
 
 <!-- [Register Now](https://specialevents.asu.edu/icbbg2025){.btn .btn-primary .large} -->
 [Register Now](./comingsoon.qmd){.btn .btn-primary .large}
+[Book a room at the ICBBG 2025 Rate by Monday, April 21, 2025](https://www.marriott.com/event-reservations/reservation-link.mi?id=1733422779793&key=GRP&guestreslink2=true&app=resvlink){.btn .btn-secondary .large}

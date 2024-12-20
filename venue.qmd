@@ -25,7 +25,7 @@ title: Venues
 ![[**Rustler's Rooste**](https://www.rustlersrooste.com/)](img/rustlers-rooste.png)
 
 
-## Conference Hotel
+## Conference Partner Hotel
 
 ![](img/westin.png)
 
