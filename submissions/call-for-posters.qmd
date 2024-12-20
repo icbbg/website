@@ -13,7 +13,7 @@ We are excited to announce the **Call for Posters** for **ICBBG 2025**! The conf
 
 To expand participation and provide another platform to share cutting-edge work, we are now inviting poster presentations. This is your final opportunity at **ICBBG 2025** to showcase your research, innovations, or projects to a diverse audience of leading researchers, professionals, and experts in the rapidly evolving field of biogeotechnics.  
 
-[Submit your poster abstract today!](https://specialevents.asu.edu/esurvey/icbbg2025){.btn .btn-primary .large}
+[Submit your poster abstract today!](https://juliantao.shinyapps.io/icbbg2025-poster-abstract-submission/){.btn .btn-primary .large}
 
 ## Poster Topics
 
@@ -46,4 +46,4 @@ More detailed instructions on poster requirements will be provided upon acceptan
 
 The poster session space is limited and will be offered on a first-come, first-served basis.
 
-[Submit your poster abstract today!](https://specialevents.asu.edu/esurvey/icbbg2025){.btn .btn-primary .large}
+[Submit your poster abstract today!](https://juliantao.shinyapps.io/icbbg2025-poster-abstract-submission/){.btn .btn-primary .large}

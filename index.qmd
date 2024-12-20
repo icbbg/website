@@ -13,7 +13,7 @@ css: ./assets/theme/title-block.css
 
 [Submit](./submissions.qmd){.btn .btn-primary .large}
 [Register](./registration.qmd){.btn .btn-secondary .large}
-[Exhibition and Sponsorship Opportunities](./call-for-exhibitors-sponsors.qmd){.btn .btn-primary .large}
+[Become an Exhibitor or Sponsor](./call-for-exhibitors-sponsors.qmd){.btn .btn-primary .large}
 [Contact](mailto:icbbg2025@gmail.com){.btn .btn-secondary .large}
 
 ::: {.drop-cap}
@@ -84,5 +84,5 @@ The conference seeks to present the state of the art in the field of Bio-mediate
 
 [Submit](./submissions.qmd){.btn .btn-primary .large}
 [Register](./registration.qmd){.btn .btn-secondary .large}
-[Exhibition and Sponsorship Opportunities](./call-for-exhibitors-sponsors.qmd){.btn .btn-primary .large}
+[Become an Exhibitor or Sponsor](./call-for-exhibitors-sponsors.qmd){.btn .btn-primary .large}
 [Contact](mailto:icbbg2025@gmail.com){.btn .btn-secondary .large}
