@@ -11,13 +11,8 @@ css: ./assets/theme/title-block.css
 
 <!-- ![](img/banner.svg) -->
 
-[Submit](./submissions.qmd){.btn .btn-primary .large}
-[Register](./registration.qmd){.btn .btn-secondary .large}
-[Become an Exhibitor or Sponsor](./call-for-exhibitors-sponsors.qmd){.btn .btn-primary .large}
-[Contact](mailto:icbbg2025@gmail.com){.btn .btn-secondary .large}
-
 ::: {.drop-cap}
-The conference seeks to present the state of the art in the field of Bio-mediated and Bio-inspired Geotechnics (BioGeotechnics), promote co-operation and exchange of information about the emerging field of bio-geotechnics; develop and promote improved modeling of bio-mediated and bio-inspired processes; translate fundamental bio-inspired knowledge into enabling technologies with future commercialization potential; and facilitate the adoption of bio-mediated and bio-inspired solutions into geotechnical engineering practice.
+The conference aims to present the latest advancements in the field of Bio-mediated and Bio-inspired Geotechnics (BioGeotechnics). It provides a platform for fostering collaboration and the exchange of information about this emerging area. Key objectives include enhancing the modeling of bio-mediated and bio-inspired processes, translating foundational bio-inspired knowledge into viable technologies with potential for future commercialization, and promoting the integration of these innovative solutions into geotechnical engineering practices. Through these efforts, the conference seeks to drive the advancement of sustainable approaches to geotechnical challenges.
 :::
 
 ## Featured Speakers [➡️](./speakers.qmd){.btn}
@@ -74,15 +69,7 @@ The conference seeks to present the state of the art in the field of Bio-mediate
 ![**Susan Burns** <br/> Georgia Institute of Technology ](img/susan.png){.rounded-circle}
 :::
 
-## Venues [➡️](./venue.qmd){.btn}
-
-![Arizona State University](./img/ASU-campus.jpg)
-
-## Sponsors [➡️](./sponsors.qmd){.btn}
+## ICBBG Partners [➡️](./sponsors.qmd){.btn}
 
 ![](./img/sponsors.svg)
 
-[Submit](./submissions.qmd){.btn .btn-primary .large}
-[Register](./registration.qmd){.btn .btn-secondary .large}
-[Become an Exhibitor or Sponsor](./call-for-exhibitors-sponsors.qmd){.btn .btn-primary .large}
-[Contact](mailto:icbbg2025@gmail.com){.btn .btn-secondary .large}
