@@ -2,11 +2,12 @@
 title: Registration and Accomodation
 ---
 
-## [Register Now](./comingsoon.qmd){.btn .btn-primary}
+<!-- ## [Register Now](./comingsoon.qmd){.btn .btn-primary} -->
+
+## [Register Now](https://na.eventscloud.com/icbbg2025){.btn .btn-primary}
 
 ### Categories and Rates
 
-<!-- [Register Now](https://specialevents.asu.edu/icbbg2025){.btn .btn-primary .large} -->
 
 | Category        | Prior to 03/15/2025 | Full Price till 05/04/2025 |
 |-----------------|---------------------|----------------------------|
