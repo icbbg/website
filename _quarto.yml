@@ -6,7 +6,7 @@ project:
 
 website:
   page-footer: 
-    left: "Coyright 2025 @ICBBG"
+    left: Coyright © 2025 ICBBG
     center: "[Contact Us](/about.qmd)"
   google-analytics: G-12S45SR1D0
   favicon: "./img/icbbg.svg"

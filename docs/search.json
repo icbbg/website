@@ -1,59 +1,144 @@
 [
   {
-    "objectID": "venue.html",
-    "href": "venue.html",
-    "title": "Venues",
+    "objectID": "program.html",
+    "href": "program.html",
+    "title": "Program",
     "section": "",
-    "text": "The Westin Tempe Book here\n11 E. 7th Street, Tempe, AZ 85281\n480-968-8885"
+    "text": "Time\nEvent\n\n\n\n\n5:00-7:00pm\nWelcome Reception at Paul C. Helmick Center (HLMK)"
   },
   {
-    "objectID": "venue.html#conference-partner-hotel",
-    "href": "venue.html#conference-partner-hotel",
-    "title": "Venues",
+    "objectID": "program.html#sunday-may-18-2025",
+    "href": "program.html#sunday-may-18-2025",
+    "title": "Program",
     "section": "",
-    "text": "The Westin Tempe Book here\n11 E. 7th Street, Tempe, AZ 85281\n480-968-8885"
+    "text": "Time\nEvent\n\n\n\n\n5:00-7:00pm\nWelcome Reception at Paul C. Helmick Center (HLMK)"
   },
   {
-    "objectID": "venue.html#welcome-reception",
-    "href": "venue.html#welcome-reception",
-    "title": "Venues",
-    "section": "Welcome Reception",
-    "text": "Welcome Reception\n\nPaul C. Helmick Center (HLMK) at ASU\n660 S College Ave, Tempe, AZ 85281"
+    "objectID": "program.html#monday-may-19-2025",
+    "href": "program.html#monday-may-19-2025",
+    "title": "Program",
+    "section": "Monday, May 19, 2025",
+    "text": "Monday, May 19, 2025\nMeetings at Memorial Union\n\n\n\nTime\nEvent\nTrack 1\nTrack 2\nTrack 3\n\n\n\n\n7:45-8:00am\nOpening Remark\n\n\n\n\n\n8:00-8:40am\nKeynote 1\n\n\n\n\n\n8:40-8:50am\n10 min Break\n\n\n\n\n\n8:50-10:20am\n\nSession 1\nSession 2\nSession 3\n\n\n10:20-10:40am\n20 min Break\n\n\n\n\n\n10:40-12:10pm\n\nSession 4\nSession 5\nSession 6\n\n\n12:10-1:10pm\nLunch Break\n\n\n\n\n\n1:10-1:50pm\nKeynote 2\n\n\n\n\n\n1:50-2:50pm\nPoster Session\n\n\n\n\n\n2:50-4:20pm\n\nSession 7\nSession 8\nSession 9\n\n\n4:20-4:50pm\n30 min Break\n\n\n\n\n\n4:50-5:30pm\nKeynote 3"
   },
   {
-    "objectID": "venue.html#meetings",
-    "href": "venue.html#meetings",
-    "title": "Venues",
-    "section": "Meetings",
-    "text": "Meetings\n\nMemorial Union at ASU\n301 E Orange St., Tempe, AZ 85281\n\n\n\nCampus map (PDF)\nMU room map (PDF)\nTake a virtual tour of the MU"
+    "objectID": "program.html#tuesday-may-20-2025",
+    "href": "program.html#tuesday-may-20-2025",
+    "title": "Program",
+    "section": "Tuesday, May 20, 2025",
+    "text": "Tuesday, May 20, 2025\n\n\n\nTime\nEvent\nTrack 1\nTrack 2\nTrack 3\n\n\n\n\n8:00-8:40am\nKeynote 4\n\n\n\n\n\n8:40-8:50am\n10 min Break\n\n\n\n\n\n8:50-10:20am\n\nSession 10\nSession 11\nSession 12\n\n\n10:20-10:40am\n20 min Break\n\n\n\n\n\n10:40-12:10am\n\nSession 13\nSession 14\nSession 15\n\n\n12:10-1:10am\nLunch Break\n\n\n\n\n\n1:10-1:50pm\nKeynote 5\n\n\n\n\n\n1:50-2:00pm\n10 min Break\n\n\n\n\n\n1:50-3:20pm\n\nSession 16\nSession 17\nSession 18\n\n\n3:20-3:50pm\n30 min Break\n\n\n\n\n\n3:50-4:50pm\n\nSession 19\nSession 20\nSession 21\n\n\n4:50-5:30pm\nKeynote 6\n\n\n\n\n\n5:30-5:45pm\nClosing Remarks\n\n\n\n\n\n6:00-9:00pm\nBanquet at Rustler’s Rooste"
   },
   {
-    "objectID": "venue.html#banquet",
-    "href": "venue.html#banquet",
-    "title": "Venues",
-    "section": "Banquet",
-    "text": "Banquet\n\n\n\nRustler’s Rooste"
+    "objectID": "program.html#session-topics",
+    "href": "program.html#session-topics",
+    "title": "Program",
+    "section": "Session Topics",
+    "text": "Session Topics\n\n\n\n\n\n\nGeneral Sessions\n\nBio-mediated methods for hazard mitigation\nBio-mediated methods for environmental protection and restoration\nBio-mediated methods for infrastructure construction\nBio-inspired methods for infrastructure construction\nBio-inspired methods for subsurface exploration and excavation\nFundamental research on biogeotechnics\nCase studies on field applications of biogeotechnics\n\n\n\nSpecial Symposia\n\nBio-inspired Tunneling\nAsia experiences on bio-mediated geotechnics\nEurope experiences on bio-mediated geotechnics\nBiopolymer treated soils\nDelivery strategies for MICP\nMICP for sustainable geoenergy applications\nFungal treatment of soils\nBuild with nature\nEducation, outreach, diversity, inclusion, and equity in engineering"
   },
   {
-    "objectID": "venue.html#arizona-state-university",
-    "href": "venue.html#arizona-state-university",
-    "title": "Venues",
-    "section": "Arizona State University",
-    "text": "Arizona State University\nThe School of Sustainable Engineering and the Built Environment at Arizona State University (ASU) is the event’s host. ASU is currently the nation’s largest public research university impacting our community, region, and world at a scale that has more than 137,000 master learners across five campuses. Arizona State University, ranked No. 1 “Most Innovative School” in the nation by U.S. News & World Report for eight years in succession, has forged the model for a New American University by operating on the principles that learning is a personal and original journey for each student; that they thrive on experience and that the process of discovery cannot be bound by traditional academic disciplines.\nThe Ira A. Fulton Schools of Engineering within ASU has an interdisciplinary structure consisting of 7 schools with program offerings on 2 campuses and online, fostering cross-campus and global partnerships. The academic programs, enrollments and graduates include a total of 25 undergraduate degree programs; 50+ graduate programs; approximately 27,000 students (~9,000 online, ~18,000 on-campus); and more than 5,100 graduates across all degree levels in during the 2020-2021 academic year.\n\n\n\nVisit ASU\n\n\n\n\n\nASU Hayden Library\n\n\n\n\n\nASU Old Main Building"
+    "objectID": "exhibition-sponsorship.html",
+    "href": "exhibition-sponsorship.html",
+    "title": "Exhibition and Sponsorship",
+    "section": "",
+    "text": "Join us today!"
   },
   {
-    "objectID": "venue.html#city-of-tempe",
-    "href": "venue.html#city-of-tempe",
-    "title": "Venues",
-    "section": "City of Tempe",
-    "text": "City of Tempe\nThe City of Tempe is located in the southeast of the metropolitan Phoenix in Maricopa County, Arizona. Tempe was recently designated as number 2 among The 50 Best Places to Live in the U.S. by the Money Magazine. Among the criteria for this recognition, its economic opportunities, quality of life, and diversity are noted. Home to Arizona State University, Tempe is known for its active arts and culture scene, relative affordability and myriad employment opportunities in education, finance, health care and tech.\n\n\n\nMarina View of Tempe Town Lake\n\n\n\n\n\nTempe Art Sign\n\n\n\n\n\nDesert Botanical Garden"
+    "objectID": "registration.html",
+    "href": "registration.html",
+    "title": "Registration and Accomodation",
+    "section": "",
+    "text": "Category\nPrior to 03/15/2025\nFull Price till 05/04/2025\n\n\n\n\nGeneral\n$750\n$850\n\n\nStudent\n$400\n$400\n\n\nGuest/Companion\n$250\n$250\n\n\n\n\n\n\n\nRegistration Includes:\n\nFull Registration: Reception on May 18, banquet on May 20, lunch and coffee breaks on May 19 and 20, and access to all technical programs.\nGuest/Companion Registration: Reception on May 18 and banquet on May 20.\nPayment Deadline: Payments must be received and processed by May 4; unpaid registrations will be canceled.\n\nPaper Submission:\n\nAt least one author of an accepted paper must complete a full registration for the paper to be included in the program and proceedings.\nA maximum of two papers can be associated with a single registration.\n\nNo-shows:\n\nRegistrants who do not attend the conference and fail to cancel in advance will not receive a refund.\n\nData Protection:\n\nPersonal information collected during registration will only be used for conference-related purposes and will not be shared without consent.\n\n\nBy completing the registration process, you agree to these terms and conditions. For inquiries, please contact icbbg2025 at gmail dot com.\n\n\n\n\nAll cancellation requests must be submitted in writing to icbbg2025@gmail.com.\n\nFull Refund: Cancellations requested on or before April 4, 2025, will receive a 100% refund, minus a credit card processing fee.\n\nPartial Refund or Transfer: Cancellations requested between April 5, 2025, and May 2, 2025, will receive a 50% refund, or you may transfer your registration to another attendee.\n\nNo Refunds: Cancellations after May 2, 2025, are not eligible for a refund; however, registration transfers to another attendee are still allowed.\n\n\n\n\n\n\n\n\n\nRequest Date\nRefund Amount\nAdditional Option\n\n\n\n\nOn or before  April 4, 2025\n100% refund (minus credit card fee)\nN/A\n\n\nApril 5 – May 2, 2025\n50% refund\nTransfer registration to another attendee\n\n\nAfter May 2, 2025\nNo refund\nTransfer registration to another attendee\n\n\n\nFor questions or to request a cancellation, please contact us at icbbg2025 at gmail dot com.",
+    "crumbs": [
+      "Home",
+      "Opprotunities",
+      "Register"
+    ]
   },
   {
-    "objectID": "venue.html#things-to-do-around-arizona",
-    "href": "venue.html#things-to-do-around-arizona",
-    "title": "Venues",
-    "section": "Things To Do Around Arizona",
-    "text": "Things To Do Around Arizona\n\nTempe\nTempe Town Lake (boat rentals)\nASU Art Museum\nHike “A” Mountain\nTempe Center for the Arts\n\n\nPhoenix\nDesert Botanical Garden\nPhoenix Zoo\nHiking Camelback Mountain\nHiking Piestewa Peak\nMusical Instrument Museum (MIM)\nHeard Museum\nPhoenix Art Museum\nArizona Science Center\n\n\nGilbert\nHale Theater\nDowntown Gilbert\n\n\nScottsdale\nButterfly Wonderland\nThe OdySea Aquarium\nREI Co-op Experiences\nOld Town Scottsdale\nFashion Square Mall\n\n\nMesa\nSalt River Kayaking Trip\nSalt River Tubing\n\n\nSedona and Flagstaff\nPink Jeep Tours\nGrand Canyon Railway\nSegway and Bike Tours\nWine Tours\nHorsin’ Around Adventures Meteor Crater and Barringer Space Musem\n\n\nGrand Canyon\nGateway to Northern Arizona\n\n\nPage, AZ\nHorseshoe Bend Rafting\nAntelope Canyon Tours\nLake Powell Boat Tours\nAntelope Canyon\n\n\nSouthern Utah\nBryce Canyon National Park\nZion National Park"
+    "objectID": "registration.html#register-now",
+    "href": "registration.html#register-now",
+    "title": "Registration and Accomodation",
+    "section": "",
+    "text": "Category\nPrior to 03/15/2025\nFull Price till 05/04/2025\n\n\n\n\nGeneral\n$750\n$850\n\n\nStudent\n$400\n$400\n\n\nGuest/Companion\n$250\n$250\n\n\n\n\n\n\n\nRegistration Includes:\n\nFull Registration: Reception on May 18, banquet on May 20, lunch and coffee breaks on May 19 and 20, and access to all technical programs.\nGuest/Companion Registration: Reception on May 18 and banquet on May 20.\nPayment Deadline: Payments must be received and processed by May 4; unpaid registrations will be canceled.\n\nPaper Submission:\n\nAt least one author of an accepted paper must complete a full registration for the paper to be included in the program and proceedings.\nA maximum of two papers can be associated with a single registration.\n\nNo-shows:\n\nRegistrants who do not attend the conference and fail to cancel in advance will not receive a refund.\n\nData Protection:\n\nPersonal information collected during registration will only be used for conference-related purposes and will not be shared without consent.\n\n\nBy completing the registration process, you agree to these terms and conditions. For inquiries, please contact icbbg2025 at gmail dot com.\n\n\n\n\nAll cancellation requests must be submitted in writing to icbbg2025@gmail.com.\n\nFull Refund: Cancellations requested on or before April 4, 2025, will receive a 100% refund, minus a credit card processing fee.\n\nPartial Refund or Transfer: Cancellations requested between April 5, 2025, and May 2, 2025, will receive a 50% refund, or you may transfer your registration to another attendee.\n\nNo Refunds: Cancellations after May 2, 2025, are not eligible for a refund; however, registration transfers to another attendee are still allowed.\n\n\n\n\n\n\n\n\n\nRequest Date\nRefund Amount\nAdditional Option\n\n\n\n\nOn or before  April 4, 2025\n100% refund (minus credit card fee)\nN/A\n\n\nApril 5 – May 2, 2025\n50% refund\nTransfer registration to another attendee\n\n\nAfter May 2, 2025\nNo refund\nTransfer registration to another attendee\n\n\n\nFor questions or to request a cancellation, please contact us at icbbg2025 at gmail dot com.",
+    "crumbs": [
+      "Home",
+      "Opprotunities",
+      "Register"
+    ]
+  },
+  {
+    "objectID": "registration.html#hotel-accommodation",
+    "href": "registration.html#hotel-accommodation",
+    "title": "Registration and Accomodation",
+    "section": "Hotel accommodation",
+    "text": "Hotel accommodation\n\nThe Westin Tempe\n\n11 E. 7th Street, Tempe, AZ 85281\n480-968-8885\nBook at the ICBBG 2025 Rate by Monday, April 21, 2025\n\nComplimentary High Speed Wi-Fi\nComplimentary access to WestinWorkout\n½ block from Mill Ave. District; walking distance to over 70 dining options\nWaived Destination Fee ($22)\nDestination Fee includes the following:\n\nDaily Enhanced High Speed Wi-Fi\n$25 Food and Beverage credit in Cup of Joe, Terra Tempe, or SkySill Rooftop\nBike Rental for 2 (2 hour max)\n1 free Drip Coffee for up to (2) guests at Cup of Joe\n\n\n\n\nOther Lodging Options\nMost of the hotels listed below are conveniently located within walking distance of the ASU Campus. Call the hotel directly to make your reservation. ASU and government rates may be available for many of them.\n\n\n\n\n\n\nA list of Hotels with ASU Discounts\n\n\n\n\n\nAC Hotel Phoenix Tempe/Downtown\n100 E Rio Salado Pkwy, Tempe, AZ 85281\n(480) 642-6140\nBook Your Preferred ASU Rate \n\nComplimentary Wi-Fi in all guest rooms\n\nCanopy by Hilton Tempe Downtown\n108 E. University Drive, Tempe, AZ 85281\n480-968-6800\nBook your Preferred ASU Rate\n\nComplimentary WI-FI\nComplimentary Bikes and access to Fitness Center\nConveniently located to ASU, Gammage and Mill Avenue, walking distance to dining, shopping and nightlife\n\nDoubleTree by Hilton Phoenix - Tempe\n2100 S Priest Dr Tempe, AZ 85282\nTempe, AZ 85281\n480-804-5264\nBook your preferred ASU rate.\n\nComplimentary daily full hot breakfast\nComplimentary shuttle to and from the Phoenix Sky Harbor Airport/ within 5 mile radius of Hotel\nComplimentary Wi-Fi in all guest rooms\nComplimentary self parking\n\nElement Scottsdale at SkySong\n1345 N. Scottsdale Road, Scottsdale, AZ 85257\n480-361-0000\nBook your preferred ASU rate\n\nComplimentary hot breakfast buffet daily\nComplimentary light evening reception, Monday – Thursday\n\nGraduate Tempe by Hilton\n225 East Apache Boulevard, Tempe, AZ 85281\n480-967-9431\nBook your Preferred ASU Rate\n\nWalking distance to ASU, restaurants, shopping and entertainment\nComplimentary High Speed Wi-Fi.\nComplimentary Bikes\n\nHyatt House Tempe/Phoenix/University\n601 E. 6th St Tempe, AZ 85281\n480-219-5956\nBook your preferred ASU rate\n\nWalking distance to ASU\nComplimentary breakfast\nComplimentary High-speed wireless internet\nParking is $15.00 per night in a secure parking garage\n\nHyatt Place Tempe/Phoenix/University\nBook your preferred ASU rate\n601 E. 6th St Tempe, AZ 85281\n480-219-5956\n\nWalking distance to ASU\nComplimentary breakfast\nComplimentary High-speed wireless internet\nParking is $15.00 per night in a secure parking garage\n\nOmni Tempe Hotel at ASU\n7 E University Dr, Tempe, AZ 85281\n1-800-THE-OMNI\nBook your Preferred ASU Rate\n\nDestination Fee Waived ($25 per night value)\nComplimentary Wi-Fi\n24-Hour access to Fitness Center with Amenities\nAccess to Rooftop Pool\nRestful Sleep Kit Amenities (Upon Request)\nLocated on ASU campus (corner of Mills Ave/East University Dr.)\nWalk to campus activities at ASU Gammage, ASU Art Museum, Mountain America Stadium, Hayden Library\nSteps to Mill Avenue restaurants, shopping, and entertainment\nSteps to Tempe Valley Metro Streetcar (Ninth St./Mill Stop)\n\nSonesta Select Tempe Downtown\n601 S Ash Ave, Tempe, AZ 85281\n(480) 395-7328\nBook your Preferred ASU rate\n\nComplimentary Breakfast vouchers\nComplimentary Wi-Fi Internet in every guest room and guest areas\nComplimentary parking\n\nTempe Mission Palms\n60 East Fifth Street, Tempe, AZ 85281\nBook your Preferred ASU Rate\n480-894-1400\n\nValet or self-parking (included in destination fee)\nAccess to health club and fitness center (included in destination fee)\nAirport Shutte Service (included in destination fee)\nHigh-speed wireless Internet access (included in destination fee)\nDiscounted hospitality fee to $12.95 plus tax per room, per night (regularly $25.00 plus tax per room, per night)\n\nVīb Best Western Tempe\n511 S Farmer Ave, Tempe, AZ 85281\n(480) 805-2070\nBook your Preferred ASU Rate\n\nParking is $10.00 per night\nWalking distance to ASU, restaurants, shopping, and entertainment\nComplimentary Wi-Fi in Guest Rooms & Lobby",
+    "crumbs": [
+      "Home",
+      "Opprotunities",
+      "Register"
+    ]
+  },
+  {
+    "objectID": "importantdates.html",
+    "href": "importantdates.html",
+    "title": "Important Dates",
+    "section": "",
+    "text": "Event\nDate\n\n\n\n\nSession Proposals Due\nApril 2023\n\n\nAbstract Submissions Begin\nJune 2023\n\n\nAbstracts Due\nOctober 2023 → March 15, 2024\n\n\nFull Paper Invitations Begin\nDecember 2023 → April 15, 2024\n\n\nDraft Papers Due\nAugust 2024 → September 30, 2024\n\n\nReview Comments to Authors\nUpdate (Details)\n\n\nFinal Papers Due\nOne month after receiving comments\n\n\nRegistration Open\nDecember 23, 2024\n\n\nPoster Abstracts Due\nJanuary 31, 2025\n\n\nEarly Bird Registration Ends\nMarch 15, 2025\n\n\nCancellation with Full Refund Ends\nApril 4, 2025\n\n\nCancellation with 50% Refund\nApril 4–May 2, 2025\n\n\nICBBG Rate at Westin Tempe Ends\nApril 21, 2025\n\n\nRegistration Ends\nMay 4, 2025\n\n\nICBBG 2025\nMay 18–20, 2025"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "2025 International Conference on Bio-mediated and Bio-inspired Geotechnics (ICBBG)",
+    "section": "",
+    "text": "The conference aims to present the latest advancements in the field of Bio-mediated and Bio-inspired Geotechnics (BioGeotechnics). It provides a platform for fostering collaboration and the exchange of information about this emerging area. Key objectives include enhancing the modeling of bio-mediated and bio-inspired processes, translating foundational bio-inspired knowledge into viable technologies with potential for future commercialization, and promoting the integration of these innovative solutions into geotechnical engineering practices. Through these efforts, the conference seeks to drive the advancement of sustainable approaches to geotechnical challenges."
+  },
+  {
+    "objectID": "index.html#featured-speakers",
+    "href": "index.html#featured-speakers",
+    "title": "2025 International Conference on Bio-mediated and Bio-inspired Geotechnics (ICBBG)",
+    "section": "Featured Speakers ➡️",
+    "text": "Featured Speakers ➡️\n\n\n\n\n\n\n\n\n\nJian Chu  Nanyang Technological University, Singapore\n\n\n\n\n\n\n\nAnca Delgado  Arizona State University\n\n\n\n\n\n\n\nAnnette Esnault Filet  Soletanche Bachy International Inc.\n\n\n\n\n\n\n\n\n\nJonathan Knappett  University of Dundee, Scotland\n\n\n\n\n\n\n\nAlejandro Martinez  University of California, Davis\n\n\n\n\n\n\n\nBrina Montoya  North Carolina State University"
+  },
+  {
+    "objectID": "index.html#session-topics",
+    "href": "index.html#session-topics",
+    "title": "2025 International Conference on Bio-mediated and Bio-inspired Geotechnics (ICBBG)",
+    "section": "Session Topics ➡️",
+    "text": "Session Topics ➡️\n\n\n\n\n\n\nGeneral Sessions\n\nBio-mediated methods for hazard mitigation\nBio-mediated methods for environmental protection and restoration\nBio-mediated methods for infrastructure construction\nBio-inspired methods for infrastructure construction\nBio-inspired methods for subsurface exploration and excavation\nFundamental research on biogeotechnics\nCase studies on field applications of biogeotechnics\n\n\n\nSpecial Symposia\n\nBio-inspired Tunneling\nAsia experiences on bio-mediated geotechnics\nEurope experiences on bio-mediated geotechnics\nBiopolymer treated soils\nDelivery strategies for MICP\nMICP for sustainable geoenergy applications\nFungal treatment of soils\nBuild with nature\nEducation, outreach, diversity, inclusion, and equity in engineering"
+  },
+  {
+    "objectID": "index.html#organizing-chairs",
+    "href": "index.html#organizing-chairs",
+    "title": "2025 International Conference on Bio-mediated and Bio-inspired Geotechnics (ICBBG)",
+    "section": "Organizing Chairs ➡️",
+    "text": "Organizing Chairs ➡️\n\n\n\n\n\n\n\n\n\nEdward Kavazanjian  Arizona State University\n\n\n\n\n\n\n\nSusan Burns  Georgia Institute of Technology"
+  },
+  {
+    "objectID": "index.html#icbbg-2025-partners",
+    "href": "index.html#icbbg-2025-partners",
+    "title": "2025 International Conference on Bio-mediated and Bio-inspired Geotechnics (ICBBG)",
+    "section": "ICBBG 2025 Partners",
+    "text": "ICBBG 2025 Partners"
+  },
+  {
+    "objectID": "index.html#exhibitors-and-sponsors",
+    "href": "index.html#exhibitors-and-sponsors",
+    "title": "2025 International Conference on Bio-mediated and Bio-inspired Geotechnics (ICBBG)",
+    "section": "Exhibitors and Sponsors",
+    "text": "Exhibitors and Sponsors\nTo be announced. Join us today!"
+  },
+  {
+    "objectID": "speakers.html",
+    "href": "speakers.html",
+    "title": "Speakers",
+    "section": "",
+    "text": "Jian Chu  Nanyang Technological University\n\n\n\n\nJian Chu, President’s Chair in Civil Engineering, is the Chair of the School of Civil and Environmental Engineering and the Director of the Centre for Urban Solutions at the Nanyang Technological University (NTU), Singapore. He also worked for Iowa State University, USA, from 2011 to 2014 as professor and James M. Hoover Chair in Geotechnical Engineering. Prof Chu is currently the Chair of Technical Committee TC217 on Land Reclamation and a Committee Member for TC211 on Ground Improvement under the International Society of Soil Mechanics and Geotechnical Engineering (ISSMGE). He is an Editor of Acta Geotechnica, Editor-in-Chief of BioGeotechnics, and Associate Editor for Journal of Materials in Civil Engineering, ASCE. Prof Chu has delivered over 70 keynote or invited lectures at international conferences, including the State-of-the-art lecture at the 17th International Conference of ISSMGE in 2009. As a past President of the Geotechnical Society of Singapore, Prof Chu has worked as a consultant or advisor for several large-scale construction projects in Singapore and overseas. He received the R. M. Quigley Award from the Canadian Geotechnical Society in 2004 and the Outstanding Geotechnical Engineer Award from the Geotechnical Society of Singapore in 2018.\n\n\n\n\n\n\n\n\n\n\n\n\nAnca Delgado  Arizona State University\n\n\n\n\nAnca Delgado received a Ph.D. in Microbiology from Arizona State University and is currently an Assistant Professor of Environmental Engineering in the School of Sustainable Engineering and the Built Environment and the Biodesign Swette Center for Environmental Biotechnology at Arizona State University. Dr. Delgado’s expertise is environmental biotechnology with a focus on the use of natural and artificial microbiomes for bioremediation, bioming, and production of valuable biochemicals. Dr. Delgado is a Thrust Leader and Principal Investigator in the NSF-sponsored Engineering Research Center for Bio-mediated and Bio-inspired Geotechnics (CBBG), working on geoenvironmental projects funded by NSF and CBBG-industry partners.\n\n\n\n\n\n\n\n\n\n\n\n\nAnnette Esnault Filet  Soletanche Bachy\n\n\n\n\nAnnette Esnault Filet is a Senior Project Manager at Soletanche Bachy International, within the Technical Direction. An expert in the fields of biogrouting and biocalcification, she is in charge of the developments of the Biocalcis process patented by the company. Annete is responsible for the implementation of the process on real sites (feasibility study, design and controls), its optimization for new fields of applications and the coordination of research in the fields of new bio-inspired technologies and environmental solutions with the group.\n\n\n\n\n\n\n\n\n\n\n\n\nJonathan Knappett  University of Dundee\n\n\n\n\nJonathan Knappett joined the University of Dundee as a Lecturer in 2006, following MEng and PhD degrees at the University of Cambridge. His expertise is principally in physical (centrifuge) modelling and numerical simulation and his research interests cover a range of topical dynamic and environmental soil-structure interaction problems, including the use of nature-based solutions to mitigate the effects of geohazards on infrastructure. He was awarded the British Geotechnical Association Medal in 2009, the TK Hsieh Award of the Institution of Civil Engineers (ICE) in 2010, the ISSMGE TC203 Young Researcher Award in 2018 and the Geotechnical Research Medal of the ICE in 2023. In 2017 he delivered the 13th Géotechnique Lecture on the use of vegetation in low-carbon Geotechnical Engineering. He was the Chairman (Editor in Chief) of the International Journal of Physical Modelling in Geotechnics (2014-2018), is the principal author of the textbook Craig’s Soil Mechanics and is a Chartered Civil Engineer.\n\n\n\n\n\n\n\n\n\n\n\n\nAlejandro Martinez  University of California Davis\n\n\n\n\nAlejandro Martinez is an associate professor at the University of California Davis. He obtained his Ph.D. and M.S. degrees from Georgia Tech in 2015 and 2012, respectively, and his B.S. from the University of Texas at Austin in 2010. His research aims to further the understanding of soil behavior and soil-inclusion interactions involved in geotechnical engineering as well as in burrowing and locomotion. His research interests include soil-structure interaction, bio-inspired geotechnics, fabric effects on soil behavior, and static liquefaction of soils. His research employs a combination of experimental laboratory, hypergravity modeling, and numerical techniques. In 2020, he received the NSF CAREER award and in 2022 he received the ASCE Arthur Casagrande Career Development Award.\n\n\n\n\n\n\n\n\n\n\n\n\nBrina Montoya  North Carolina State University\n\n\n\n\nBrina Montoya is an Associate Professor in the Department of Civil, Construction, and Environmental Engineering at North Carolina State University. Dr. Montoya’s research interests focus on bio-mediated stabilization approaches to improve the sustainability and resiliency of infrastructure, specifically with regards to infrastructure subjected to natural hazards, such as earthquake-induced liquefaction and coastal erosion, and addressing anthropogenic hazards, such as stabilizing tailings impoundments and carbon sequestration. Her research has been recognized with several honors, including the NSF CAREER Award, the ASCE Arthur Casagrande Professional Development Award, and the USUCGER Early Career Research Award. She received her Ph.D. from the University of California, Davis in 2012. Prior to entering graduate school, Dr. Montoya worked for a consulting geotechnical engineering company in the San Francisco Bay Area, focusing on foundation design and liquefaction mitigation. She is a licensed engineer in the state of California."
+  },
+  {
+    "objectID": "speakers.html#keynote-speakers",
+    "href": "speakers.html#keynote-speakers",
+    "title": "Speakers",
+    "section": "",
+    "text": "Jian Chu  Nanyang Technological University\n\n\n\n\nJian Chu, President’s Chair in Civil Engineering, is the Chair of the School of Civil and Environmental Engineering and the Director of the Centre for Urban Solutions at the Nanyang Technological University (NTU), Singapore. He also worked for Iowa State University, USA, from 2011 to 2014 as professor and James M. Hoover Chair in Geotechnical Engineering. Prof Chu is currently the Chair of Technical Committee TC217 on Land Reclamation and a Committee Member for TC211 on Ground Improvement under the International Society of Soil Mechanics and Geotechnical Engineering (ISSMGE). He is an Editor of Acta Geotechnica, Editor-in-Chief of BioGeotechnics, and Associate Editor for Journal of Materials in Civil Engineering, ASCE. Prof Chu has delivered over 70 keynote or invited lectures at international conferences, including the State-of-the-art lecture at the 17th International Conference of ISSMGE in 2009. As a past President of the Geotechnical Society of Singapore, Prof Chu has worked as a consultant or advisor for several large-scale construction projects in Singapore and overseas. He received the R. M. Quigley Award from the Canadian Geotechnical Society in 2004 and the Outstanding Geotechnical Engineer Award from the Geotechnical Society of Singapore in 2018.\n\n\n\n\n\n\n\n\n\n\n\n\nAnca Delgado  Arizona State University\n\n\n\n\nAnca Delgado received a Ph.D. in Microbiology from Arizona State University and is currently an Assistant Professor of Environmental Engineering in the School of Sustainable Engineering and the Built Environment and the Biodesign Swette Center for Environmental Biotechnology at Arizona State University. Dr. Delgado’s expertise is environmental biotechnology with a focus on the use of natural and artificial microbiomes for bioremediation, bioming, and production of valuable biochemicals. Dr. Delgado is a Thrust Leader and Principal Investigator in the NSF-sponsored Engineering Research Center for Bio-mediated and Bio-inspired Geotechnics (CBBG), working on geoenvironmental projects funded by NSF and CBBG-industry partners.\n\n\n\n\n\n\n\n\n\n\n\n\nAnnette Esnault Filet  Soletanche Bachy\n\n\n\n\nAnnette Esnault Filet is a Senior Project Manager at Soletanche Bachy International, within the Technical Direction. An expert in the fields of biogrouting and biocalcification, she is in charge of the developments of the Biocalcis process patented by the company. Annete is responsible for the implementation of the process on real sites (feasibility study, design and controls), its optimization for new fields of applications and the coordination of research in the fields of new bio-inspired technologies and environmental solutions with the group.\n\n\n\n\n\n\n\n\n\n\n\n\nJonathan Knappett  University of Dundee\n\n\n\n\nJonathan Knappett joined the University of Dundee as a Lecturer in 2006, following MEng and PhD degrees at the University of Cambridge. His expertise is principally in physical (centrifuge) modelling and numerical simulation and his research interests cover a range of topical dynamic and environmental soil-structure interaction problems, including the use of nature-based solutions to mitigate the effects of geohazards on infrastructure. He was awarded the British Geotechnical Association Medal in 2009, the TK Hsieh Award of the Institution of Civil Engineers (ICE) in 2010, the ISSMGE TC203 Young Researcher Award in 2018 and the Geotechnical Research Medal of the ICE in 2023. In 2017 he delivered the 13th Géotechnique Lecture on the use of vegetation in low-carbon Geotechnical Engineering. He was the Chairman (Editor in Chief) of the International Journal of Physical Modelling in Geotechnics (2014-2018), is the principal author of the textbook Craig’s Soil Mechanics and is a Chartered Civil Engineer.\n\n\n\n\n\n\n\n\n\n\n\n\nAlejandro Martinez  University of California Davis\n\n\n\n\nAlejandro Martinez is an associate professor at the University of California Davis. He obtained his Ph.D. and M.S. degrees from Georgia Tech in 2015 and 2012, respectively, and his B.S. from the University of Texas at Austin in 2010. His research aims to further the understanding of soil behavior and soil-inclusion interactions involved in geotechnical engineering as well as in burrowing and locomotion. His research interests include soil-structure interaction, bio-inspired geotechnics, fabric effects on soil behavior, and static liquefaction of soils. His research employs a combination of experimental laboratory, hypergravity modeling, and numerical techniques. In 2020, he received the NSF CAREER award and in 2022 he received the ASCE Arthur Casagrande Career Development Award.\n\n\n\n\n\n\n\n\n\n\n\n\nBrina Montoya  North Carolina State University\n\n\n\n\nBrina Montoya is an Associate Professor in the Department of Civil, Construction, and Environmental Engineering at North Carolina State University. Dr. Montoya’s research interests focus on bio-mediated stabilization approaches to improve the sustainability and resiliency of infrastructure, specifically with regards to infrastructure subjected to natural hazards, such as earthquake-induced liquefaction and coastal erosion, and addressing anthropogenic hazards, such as stabilizing tailings impoundments and carbon sequestration. Her research has been recognized with several honors, including the NSF CAREER Award, the ASCE Arthur Casagrande Professional Development Award, and the USUCGER Early Career Research Award. She received her Ph.D. from the University of California, Davis in 2012. Prior to entering graduate school, Dr. Montoya worked for a consulting geotechnical engineering company in the San Francisco Bay Area, focusing on foundation design and liquefaction mitigation. She is a licensed engineer in the state of California."
   },
   {
     "objectID": "submissions.html",
@@ -63,53 +148,185 @@
     "text": "Calls\nDue Date\n\n\n\n\nCall for Session Proposals\nSubmission is closed\n\n\nCall for Abstracts\nSubmission is closed\n\n\nCall for Full Papers\nSubmission is closed\n\n\nCall for Posters\nDue: January 31, 2025\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "publication.html",
-    "href": "publication.html",
-    "title": "Publication",
+    "objectID": "call-for-exhibitors-sponsors.html",
+    "href": "call-for-exhibitors-sponsors.html",
+    "title": "Call for Exhibitors and Sponsors",
     "section": "",
-    "text": "Note\n\n\n\nTo be announced."
+    "text": "Contact us today! (icbbg2025 at gmail dot com)",
+    "crumbs": [
+      "Home",
+      "Opprotunities",
+      "Call for Exhibition and Sponsorship"
+    ]
   },
   {
-    "objectID": "reviewer-guides.html",
-    "href": "reviewer-guides.html",
-    "title": "Guidelines for Reviewers",
-    "section": "",
-    "text": "Tip\n\n\n\nThis is a living document; the Q&A section at the end will be updated continuously as new questions arise.\nThank you for accepting our invitation to serve as a reviewer for ICBBG 2025."
+    "objectID": "call-for-exhibitors-sponsors.html#exhibitor-opportunities",
+    "href": "call-for-exhibitors-sponsors.html#exhibitor-opportunities",
+    "title": "Call for Exhibitors and Sponsors",
+    "section": "Exhibitor Opportunities",
+    "text": "Exhibitor Opportunities\nExhibitor Fee: $3,500\n\nWhat’s Included:\n\nBooth space in the exhibit area\n\nBranding in conference materials and on the website",
+    "crumbs": [
+      "Home",
+      "Opprotunities",
+      "Call for Exhibition and Sponsorship"
+    ]
   },
   {
-    "objectID": "reviewer-guides.html#timeline",
-    "href": "reviewer-guides.html#timeline",
-    "title": "Guidelines for Reviewers",
+    "objectID": "call-for-exhibitors-sponsors.html#sponsorship-opportunities",
+    "href": "call-for-exhibitors-sponsors.html#sponsorship-opportunities",
+    "title": "Call for Exhibitors and Sponsors",
+    "section": "Sponsorship Opportunities",
+    "text": "Sponsorship Opportunities\n\nBanquet Sponsor – $5,000\n\nRecognition as the exclusive sponsor for the banquet event\n\nBranding at the banquet venue, in conference materials and on the website\n\nLunch Sponsor – $3,000\n\nRecognition as a sponsor for one of the conference lunches\n\nBranding in the dining area, in conference materials and on the website\n\nCoffee Break Sponsor – $2,000\n\nRecognition as a sponsor for one coffee break during the conference\n\nBranding at the coffee station, in conference materials and on the website\n\n\n\n\n\n\n\n\nAll funds will be deposited with the ASU Foundation for A New American University, a nonprofit organization that exists to support Arizona State University (ASU). Gifts in support of ASU are subject to foundation policies and fees. Due to the fair market value (FMV) benefits received, only payments in excess of fair market value may be considered a charitable contribution. Please consult your tax advisor regarding the deductibility of charitable contributions.",
+    "crumbs": [
+      "Home",
+      "Opprotunities",
+      "Call for Exhibition and Sponsorship"
+    ]
+  },
+  {
+    "objectID": "call-for-exhibitors-sponsors.html#how-to-get-involved",
+    "href": "call-for-exhibitors-sponsors.html#how-to-get-involved",
+    "title": "Call for Exhibitors and Sponsors",
+    "section": "How to Get Involved",
+    "text": "How to Get Involved\nReserve your spot as an exhibitor or sponsor today! Availability is limited and will be offered on a first-come, first-served basis.\n\nTo secure your participation, please contact:\n\n: icbbg2025 at gmail dot com\n: (480) 965-2489\n\nFor more information on the conference, please visit ICBBG 2025 Website and Registration Information.\n\nWe look forward to your support in making ICBBG 2025 an outstanding event for all participants!",
+    "crumbs": [
+      "Home",
+      "Opprotunities",
+      "Call for Exhibition and Sponsorship"
+    ]
+  },
+  {
+    "objectID": "submissions/call-for-sessions.html",
+    "href": "submissions/call-for-sessions.html",
+    "title": "Call for Session Proposals",
+    "section": "",
+    "text": "This is an invitation to submit proposals for sessions in the International Conference on Bio-mediated and Bio-inspired Geotechnics (ICBBG) 2025, to be held May 19-21, 2025 in Tempe, Arizona, USA. ICBBG aims to bring together top researchers from around the world to present the state of the art and state of the practice on biogeotechnics, and to facilitate knowledge exchange among researchers, industry, agencies and educators.\nA proposal should identify a coherent topic that can be addressed by about 6 to 12 papers. For example, a session might bring together papers on different aspects to a particular biogeotechnics question (e.g., MICP, EICP, bio-inspired burrowing, root-inspired-foundation) or it might examine the applications of a particular technology (e.g., x-ray CT) in a variety of biogeotechnics areas.\nICBBG is interested in the following general themes:"
+  },
+  {
+    "objectID": "submissions/call-for-sessions.html#responsibilities-of-a-session-chair",
+    "href": "submissions/call-for-sessions.html#responsibilities-of-a-session-chair",
+    "title": "Call for Session Proposals",
+    "section": "Responsibilities of a session chair:",
+    "text": "Responsibilities of a session chair:\nRecognizing that many in the community believe the value of a meeting depends on the quality of its review process, every full manuscript submitted to ICBBG will be reviewed by at least two anonymous reviewers, as well as the session chairs.\nAs a proposer of an accepted session, you will become the session chair. The chair’s primary responsibility is to solicit high quality papers for the session and to oversee the review. You are to solicit manuscripts, have them refereed, collaborate with the conference chairs in determining which manuscripts are to be accepted and structure presentation time in your session. Please contact us at the address below if you have any questions about the obligations entailed in becoming a session organizer."
+  },
+  {
+    "objectID": "submissions/call-for-sessions.html#procedure-for-submitting-proposals",
+    "href": "submissions/call-for-sessions.html#procedure-for-submitting-proposals",
+    "title": "Call for Session Proposals",
+    "section": "Procedure for submitting proposals:",
+    "text": "Procedure for submitting proposals:\nSession proposals can be as short as a single page, including the following information:\n\nSession Title\nNames and contact information of the organizer(s)\nAbstract (1 paragraph), describing the specific scope, purpose and significance of the session\nRough estimate of the anticipated number of presentations\nList of potential contributors (Optional but highly recommended)\n\nProposals must be submitted to the email address icbbg2025 at gmail dot com.\nEach proposal will be evaluated by the organizing committee."
+  },
+  {
+    "objectID": "submissions/call-for-sessions.html#important-dates",
+    "href": "submissions/call-for-sessions.html#important-dates",
+    "title": "Call for Session Proposals",
+    "section": "Important Dates",
+    "text": "Important Dates\nApril 30, 2023 – Proposals Due\nMay 31, 2023 – Notification of Acceptance"
+  },
+  {
+    "objectID": "submissions/call-for-sessions.html#questions",
+    "href": "submissions/call-for-sessions.html#questions",
+    "title": "Call for Session Proposals",
+    "section": "Questions?",
+    "text": "Questions?\nPlease send email to the organizing committee, icbbg2015 at gmail dot com"
+  },
+  {
+    "objectID": "submissions/call-for-abstracts.html",
+    "href": "submissions/call-for-abstracts.html",
+    "title": "Call for Abstracts",
+    "section": "",
+    "text": "Submit an abstract\nWe sincerely invite you to submit abstracts to the International Conference on Bio-mediated and Bio-inspired Geotechnics (ICBBG) 2025, scheduled to take place in Tempe, Arizona, USA from May 19 to 21, 2025. ICBBG aims to bring together top researchers from around the world to present the state of the art and state of the practice on biogeotechnics, and to facilitate knowledge exchange among researchers, industry, agencies and educators."
+  },
+  {
+    "objectID": "submissions/call-for-abstracts.html#themes",
+    "href": "submissions/call-for-abstracts.html#themes",
+    "title": "Call for Abstracts",
+    "section": "Themes",
+    "text": "Themes\nWe call for submissions to 8 general sessions and 8 special symposia:\n\n\n\n\n\nGeneral sessions\nSpecial symposia\n\n\n\n\nBio-mediated methods for hazard mitigation\nBio-inspired Tunneling\n\n\nBio-mediated methods for environmental protection and restoration\nAsia experiences on bio-mediated geotechnics\n\n\nBio-mediated methods for infrastructure construction\nEurope experiences on bio-mediated geotechnics\n\n\nBio-inspired methods for infrastructure construction\nBiopolymer treated soils\n\n\nBio-inspired methods for subsurface exploration and excavation\nDelivery strategies for MICP\n\n\nFundamental research on biogeotechnics\nMICP for sustainable geoenergy applications\n\n\nCase studies on field applications of biogeotechnics\nFungal treatment of soils\n\n\nEducation, outreach, diversity, inclusion and equity in engineering\nBuild with nature"
+  },
+  {
+    "objectID": "submissions/call-for-abstracts.html#abstract-submission-instructions-for-authors",
+    "href": "submissions/call-for-abstracts.html#abstract-submission-instructions-for-authors",
+    "title": "Call for Abstracts",
+    "section": "Abstract Submission Instructions for Authors",
+    "text": "Abstract Submission Instructions for Authors\n\nAbstracts should have 150 to 250 words.\nAbstracts are submitted to the ISSMGE conference review platform (deadline: March 15, 2024).\n\nYou need to use your free ISSMGE account to login\nIf you are submitting multiple papers, please use a same account\n\nSelect a general session or a special symposium (see the above table)\n\nIf none of the provided themes fit your paper, please select “General session: Other”\nNote that abstracts submitted to Special Symposia may be later reassigned to General sessions depending on the number of abstracts received for each symposium.\n\nSelect a presentation type (oral, poster or either)"
+  },
+  {
+    "objectID": "submissions/call-for-abstracts.html#what-to-expect-after-submission-of-abstracts",
+    "href": "submissions/call-for-abstracts.html#what-to-expect-after-submission-of-abstracts",
+    "title": "Call for Abstracts",
+    "section": "What to Expect after Submission of Abstracts",
+    "text": "What to Expect after Submission of Abstracts\n\n\n\n\n\n\n\n\nActions\nDate\n\n\n\n\nAbstracts Due\nOctober 2023 March 15, 2024\n\n\nFull Paper Invitations Begin\nDecember 2023 April 15, 2024\n\n\nDraft Papers due\nMay 2024 August 31, 2024\n\n\nReview Comments to Authors\nNovember 15, 2024\n\n\nFinal Papers due\nDecember 2024 January 31 , 2025\n\n\nConference Registration Due\nMarch 31, 2025"
+  },
+  {
+    "objectID": "submissions/call-for-abstracts.html#publication-and-copyright-information",
+    "href": "submissions/call-for-abstracts.html#publication-and-copyright-information",
+    "title": "Call for Abstracts",
+    "section": "Publication and Copyright Information",
+    "text": "Publication and Copyright Information\n\nAuthors retain all rights to their articles in the conference proceedings.\nA copyright agreement form will be provided to authors and must be submitted at the time of acceptance and final submission of revised papers.\nAccepted papers will be published in a free and open access conference proceedings in the ISSMGE Online Library.\nEach paper will be indexed with its own individual DOI number and Conference Proceedings, with their own ISSN.\nAdditional indexing options such as Scopus, WoS/Clarivate, EI, and Compendex may be sought.\nThe conference editorial board may invite selected conference papers for special issues of high impact journals."
+  },
+  {
+    "objectID": "submissions/call-for-abstracts.html#questions",
+    "href": "submissions/call-for-abstracts.html#questions",
+    "title": "Call for Abstracts",
+    "section": "Questions?",
+    "text": "Questions?\nPlease send emails to the organizing committee, icbbg2025 at gmail dot com\nTo learn more, visit the conference website: https://www.icbbg2025.com\nSubmit an abstract"
+  },
+  {
+    "objectID": "editor-guides.html",
+    "href": "editor-guides.html",
+    "title": "Guidelines for Editors",
+    "section": "",
+    "text": "Tip\n\n\n\nThis is a living document; the Q&A section at the end will be updated continuously as new questions arise.\nThank you for volunteering or accepting our invitation to serve as an editor for ICBBG 2025. If you proposed a special symposium, you are automatically assigned as an editor as well."
+  },
+  {
+    "objectID": "editor-guides.html#assignment-overview",
+    "href": "editor-guides.html#assignment-overview",
+    "title": "Guidelines for Editors",
+    "section": "Assignment Overview",
+    "text": "Assignment Overview\nIn the ISSMGE Conference Review System, each of you is assigned as a “Theme Editor” responsible for one or more themes established at the call for abstracts.\nAssignments are based on your expertise and potential conflicts of interest. If you submitted multiple papers within a theme, you were reassigned to a related theme to ensure impartiality. I have reviewed and adjusted each paper’s theme accordingly. However, if you encounter one of your own papers, your co-editor should handle it.\nFor themes with a large number of papers, please coordinate with your co-editor to distribute the workload effectively. If you need additional co-editors to share the workload, please let us know—and feel free to suggest candidates.\nThere will be a single round of external reviews. If a paper requires revision and resubmission, the editor should review the revised version and make a final decision."
+  },
+  {
+    "objectID": "editor-guides.html#timeline",
+    "href": "editor-guides.html#timeline",
+    "title": "Guidelines for Editors",
     "section": "Timeline",
-    "text": "Timeline\nThe suggested timeline for reviews is provided below. Due dates for reviewers are flexible based on when they accept their invitation. However, please finish your review promptly and aim to follow these dates closely, especially with the holiday season approaching, to avoid delays and ensure timely publication in the ISSMGE system.\n\n\n\nTentative timeline"
+    "text": "Timeline\nThe suggested timeline for reviews is provided below. Due dates for reviewers are flexible based on when they accept their invitation. However, please invite reviewers promptly and aim to follow these dates closely, especially with the holiday season approaching, to avoid delays and ensure timely publication in the ISSMGE system.\n\n\n\nTentative timeline"
   },
   {
-    "objectID": "reviewer-guides.html#review-criteria",
-    "href": "reviewer-guides.html#review-criteria",
-    "title": "Guidelines for Reviewers",
+    "objectID": "editor-guides.html#review-criteria",
+    "href": "editor-guides.html#review-criteria",
+    "title": "Guidelines for Editors",
     "section": "Review Criteria",
-    "text": "Review Criteria\nSimilar to other conference proceeding papers, please consider the following criteria for acceptance:\n\nRelevance to the conference\nImpact on the field\nNovelty of the contribution\nRigor of the research\nPresentation quality and adherence to guidelines. This is essential for final publication, and we rely on reviewers and editors to ensure the final submission is truly camera-ready..\n\nPlease provide review comments based on the above criteria and make a recommendation accordingly."
+    "text": "Review Criteria\nWe recommend basing your final decision on the results of two independent reviews. If a second review cannot be completed in time, you may step in as a reviewer yourself. Please consider the following criteria for acceptance:\n\nRelevance to the conference\nImpact on the field\nNovelty of the contribution\nRigor of the research\nPresentation quality and adherence to author’s guidelines. This is essential for final publication, and we rely on reviewers and editors to ensure the final submission is truly camera-ready."
   },
   {
-    "objectID": "reviewer-guides.html#issmge-conference-review-platform",
-    "href": "reviewer-guides.html#issmge-conference-review-platform",
-    "title": "Guidelines for Reviewers",
+    "objectID": "editor-guides.html#issmge-conference-review-platform",
+    "href": "editor-guides.html#issmge-conference-review-platform",
+    "title": "Guidelines for Editors",
     "section": "ISSMGE Conference Review Platform",
-    "text": "ISSMGE Conference Review Platform\n\nLogin Information: Use your existing ISSMGE account for https://www.issmge.org/publications/review-platform. For login issues, contact webmaster at issmge dot org, directly.\nPlatform Overview:\n\nAfter logging in, you’ll see a list of papers under your “Reviewer” role, with their review status.\nClicking a paper directs to the “Summary tab” which contains all related information about the paper. Option is given to download the submitted paper. Upon review request an option is given to either accept or decline the review.\n“Review tab” is available upon review acceptance. It contains a form to fill in the review. Reviewer is able to select between “Accept As Is”, “Accept With Changes” and “Decline”. A text area is provided to submit his/her comments along with an attachment option to submit a supplementary file. Information on how to remove metadata, that will reveal his/her identity, is also provided. Reviewer will also need to recommend whether the paper is suited for Oral, Poster or both.\n\n\nFor more detailed guidance, please refer to the CRP User Guide."
+    "text": "ISSMGE Conference Review Platform\n\nLogin Information: Use your existing ISSMGE account for https://www.issmge.org/publications/review-platform. For login issues, contact webmaster at issmge dot org directly.\nPlatform Overview:\n\nAfter logging in, you’ll see a list of papers under your “Editor” or “Theme Editor” role, with their review status.\nInvite reviewers via email (preferred) or by expertise (built-in list of ISSMGE users), or assign papers to yourself if necessary.\nOnce you have the minimum number of reviews, submit your decision.\n\n\nFor more detailed guidance, please refer to the CRP User Guide."
   },
   {
-    "objectID": "reviewer-guides.html#qa",
-    "href": "reviewer-guides.html#qa",
-    "title": "Guidelines for Reviewers",
+    "objectID": "editor-guides.html#tips-for-selecting-reviewers",
+    "href": "editor-guides.html#tips-for-selecting-reviewers",
+    "title": "Guidelines for Editors",
+    "section": "Tips for Selecting Reviewers",
+    "text": "Tips for Selecting Reviewers\n\nInvite Authors within Your Theme: Corresponding authors from other papers in your theme can provide valuable insights.\nConsider Early-Career Researchers: Recent PhD graduates and postdocs are often eager to contribute and bring fresh perspectives.\nPrioritize Responsiveness: Choose reviewers known for responsiveness to keep the process timely."
+  },
+  {
+    "objectID": "editor-guides.html#system-limitations",
+    "href": "editor-guides.html#system-limitations",
+    "title": "Guidelines for Editors",
+    "section": "System Limitations",
+    "text": "System Limitations\nAlthough I aimed to implement a scoring form (0-10 scale) for relevance, impact, novelty, rigor, and presentation, this is currently not supported by the system.\nIf you need to share additional guidelines with reviewers, please direct them to the Reviewer Guides for reference.\nThank you for your commitment to ensuring an efficient review process!"
+  },
+  {
+    "objectID": "editor-guides.html#qa",
+    "href": "editor-guides.html#qa",
+    "title": "Guidelines for Editors",
     "section": "Q&A",
-    "text": "Q&A"
-  },
-  {
-    "objectID": "importantdates.html",
-    "href": "importantdates.html",
-    "title": "Important Dates",
-    "section": "",
-    "text": "Event\nDate\n\n\n\n\nSession Proposals Due\nApril 2023\n\n\nAbstract Submissions Begin\nJune 2023\n\n\nAbstracts Due\nOctober 2023 → March 15, 2024\n\n\nFull Paper Invitations Begin\nDecember 2023 → April 15, 2024\n\n\nDraft Papers Due\nAugust 2024 → September 30, 2024\n\n\nReview Comments to Authors\nUpdate (Details)\n\n\nFinal Papers Due\nOne month after receiving comments\n\n\nRegistration Open\nDecember 23, 2024\n\n\nPoster Abstracts Due\nJanuary 31, 2025\n\n\nEarly Bird Registration Ends\nMarch 15, 2025\n\n\nCancellation with Full Refund Ends\nApril 4, 2025\n\n\nCancellation with 50% Refund\nApril 4–May 2, 2025\n\n\nICBBG Rate at Westin Tempe Ends\nApril 21, 2025\n\n\nRegistration Ends\nMay 4, 2025\n\n\nICBBG 2025\nMay 18–20, 2025"
+    "text": "Q&A\nQ: I got the following error when trying to accept the invitation:\n\nA: Many editors have reported this issue. There appears to be a bug in the ISSMGE system when accepting editor role invitations. Although you encountered a 404 error, it seems the role acceptance was successful, as we received a confirmation email indicating this. Please kindly log in to https://www.issmge.org/publications/review-platform and check if you have papers listed under the “Theme Editor” role."
   },
   {
     "objectID": "submissions/call-for-posters.html",
@@ -195,291 +412,39 @@
     "text": "Questions?\nPlease send emails to the organizing committee, icbbg2025 at gmail dot com\nTo learn more, visit the conference website: https://www.icbbg2025.com\nSubmit your full paper"
   },
   {
-    "objectID": "registration.html",
-    "href": "registration.html",
-    "title": "Registration and Accomodation",
+    "objectID": "reviewer-guides.html",
+    "href": "reviewer-guides.html",
+    "title": "Guidelines for Reviewers",
     "section": "",
-    "text": "Category\nPrior to 03/15/2025\nFull Price till 05/04/2025\n\n\n\n\nGeneral\n$750\n$850\n\n\nStudent\n$400\n$400\n\n\nGuest/Companion\n$250\n$250\n\n\n\n\n\n\n\nRegistration Includes:\n\nFull Registration: Reception on May 18, banquet on May 20, lunch and coffee breaks on May 19 and 20, and access to all technical programs.\nGuest/Companion Registration: Reception on May 18 and banquet on May 20.\nPayment Deadline: Payments must be received and processed by May 4; unpaid registrations will be canceled.\n\nPaper Submission:\n\nAt least one author of an accepted paper must complete a full registration for the paper to be included in the program and proceedings.\nA maximum of two papers can be associated with a single registration.\n\nNo-shows:\n\nRegistrants who do not attend the conference and fail to cancel in advance will not receive a refund.\n\nData Protection:\n\nPersonal information collected during registration will only be used for conference-related purposes and will not be shared without consent.\n\n\nBy completing the registration process, you agree to these terms and conditions. For inquiries, please contact icbbg2025 at gmail dot com.\n\n\n\n\nAll cancellation requests must be submitted in writing to icbbg2025@gmail.com.\n\nFull Refund: Cancellations requested on or before April 4, 2025, will receive a 100% refund, minus a credit card processing fee.\n\nPartial Refund or Transfer: Cancellations requested between April 5, 2025, and May 2, 2025, will receive a 50% refund, or you may transfer your registration to another attendee.\n\nNo Refunds: Cancellations after May 2, 2025, are not eligible for a refund; however, registration transfers to another attendee are still allowed.\n\n\n\n\n\n\n\n\n\nRequest Date\nRefund Amount\nAdditional Option\n\n\n\n\nOn or before  April 4, 2025\n100% refund (minus credit card fee)\nN/A\n\n\nApril 5 – May 2, 2025\n50% refund\nTransfer registration to another attendee\n\n\nAfter May 2, 2025\nNo refund\nTransfer registration to another attendee\n\n\n\nFor questions or to request a cancellation, please contact us at icbbg2025 at gmail dot com.",
-    "crumbs": [
-      "Home",
-      "Opprotunities",
-      "Register"
-    ]
+    "text": "Tip\n\n\n\nThis is a living document; the Q&A section at the end will be updated continuously as new questions arise.\nThank you for accepting our invitation to serve as a reviewer for ICBBG 2025."
   },
   {
-    "objectID": "registration.html#register-now",
-    "href": "registration.html#register-now",
-    "title": "Registration and Accomodation",
-    "section": "",
-    "text": "Category\nPrior to 03/15/2025\nFull Price till 05/04/2025\n\n\n\n\nGeneral\n$750\n$850\n\n\nStudent\n$400\n$400\n\n\nGuest/Companion\n$250\n$250\n\n\n\n\n\n\n\nRegistration Includes:\n\nFull Registration: Reception on May 18, banquet on May 20, lunch and coffee breaks on May 19 and 20, and access to all technical programs.\nGuest/Companion Registration: Reception on May 18 and banquet on May 20.\nPayment Deadline: Payments must be received and processed by May 4; unpaid registrations will be canceled.\n\nPaper Submission:\n\nAt least one author of an accepted paper must complete a full registration for the paper to be included in the program and proceedings.\nA maximum of two papers can be associated with a single registration.\n\nNo-shows:\n\nRegistrants who do not attend the conference and fail to cancel in advance will not receive a refund.\n\nData Protection:\n\nPersonal information collected during registration will only be used for conference-related purposes and will not be shared without consent.\n\n\nBy completing the registration process, you agree to these terms and conditions. For inquiries, please contact icbbg2025 at gmail dot com.\n\n\n\n\nAll cancellation requests must be submitted in writing to icbbg2025@gmail.com.\n\nFull Refund: Cancellations requested on or before April 4, 2025, will receive a 100% refund, minus a credit card processing fee.\n\nPartial Refund or Transfer: Cancellations requested between April 5, 2025, and May 2, 2025, will receive a 50% refund, or you may transfer your registration to another attendee.\n\nNo Refunds: Cancellations after May 2, 2025, are not eligible for a refund; however, registration transfers to another attendee are still allowed.\n\n\n\n\n\n\n\n\n\nRequest Date\nRefund Amount\nAdditional Option\n\n\n\n\nOn or before  April 4, 2025\n100% refund (minus credit card fee)\nN/A\n\n\nApril 5 – May 2, 2025\n50% refund\nTransfer registration to another attendee\n\n\nAfter May 2, 2025\nNo refund\nTransfer registration to another attendee\n\n\n\nFor questions or to request a cancellation, please contact us at icbbg2025 at gmail dot com.",
-    "crumbs": [
-      "Home",
-      "Opprotunities",
-      "Register"
-    ]
-  },
-  {
-    "objectID": "registration.html#hotel-accommodation",
-    "href": "registration.html#hotel-accommodation",
-    "title": "Registration and Accomodation",
-    "section": "Hotel accommodation",
-    "text": "Hotel accommodation\n\nThe Westin Tempe\n\n11 E. 7th Street, Tempe, AZ 85281\n480-968-8885\nBook at the ICBBG 2025 Rate by Monday, April 21, 2025\n\nComplimentary High Speed Wi-Fi\nComplimentary access to WestinWorkout\n½ block from Mill Ave. District; walking distance to over 70 dining options\nWaived Destination Fee ($22)\nDestination Fee includes the following:\n\nDaily Enhanced High Speed Wi-Fi\n$25 Food and Beverage credit in Cup of Joe, Terra Tempe, or SkySill Rooftop\nBike Rental for 2 (2 hour max)\n1 free Drip Coffee for up to (2) guests at Cup of Joe\n\n\n\n\nOther Lodging Options\nMost of the hotels listed below are conveniently located within walking distance of the ASU Campus. Call the hotel directly to make your reservation. ASU and government rates may be available for many of them.\n\n\n\n\n\n\nA list of Hotels with ASU Discounts\n\n\n\n\n\nAC Hotel Phoenix Tempe/Downtown\n100 E Rio Salado Pkwy, Tempe, AZ 85281\n(480) 642-6140\nBook Your Preferred ASU Rate \n\nComplimentary Wi-Fi in all guest rooms\n\nCanopy by Hilton Tempe Downtown\n108 E. University Drive, Tempe, AZ 85281\n480-968-6800\nBook your Preferred ASU Rate\n\nComplimentary WI-FI\nComplimentary Bikes and access to Fitness Center\nConveniently located to ASU, Gammage and Mill Avenue, walking distance to dining, shopping and nightlife\n\nDoubleTree by Hilton Phoenix - Tempe\n2100 S Priest Dr Tempe, AZ 85282\nTempe, AZ 85281\n480-804-5264\nBook your preferred ASU rate.\n\nComplimentary daily full hot breakfast\nComplimentary shuttle to and from the Phoenix Sky Harbor Airport/ within 5 mile radius of Hotel\nComplimentary Wi-Fi in all guest rooms\nComplimentary self parking\n\nElement Scottsdale at SkySong\n1345 N. Scottsdale Road, Scottsdale, AZ 85257\n480-361-0000\nBook your preferred ASU rate\n\nComplimentary hot breakfast buffet daily\nComplimentary light evening reception, Monday – Thursday\n\nGraduate Tempe by Hilton\n225 East Apache Boulevard, Tempe, AZ 85281\n480-967-9431\nBook your Preferred ASU Rate\n\nWalking distance to ASU, restaurants, shopping and entertainment\nComplimentary High Speed Wi-Fi.\nComplimentary Bikes\n\nHyatt House Tempe/Phoenix/University\n601 E. 6th St Tempe, AZ 85281\n480-219-5956\nBook your preferred ASU rate\n\nWalking distance to ASU\nComplimentary breakfast\nComplimentary High-speed wireless internet\nParking is $15.00 per night in a secure parking garage\n\nHyatt Place Tempe/Phoenix/University\nBook your preferred ASU rate\n601 E. 6th St Tempe, AZ 85281\n480-219-5956\n\nWalking distance to ASU\nComplimentary breakfast\nComplimentary High-speed wireless internet\nParking is $15.00 per night in a secure parking garage\n\nOmni Tempe Hotel at ASU\n7 E University Dr, Tempe, AZ 85281\n1-800-THE-OMNI\nBook your Preferred ASU Rate\n\nDestination Fee Waived ($25 per night value)\nComplimentary Wi-Fi\n24-Hour access to Fitness Center with Amenities\nAccess to Rooftop Pool\nRestful Sleep Kit Amenities (Upon Request)\nLocated on ASU campus (corner of Mills Ave/East University Dr.)\nWalk to campus activities at ASU Gammage, ASU Art Museum, Mountain America Stadium, Hayden Library\nSteps to Mill Avenue restaurants, shopping, and entertainment\nSteps to Tempe Valley Metro Streetcar (Ninth St./Mill Stop)\n\nSonesta Select Tempe Downtown\n601 S Ash Ave, Tempe, AZ 85281\n(480) 395-7328\nBook your Preferred ASU rate\n\nComplimentary Breakfast vouchers\nComplimentary Wi-Fi Internet in every guest room and guest areas\nComplimentary parking\n\nTempe Mission Palms\n60 East Fifth Street, Tempe, AZ 85281\nBook your Preferred ASU Rate\n480-894-1400\n\nValet or self-parking (included in destination fee)\nAccess to health club and fitness center (included in destination fee)\nAirport Shutte Service (included in destination fee)\nHigh-speed wireless Internet access (included in destination fee)\nDiscounted hospitality fee to $12.95 plus tax per room, per night (regularly $25.00 plus tax per room, per night)\n\nVīb Best Western Tempe\n511 S Farmer Ave, Tempe, AZ 85281\n(480) 805-2070\nBook your Preferred ASU Rate\n\nParking is $10.00 per night\nWalking distance to ASU, restaurants, shopping, and entertainment\nComplimentary Wi-Fi in Guest Rooms & Lobby",
-    "crumbs": [
-      "Home",
-      "Opprotunities",
-      "Register"
-    ]
-  },
-  {
-    "objectID": "call-for-exhibitors-sponsors.html",
-    "href": "call-for-exhibitors-sponsors.html",
-    "title": "Call for Exhibitors and Sponsors",
-    "section": "",
-    "text": "Contact us today! (icbbg2025 at gmail dot com)",
-    "crumbs": [
-      "Home",
-      "Opprotunities",
-      "Call for Exhibition and Sponsorship"
-    ]
-  },
-  {
-    "objectID": "call-for-exhibitors-sponsors.html#exhibitor-opportunities",
-    "href": "call-for-exhibitors-sponsors.html#exhibitor-opportunities",
-    "title": "Call for Exhibitors and Sponsors",
-    "section": "Exhibitor Opportunities",
-    "text": "Exhibitor Opportunities\nExhibitor Fee: $3,500\n\nWhat’s Included:\n\nBooth space in the exhibit area\n\nBranding in conference materials and on the website",
-    "crumbs": [
-      "Home",
-      "Opprotunities",
-      "Call for Exhibition and Sponsorship"
-    ]
-  },
-  {
-    "objectID": "call-for-exhibitors-sponsors.html#sponsorship-opportunities",
-    "href": "call-for-exhibitors-sponsors.html#sponsorship-opportunities",
-    "title": "Call for Exhibitors and Sponsors",
-    "section": "Sponsorship Opportunities",
-    "text": "Sponsorship Opportunities\n\nBanquet Sponsor – $5,000\n\nRecognition as the exclusive sponsor for the banquet event\n\nBranding at the banquet venue, in conference materials and on the website\n\nLunch Sponsor – $3,000\n\nRecognition as a sponsor for one of the conference lunches\n\nBranding in the dining area, in conference materials and on the website\n\nCoffee Break Sponsor – $2,000\n\nRecognition as a sponsor for one coffee break during the conference\n\nBranding at the coffee station, in conference materials and on the website\n\n\n\n\n\n\n\n\nAll funds will be deposited with the ASU Foundation for A New American University, a nonprofit organization that exists to support Arizona State University (ASU). Gifts in support of ASU are subject to foundation policies and fees. Due to the fair market value (FMV) benefits received, only payments in excess of fair market value may be considered a charitable contribution. Please consult your tax advisor regarding the deductibility of charitable contributions.",
-    "crumbs": [
-      "Home",
-      "Opprotunities",
-      "Call for Exhibition and Sponsorship"
-    ]
-  },
-  {
-    "objectID": "call-for-exhibitors-sponsors.html#how-to-get-involved",
-    "href": "call-for-exhibitors-sponsors.html#how-to-get-involved",
-    "title": "Call for Exhibitors and Sponsors",
-    "section": "How to Get Involved",
-    "text": "How to Get Involved\nReserve your spot as an exhibitor or sponsor today! Availability is limited and will be offered on a first-come, first-served basis.\n\nTo secure your participation, please contact:\n\n: icbbg2025 at gmail dot com\n: (480) 965-2489\n\nFor more information on the conference, please visit ICBBG 2025 Website and Registration Information.\n\nWe look forward to your support in making ICBBG 2025 an outstanding event for all participants!",
-    "crumbs": [
-      "Home",
-      "Opprotunities",
-      "Call for Exhibition and Sponsorship"
-    ]
-  },
-  {
-    "objectID": "exhibition-sponsorship.html",
-    "href": "exhibition-sponsorship.html",
-    "title": "Exhibition and Sponsorship",
-    "section": "",
-    "text": "Join us today!"
-  },
-  {
-    "objectID": "speakers.html",
-    "href": "speakers.html",
-    "title": "Speakers",
-    "section": "",
-    "text": "Jian Chu  Nanyang Technological University\n\n\n\n\nJian Chu, President’s Chair in Civil Engineering, is the Chair of the School of Civil and Environmental Engineering and the Director of the Centre for Urban Solutions at the Nanyang Technological University (NTU), Singapore. He also worked for Iowa State University, USA, from 2011 to 2014 as professor and James M. Hoover Chair in Geotechnical Engineering. Prof Chu is currently the Chair of Technical Committee TC217 on Land Reclamation and a Committee Member for TC211 on Ground Improvement under the International Society of Soil Mechanics and Geotechnical Engineering (ISSMGE). He is an Editor of Acta Geotechnica, Editor-in-Chief of BioGeotechnics, and Associate Editor for Journal of Materials in Civil Engineering, ASCE. Prof Chu has delivered over 70 keynote or invited lectures at international conferences, including the State-of-the-art lecture at the 17th International Conference of ISSMGE in 2009. As a past President of the Geotechnical Society of Singapore, Prof Chu has worked as a consultant or advisor for several large-scale construction projects in Singapore and overseas. He received the R. M. Quigley Award from the Canadian Geotechnical Society in 2004 and the Outstanding Geotechnical Engineer Award from the Geotechnical Society of Singapore in 2018.\n\n\n\n\n\n\n\n\n\n\n\n\nAnca Delgado  Arizona State University\n\n\n\n\nAnca Delgado received a Ph.D. in Microbiology from Arizona State University and is currently an Assistant Professor of Environmental Engineering in the School of Sustainable Engineering and the Built Environment and the Biodesign Swette Center for Environmental Biotechnology at Arizona State University. Dr. Delgado’s expertise is environmental biotechnology with a focus on the use of natural and artificial microbiomes for bioremediation, bioming, and production of valuable biochemicals. Dr. Delgado is a Thrust Leader and Principal Investigator in the NSF-sponsored Engineering Research Center for Bio-mediated and Bio-inspired Geotechnics (CBBG), working on geoenvironmental projects funded by NSF and CBBG-industry partners.\n\n\n\n\n\n\n\n\n\n\n\n\nAnnette Esnault Filet  Soletanche Bachy\n\n\n\n\nAnnette Esnault Filet is a Senior Project Manager at Soletanche Bachy International, within the Technical Direction. An expert in the fields of biogrouting and biocalcification, she is in charge of the developments of the Biocalcis process patented by the company. Annete is responsible for the implementation of the process on real sites (feasibility study, design and controls), its optimization for new fields of applications and the coordination of research in the fields of new bio-inspired technologies and environmental solutions with the group.\n\n\n\n\n\n\n\n\n\n\n\n\nJonathan Knappett  University of Dundee\n\n\n\n\nJonathan Knappett joined the University of Dundee as a Lecturer in 2006, following MEng and PhD degrees at the University of Cambridge. His expertise is principally in physical (centrifuge) modelling and numerical simulation and his research interests cover a range of topical dynamic and environmental soil-structure interaction problems, including the use of nature-based solutions to mitigate the effects of geohazards on infrastructure. He was awarded the British Geotechnical Association Medal in 2009, the TK Hsieh Award of the Institution of Civil Engineers (ICE) in 2010, the ISSMGE TC203 Young Researcher Award in 2018 and the Geotechnical Research Medal of the ICE in 2023. In 2017 he delivered the 13th Géotechnique Lecture on the use of vegetation in low-carbon Geotechnical Engineering. He was the Chairman (Editor in Chief) of the International Journal of Physical Modelling in Geotechnics (2014-2018), is the principal author of the textbook Craig’s Soil Mechanics and is a Chartered Civil Engineer.\n\n\n\n\n\n\n\n\n\n\n\n\nAlejandro Martinez  University of California Davis\n\n\n\n\nAlejandro Martinez is an associate professor at the University of California Davis. He obtained his Ph.D. and M.S. degrees from Georgia Tech in 2015 and 2012, respectively, and his B.S. from the University of Texas at Austin in 2010. His research aims to further the understanding of soil behavior and soil-inclusion interactions involved in geotechnical engineering as well as in burrowing and locomotion. His research interests include soil-structure interaction, bio-inspired geotechnics, fabric effects on soil behavior, and static liquefaction of soils. His research employs a combination of experimental laboratory, hypergravity modeling, and numerical techniques. In 2020, he received the NSF CAREER award and in 2022 he received the ASCE Arthur Casagrande Career Development Award.\n\n\n\n\n\n\n\n\n\n\n\n\nBrina Montoya  North Carolina State University\n\n\n\n\nBrina Montoya is an Associate Professor in the Department of Civil, Construction, and Environmental Engineering at North Carolina State University. Dr. Montoya’s research interests focus on bio-mediated stabilization approaches to improve the sustainability and resiliency of infrastructure, specifically with regards to infrastructure subjected to natural hazards, such as earthquake-induced liquefaction and coastal erosion, and addressing anthropogenic hazards, such as stabilizing tailings impoundments and carbon sequestration. Her research has been recognized with several honors, including the NSF CAREER Award, the ASCE Arthur Casagrande Professional Development Award, and the USUCGER Early Career Research Award. She received her Ph.D. from the University of California, Davis in 2012. Prior to entering graduate school, Dr. Montoya worked for a consulting geotechnical engineering company in the San Francisco Bay Area, focusing on foundation design and liquefaction mitigation. She is a licensed engineer in the state of California."
-  },
-  {
-    "objectID": "speakers.html#keynote-speakers",
-    "href": "speakers.html#keynote-speakers",
-    "title": "Speakers",
-    "section": "",
-    "text": "Jian Chu  Nanyang Technological University\n\n\n\n\nJian Chu, President’s Chair in Civil Engineering, is the Chair of the School of Civil and Environmental Engineering and the Director of the Centre for Urban Solutions at the Nanyang Technological University (NTU), Singapore. He also worked for Iowa State University, USA, from 2011 to 2014 as professor and James M. Hoover Chair in Geotechnical Engineering. Prof Chu is currently the Chair of Technical Committee TC217 on Land Reclamation and a Committee Member for TC211 on Ground Improvement under the International Society of Soil Mechanics and Geotechnical Engineering (ISSMGE). He is an Editor of Acta Geotechnica, Editor-in-Chief of BioGeotechnics, and Associate Editor for Journal of Materials in Civil Engineering, ASCE. Prof Chu has delivered over 70 keynote or invited lectures at international conferences, including the State-of-the-art lecture at the 17th International Conference of ISSMGE in 2009. As a past President of the Geotechnical Society of Singapore, Prof Chu has worked as a consultant or advisor for several large-scale construction projects in Singapore and overseas. He received the R. M. Quigley Award from the Canadian Geotechnical Society in 2004 and the Outstanding Geotechnical Engineer Award from the Geotechnical Society of Singapore in 2018.\n\n\n\n\n\n\n\n\n\n\n\n\nAnca Delgado  Arizona State University\n\n\n\n\nAnca Delgado received a Ph.D. in Microbiology from Arizona State University and is currently an Assistant Professor of Environmental Engineering in the School of Sustainable Engineering and the Built Environment and the Biodesign Swette Center for Environmental Biotechnology at Arizona State University. Dr. Delgado’s expertise is environmental biotechnology with a focus on the use of natural and artificial microbiomes for bioremediation, bioming, and production of valuable biochemicals. Dr. Delgado is a Thrust Leader and Principal Investigator in the NSF-sponsored Engineering Research Center for Bio-mediated and Bio-inspired Geotechnics (CBBG), working on geoenvironmental projects funded by NSF and CBBG-industry partners.\n\n\n\n\n\n\n\n\n\n\n\n\nAnnette Esnault Filet  Soletanche Bachy\n\n\n\n\nAnnette Esnault Filet is a Senior Project Manager at Soletanche Bachy International, within the Technical Direction. An expert in the fields of biogrouting and biocalcification, she is in charge of the developments of the Biocalcis process patented by the company. Annete is responsible for the implementation of the process on real sites (feasibility study, design and controls), its optimization for new fields of applications and the coordination of research in the fields of new bio-inspired technologies and environmental solutions with the group.\n\n\n\n\n\n\n\n\n\n\n\n\nJonathan Knappett  University of Dundee\n\n\n\n\nJonathan Knappett joined the University of Dundee as a Lecturer in 2006, following MEng and PhD degrees at the University of Cambridge. His expertise is principally in physical (centrifuge) modelling and numerical simulation and his research interests cover a range of topical dynamic and environmental soil-structure interaction problems, including the use of nature-based solutions to mitigate the effects of geohazards on infrastructure. He was awarded the British Geotechnical Association Medal in 2009, the TK Hsieh Award of the Institution of Civil Engineers (ICE) in 2010, the ISSMGE TC203 Young Researcher Award in 2018 and the Geotechnical Research Medal of the ICE in 2023. In 2017 he delivered the 13th Géotechnique Lecture on the use of vegetation in low-carbon Geotechnical Engineering. He was the Chairman (Editor in Chief) of the International Journal of Physical Modelling in Geotechnics (2014-2018), is the principal author of the textbook Craig’s Soil Mechanics and is a Chartered Civil Engineer.\n\n\n\n\n\n\n\n\n\n\n\n\nAlejandro Martinez  University of California Davis\n\n\n\n\nAlejandro Martinez is an associate professor at the University of California Davis. He obtained his Ph.D. and M.S. degrees from Georgia Tech in 2015 and 2012, respectively, and his B.S. from the University of Texas at Austin in 2010. His research aims to further the understanding of soil behavior and soil-inclusion interactions involved in geotechnical engineering as well as in burrowing and locomotion. His research interests include soil-structure interaction, bio-inspired geotechnics, fabric effects on soil behavior, and static liquefaction of soils. His research employs a combination of experimental laboratory, hypergravity modeling, and numerical techniques. In 2020, he received the NSF CAREER award and in 2022 he received the ASCE Arthur Casagrande Career Development Award.\n\n\n\n\n\n\n\n\n\n\n\n\nBrina Montoya  North Carolina State University\n\n\n\n\nBrina Montoya is an Associate Professor in the Department of Civil, Construction, and Environmental Engineering at North Carolina State University. Dr. Montoya’s research interests focus on bio-mediated stabilization approaches to improve the sustainability and resiliency of infrastructure, specifically with regards to infrastructure subjected to natural hazards, such as earthquake-induced liquefaction and coastal erosion, and addressing anthropogenic hazards, such as stabilizing tailings impoundments and carbon sequestration. Her research has been recognized with several honors, including the NSF CAREER Award, the ASCE Arthur Casagrande Professional Development Award, and the USUCGER Early Career Research Award. She received her Ph.D. from the University of California, Davis in 2012. Prior to entering graduate school, Dr. Montoya worked for a consulting geotechnical engineering company in the San Francisco Bay Area, focusing on foundation design and liquefaction mitigation. She is a licensed engineer in the state of California."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Contact Us",
-    "section": "",
-    "text": ": icbbg2025 at gmail dot com\n: (480) 965-2489\n Center for Bio-mediated and Bio-inspired Geotechnics (CBBG)\n    Arizona State University\n    660 S College Ave\n    Tempe, AZ 85281"
-  },
-  {
-    "objectID": "sponsors.html",
-    "href": "sponsors.html",
-    "title": "Sponsors",
-    "section": "",
-    "text": "ICBBG 2025 is proudly supported by,\n\nInternational Society for Soil Mechanics and Geotechnical Engineering (ISSMGE)\n\nTC102– Ground Property Characterization from In-Situ Tests\nTC215– Environmental Geotechnics\nTC307– Sustainability in Geotechnical Engineering\n\nGeo-institute, American Society of Civil Engineers\nGeo-institute Graduate Student Organization at Arizona Student University\nNational Science Foundation Engineering Research Center for Bio-mediated and Bio-inspired Geotechnics, EEC-1449501\nArizona State University\nGeorgia Institute of Technology\nNew Mexico State University\nUniversity of California, Davis"
-  },
-  {
-    "objectID": "program.html",
-    "href": "program.html",
-    "title": "Program",
-    "section": "",
-    "text": "Time\nEvent\n\n\n\n\n5:00-7:00pm\nWelcome Reception at Paul C. Helmick Center (HLMK)"
-  },
-  {
-    "objectID": "program.html#sunday-may-18-2025",
-    "href": "program.html#sunday-may-18-2025",
-    "title": "Program",
-    "section": "",
-    "text": "Time\nEvent\n\n\n\n\n5:00-7:00pm\nWelcome Reception at Paul C. Helmick Center (HLMK)"
-  },
-  {
-    "objectID": "program.html#monday-may-19-2025",
-    "href": "program.html#monday-may-19-2025",
-    "title": "Program",
-    "section": "Monday, May 19, 2025",
-    "text": "Monday, May 19, 2025\nMeetings at Memorial Union\n\n\n\nTime\nEvent\nTrack 1\nTrack 2\nTrack 3\n\n\n\n\n7:45-8:00am\nOpening Remark\n\n\n\n\n\n8:00-8:40am\nKeynote 1\n\n\n\n\n\n8:40-8:50am\n10 min Break\n\n\n\n\n\n8:50-10:20am\n\nSession 1\nSession 2\nSession 3\n\n\n10:20-10:40am\n20 min Break\n\n\n\n\n\n10:40-12:10pm\n\nSession 4\nSession 5\nSession 6\n\n\n12:10-1:10pm\nLunch Break\n\n\n\n\n\n1:10-1:50pm\nKeynote 2\n\n\n\n\n\n1:50-2:50pm\nPoster Session\n\n\n\n\n\n2:50-4:20pm\n\nSession 7\nSession 8\nSession 9\n\n\n4:20-4:50pm\n30 min Break\n\n\n\n\n\n4:50-5:30pm\nKeynote 3"
-  },
-  {
-    "objectID": "program.html#tuesday-may-20-2025",
-    "href": "program.html#tuesday-may-20-2025",
-    "title": "Program",
-    "section": "Tuesday, May 20, 2025",
-    "text": "Tuesday, May 20, 2025\n\n\n\nTime\nEvent\nTrack 1\nTrack 2\nTrack 3\n\n\n\n\n8:00-8:40am\nKeynote 4\n\n\n\n\n\n8:40-8:50am\n10 min Break\n\n\n\n\n\n8:50-10:20am\n\nSession 10\nSession 11\nSession 12\n\n\n10:20-10:40am\n20 min Break\n\n\n\n\n\n10:40-12:10am\n\nSession 13\nSession 14\nSession 15\n\n\n12:10-1:10am\nLunch Break\n\n\n\n\n\n1:10-1:50pm\nKeynote 5\n\n\n\n\n\n1:50-2:00pm\n10 min Break\n\n\n\n\n\n1:50-3:20pm\n\nSession 16\nSession 17\nSession 18\n\n\n3:20-3:50pm\n30 min Break\n\n\n\n\n\n3:50-4:50pm\n\nSession 19\nSession 20\nSession 21\n\n\n4:50-5:30pm\nKeynote 6\n\n\n\n\n\n5:30-5:45pm\nClosing Remarks\n\n\n\n\n\n6:00-9:00pm\nBanquet at Rustler’s Rooste"
-  },
-  {
-    "objectID": "program.html#session-topics",
-    "href": "program.html#session-topics",
-    "title": "Program",
-    "section": "Session Topics",
-    "text": "Session Topics\n\n\n\n\n\n\nGeneral Sessions\n\nBio-mediated methods for hazard mitigation\nBio-mediated methods for environmental protection and restoration\nBio-mediated methods for infrastructure construction\nBio-inspired methods for infrastructure construction\nBio-inspired methods for subsurface exploration and excavation\nFundamental research on biogeotechnics\nCase studies on field applications of biogeotechnics\n\n\n\nSpecial Symposia\n\nBio-inspired Tunneling\nAsia experiences on bio-mediated geotechnics\nEurope experiences on bio-mediated geotechnics\nBiopolymer treated soils\nDelivery strategies for MICP\nMICP for sustainable geoenergy applications\nFungal treatment of soils\nBuild with nature\nEducation, outreach, diversity, inclusion, and equity in engineering"
-  },
-  {
-    "objectID": "editor-guides.html",
-    "href": "editor-guides.html",
-    "title": "Guidelines for Editors",
-    "section": "",
-    "text": "Tip\n\n\n\nThis is a living document; the Q&A section at the end will be updated continuously as new questions arise.\nThank you for volunteering or accepting our invitation to serve as an editor for ICBBG 2025. If you proposed a special symposium, you are automatically assigned as an editor as well."
-  },
-  {
-    "objectID": "editor-guides.html#assignment-overview",
-    "href": "editor-guides.html#assignment-overview",
-    "title": "Guidelines for Editors",
-    "section": "Assignment Overview",
-    "text": "Assignment Overview\nIn the ISSMGE Conference Review System, each of you is assigned as a “Theme Editor” responsible for one or more themes established at the call for abstracts.\nAssignments are based on your expertise and potential conflicts of interest. If you submitted multiple papers within a theme, you were reassigned to a related theme to ensure impartiality. I have reviewed and adjusted each paper’s theme accordingly. However, if you encounter one of your own papers, your co-editor should handle it.\nFor themes with a large number of papers, please coordinate with your co-editor to distribute the workload effectively. If you need additional co-editors to share the workload, please let us know—and feel free to suggest candidates.\nThere will be a single round of external reviews. If a paper requires revision and resubmission, the editor should review the revised version and make a final decision."
-  },
-  {
-    "objectID": "editor-guides.html#timeline",
-    "href": "editor-guides.html#timeline",
-    "title": "Guidelines for Editors",
+    "objectID": "reviewer-guides.html#timeline",
+    "href": "reviewer-guides.html#timeline",
+    "title": "Guidelines for Reviewers",
     "section": "Timeline",
-    "text": "Timeline\nThe suggested timeline for reviews is provided below. Due dates for reviewers are flexible based on when they accept their invitation. However, please invite reviewers promptly and aim to follow these dates closely, especially with the holiday season approaching, to avoid delays and ensure timely publication in the ISSMGE system.\n\n\n\nTentative timeline"
+    "text": "Timeline\nThe suggested timeline for reviews is provided below. Due dates for reviewers are flexible based on when they accept their invitation. However, please finish your review promptly and aim to follow these dates closely, especially with the holiday season approaching, to avoid delays and ensure timely publication in the ISSMGE system.\n\n\n\nTentative timeline"
   },
   {
-    "objectID": "editor-guides.html#review-criteria",
-    "href": "editor-guides.html#review-criteria",
-    "title": "Guidelines for Editors",
+    "objectID": "reviewer-guides.html#review-criteria",
+    "href": "reviewer-guides.html#review-criteria",
+    "title": "Guidelines for Reviewers",
     "section": "Review Criteria",
-    "text": "Review Criteria\nWe recommend basing your final decision on the results of two independent reviews. If a second review cannot be completed in time, you may step in as a reviewer yourself. Please consider the following criteria for acceptance:\n\nRelevance to the conference\nImpact on the field\nNovelty of the contribution\nRigor of the research\nPresentation quality and adherence to author’s guidelines. This is essential for final publication, and we rely on reviewers and editors to ensure the final submission is truly camera-ready."
+    "text": "Review Criteria\nSimilar to other conference proceeding papers, please consider the following criteria for acceptance:\n\nRelevance to the conference\nImpact on the field\nNovelty of the contribution\nRigor of the research\nPresentation quality and adherence to guidelines. This is essential for final publication, and we rely on reviewers and editors to ensure the final submission is truly camera-ready..\n\nPlease provide review comments based on the above criteria and make a recommendation accordingly."
   },
   {
-    "objectID": "editor-guides.html#issmge-conference-review-platform",
-    "href": "editor-guides.html#issmge-conference-review-platform",
-    "title": "Guidelines for Editors",
+    "objectID": "reviewer-guides.html#issmge-conference-review-platform",
+    "href": "reviewer-guides.html#issmge-conference-review-platform",
+    "title": "Guidelines for Reviewers",
     "section": "ISSMGE Conference Review Platform",
-    "text": "ISSMGE Conference Review Platform\n\nLogin Information: Use your existing ISSMGE account for https://www.issmge.org/publications/review-platform. For login issues, contact webmaster at issmge dot org directly.\nPlatform Overview:\n\nAfter logging in, you’ll see a list of papers under your “Editor” or “Theme Editor” role, with their review status.\nInvite reviewers via email (preferred) or by expertise (built-in list of ISSMGE users), or assign papers to yourself if necessary.\nOnce you have the minimum number of reviews, submit your decision.\n\n\nFor more detailed guidance, please refer to the CRP User Guide."
+    "text": "ISSMGE Conference Review Platform\n\nLogin Information: Use your existing ISSMGE account for https://www.issmge.org/publications/review-platform. For login issues, contact webmaster at issmge dot org, directly.\nPlatform Overview:\n\nAfter logging in, you’ll see a list of papers under your “Reviewer” role, with their review status.\nClicking a paper directs to the “Summary tab” which contains all related information about the paper. Option is given to download the submitted paper. Upon review request an option is given to either accept or decline the review.\n“Review tab” is available upon review acceptance. It contains a form to fill in the review. Reviewer is able to select between “Accept As Is”, “Accept With Changes” and “Decline”. A text area is provided to submit his/her comments along with an attachment option to submit a supplementary file. Information on how to remove metadata, that will reveal his/her identity, is also provided. Reviewer will also need to recommend whether the paper is suited for Oral, Poster or both.\n\n\nFor more detailed guidance, please refer to the CRP User Guide."
   },
   {
-    "objectID": "editor-guides.html#tips-for-selecting-reviewers",
-    "href": "editor-guides.html#tips-for-selecting-reviewers",
-    "title": "Guidelines for Editors",
-    "section": "Tips for Selecting Reviewers",
-    "text": "Tips for Selecting Reviewers\n\nInvite Authors within Your Theme: Corresponding authors from other papers in your theme can provide valuable insights.\nConsider Early-Career Researchers: Recent PhD graduates and postdocs are often eager to contribute and bring fresh perspectives.\nPrioritize Responsiveness: Choose reviewers known for responsiveness to keep the process timely."
-  },
-  {
-    "objectID": "editor-guides.html#system-limitations",
-    "href": "editor-guides.html#system-limitations",
-    "title": "Guidelines for Editors",
-    "section": "System Limitations",
-    "text": "System Limitations\nAlthough I aimed to implement a scoring form (0-10 scale) for relevance, impact, novelty, rigor, and presentation, this is currently not supported by the system.\nIf you need to share additional guidelines with reviewers, please direct them to the Reviewer Guides for reference.\nThank you for your commitment to ensuring an efficient review process!"
-  },
-  {
-    "objectID": "editor-guides.html#qa",
-    "href": "editor-guides.html#qa",
-    "title": "Guidelines for Editors",
+    "objectID": "reviewer-guides.html#qa",
+    "href": "reviewer-guides.html#qa",
+    "title": "Guidelines for Reviewers",
     "section": "Q&A",
-    "text": "Q&A\nQ: I got the following error when trying to accept the invitation:\n\nA: Many editors have reported this issue. There appears to be a bug in the ISSMGE system when accepting editor role invitations. Although you encountered a 404 error, it seems the role acceptance was successful, as we received a confirmation email indicating this. Please kindly log in to https://www.issmge.org/publications/review-platform and check if you have papers listed under the “Theme Editor” role."
-  },
-  {
-    "objectID": "submissions/call-for-abstracts.html",
-    "href": "submissions/call-for-abstracts.html",
-    "title": "Call for Abstracts",
-    "section": "",
-    "text": "Submit an abstract\nWe sincerely invite you to submit abstracts to the International Conference on Bio-mediated and Bio-inspired Geotechnics (ICBBG) 2025, scheduled to take place in Tempe, Arizona, USA from May 19 to 21, 2025. ICBBG aims to bring together top researchers from around the world to present the state of the art and state of the practice on biogeotechnics, and to facilitate knowledge exchange among researchers, industry, agencies and educators."
-  },
-  {
-    "objectID": "submissions/call-for-abstracts.html#themes",
-    "href": "submissions/call-for-abstracts.html#themes",
-    "title": "Call for Abstracts",
-    "section": "Themes",
-    "text": "Themes\nWe call for submissions to 8 general sessions and 8 special symposia:\n\n\n\n\n\nGeneral sessions\nSpecial symposia\n\n\n\n\nBio-mediated methods for hazard mitigation\nBio-inspired Tunneling\n\n\nBio-mediated methods for environmental protection and restoration\nAsia experiences on bio-mediated geotechnics\n\n\nBio-mediated methods for infrastructure construction\nEurope experiences on bio-mediated geotechnics\n\n\nBio-inspired methods for infrastructure construction\nBiopolymer treated soils\n\n\nBio-inspired methods for subsurface exploration and excavation\nDelivery strategies for MICP\n\n\nFundamental research on biogeotechnics\nMICP for sustainable geoenergy applications\n\n\nCase studies on field applications of biogeotechnics\nFungal treatment of soils\n\n\nEducation, outreach, diversity, inclusion and equity in engineering\nBuild with nature"
-  },
-  {
-    "objectID": "submissions/call-for-abstracts.html#abstract-submission-instructions-for-authors",
-    "href": "submissions/call-for-abstracts.html#abstract-submission-instructions-for-authors",
-    "title": "Call for Abstracts",
-    "section": "Abstract Submission Instructions for Authors",
-    "text": "Abstract Submission Instructions for Authors\n\nAbstracts should have 150 to 250 words.\nAbstracts are submitted to the ISSMGE conference review platform (deadline: March 15, 2024).\n\nYou need to use your free ISSMGE account to login\nIf you are submitting multiple papers, please use a same account\n\nSelect a general session or a special symposium (see the above table)\n\nIf none of the provided themes fit your paper, please select “General session: Other”\nNote that abstracts submitted to Special Symposia may be later reassigned to General sessions depending on the number of abstracts received for each symposium.\n\nSelect a presentation type (oral, poster or either)"
-  },
-  {
-    "objectID": "submissions/call-for-abstracts.html#what-to-expect-after-submission-of-abstracts",
-    "href": "submissions/call-for-abstracts.html#what-to-expect-after-submission-of-abstracts",
-    "title": "Call for Abstracts",
-    "section": "What to Expect after Submission of Abstracts",
-    "text": "What to Expect after Submission of Abstracts\n\n\n\n\n\n\n\n\nActions\nDate\n\n\n\n\nAbstracts Due\nOctober 2023 March 15, 2024\n\n\nFull Paper Invitations Begin\nDecember 2023 April 15, 2024\n\n\nDraft Papers due\nMay 2024 August 31, 2024\n\n\nReview Comments to Authors\nNovember 15, 2024\n\n\nFinal Papers due\nDecember 2024 January 31 , 2025\n\n\nConference Registration Due\nMarch 31, 2025"
-  },
-  {
-    "objectID": "submissions/call-for-abstracts.html#publication-and-copyright-information",
-    "href": "submissions/call-for-abstracts.html#publication-and-copyright-information",
-    "title": "Call for Abstracts",
-    "section": "Publication and Copyright Information",
-    "text": "Publication and Copyright Information\n\nAuthors retain all rights to their articles in the conference proceedings.\nA copyright agreement form will be provided to authors and must be submitted at the time of acceptance and final submission of revised papers.\nAccepted papers will be published in a free and open access conference proceedings in the ISSMGE Online Library.\nEach paper will be indexed with its own individual DOI number and Conference Proceedings, with their own ISSN.\nAdditional indexing options such as Scopus, WoS/Clarivate, EI, and Compendex may be sought.\nThe conference editorial board may invite selected conference papers for special issues of high impact journals."
-  },
-  {
-    "objectID": "submissions/call-for-abstracts.html#questions",
-    "href": "submissions/call-for-abstracts.html#questions",
-    "title": "Call for Abstracts",
-    "section": "Questions?",
-    "text": "Questions?\nPlease send emails to the organizing committee, icbbg2025 at gmail dot com\nTo learn more, visit the conference website: https://www.icbbg2025.com\nSubmit an abstract"
-  },
-  {
-    "objectID": "submissions/call-for-sessions.html",
-    "href": "submissions/call-for-sessions.html",
-    "title": "Call for Session Proposals",
-    "section": "",
-    "text": "This is an invitation to submit proposals for sessions in the International Conference on Bio-mediated and Bio-inspired Geotechnics (ICBBG) 2025, to be held May 19-21, 2025 in Tempe, Arizona, USA. ICBBG aims to bring together top researchers from around the world to present the state of the art and state of the practice on biogeotechnics, and to facilitate knowledge exchange among researchers, industry, agencies and educators.\nA proposal should identify a coherent topic that can be addressed by about 6 to 12 papers. For example, a session might bring together papers on different aspects to a particular biogeotechnics question (e.g., MICP, EICP, bio-inspired burrowing, root-inspired-foundation) or it might examine the applications of a particular technology (e.g., x-ray CT) in a variety of biogeotechnics areas.\nICBBG is interested in the following general themes:"
-  },
-  {
-    "objectID": "submissions/call-for-sessions.html#responsibilities-of-a-session-chair",
-    "href": "submissions/call-for-sessions.html#responsibilities-of-a-session-chair",
-    "title": "Call for Session Proposals",
-    "section": "Responsibilities of a session chair:",
-    "text": "Responsibilities of a session chair:\nRecognizing that many in the community believe the value of a meeting depends on the quality of its review process, every full manuscript submitted to ICBBG will be reviewed by at least two anonymous reviewers, as well as the session chairs.\nAs a proposer of an accepted session, you will become the session chair. The chair’s primary responsibility is to solicit high quality papers for the session and to oversee the review. You are to solicit manuscripts, have them refereed, collaborate with the conference chairs in determining which manuscripts are to be accepted and structure presentation time in your session. Please contact us at the address below if you have any questions about the obligations entailed in becoming a session organizer."
-  },
-  {
-    "objectID": "submissions/call-for-sessions.html#procedure-for-submitting-proposals",
-    "href": "submissions/call-for-sessions.html#procedure-for-submitting-proposals",
-    "title": "Call for Session Proposals",
-    "section": "Procedure for submitting proposals:",
-    "text": "Procedure for submitting proposals:\nSession proposals can be as short as a single page, including the following information:\n\nSession Title\nNames and contact information of the organizer(s)\nAbstract (1 paragraph), describing the specific scope, purpose and significance of the session\nRough estimate of the anticipated number of presentations\nList of potential contributors (Optional but highly recommended)\n\nProposals must be submitted to the email address icbbg2025 at gmail dot com.\nEach proposal will be evaluated by the organizing committee."
-  },
-  {
-    "objectID": "submissions/call-for-sessions.html#important-dates",
-    "href": "submissions/call-for-sessions.html#important-dates",
-    "title": "Call for Session Proposals",
-    "section": "Important Dates",
-    "text": "Important Dates\nApril 30, 2023 – Proposals Due\nMay 31, 2023 – Notification of Acceptance"
-  },
-  {
-    "objectID": "submissions/call-for-sessions.html#questions",
-    "href": "submissions/call-for-sessions.html#questions",
-    "title": "Call for Session Proposals",
-    "section": "Questions?",
-    "text": "Questions?\nPlease send email to the organizing committee, icbbg2015 at gmail dot com"
+    "text": "Q&A"
   },
   {
     "objectID": "committees.html",
@@ -531,99 +496,80 @@
     "text": "Due to the extended deadline for full paper submissions, the review process has been delayed. We now anticipate decisions on submitted papers to be communicated by the end of December or early January.\nIf you require an earlier decision for visa application purposes or other time-sensitive matters, please contact us (icbbg2025 at gmail dot com). We will do our best to prioritize and expedite the review of your paper where feasible.\nThank you for your understanding and patience as we work to ensure a thorough and fair review process for all submissions."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "2025 International Conference on Bio-mediated and Bio-inspired Geotechnics (ICBBG)",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Contact Us",
     "section": "",
-    "text": "The conference aims to present the latest advancements in the field of Bio-mediated and Bio-inspired Geotechnics (BioGeotechnics). It provides a platform for fostering collaboration and the exchange of information about this emerging area. Key objectives include enhancing the modeling of bio-mediated and bio-inspired processes, translating foundational bio-inspired knowledge into viable technologies with potential for future commercialization, and promoting the integration of these innovative solutions into geotechnical engineering practices. Through these efforts, the conference seeks to drive the advancement of sustainable approaches to geotechnical challenges."
+    "text": ": icbbg2025 at gmail dot com\n: (480) 965-2489\n Center for Bio-mediated and Bio-inspired Geotechnics (CBBG)\n    Arizona State University\n    660 S College Ave\n    Tempe, AZ 85281"
   },
   {
-    "objectID": "index.html#featured-speakers",
-    "href": "index.html#featured-speakers",
-    "title": "2025 International Conference on Bio-mediated and Bio-inspired Geotechnics (ICBBG)",
-    "section": "Featured Speakers ➡️",
-    "text": "Featured Speakers ➡️\n\n\n\n\n\n\n\n\n\nJian Chu  Nanyang Technological University, Singapore\n\n\n\n\n\n\n\nAnca Delgado  Arizona State University\n\n\n\n\n\n\n\nAnnette Esnault Filet  Soletanche Bachy International Inc.\n\n\n\n\n\n\n\n\n\nJonathan Knappett  University of Dundee, Scotland\n\n\n\n\n\n\n\nAlejandro Martinez  University of California, Davis\n\n\n\n\n\n\n\nBrina Montoya  North Carolina State University"
-  },
-  {
-    "objectID": "index.html#session-topics",
-    "href": "index.html#session-topics",
-    "title": "2025 International Conference on Bio-mediated and Bio-inspired Geotechnics (ICBBG)",
-    "section": "Session Topics ➡️",
-    "text": "Session Topics ➡️\n\n\n\n\n\n\nGeneral Sessions\n\nBio-mediated methods for hazard mitigation\nBio-mediated methods for environmental protection and restoration\nBio-mediated methods for infrastructure construction\nBio-inspired methods for infrastructure construction\nBio-inspired methods for subsurface exploration and excavation\nFundamental research on biogeotechnics\nCase studies on field applications of biogeotechnics\n\n\n\nSpecial Symposia\n\nBio-inspired Tunneling\nAsia experiences on bio-mediated geotechnics\nEurope experiences on bio-mediated geotechnics\nBiopolymer treated soils\nDelivery strategies for MICP\nMICP for sustainable geoenergy applications\nFungal treatment of soils\nBuild with nature\nEducation, outreach, diversity, inclusion, and equity in engineering"
-  },
-  {
-    "objectID": "index.html#organizing-chairs",
-    "href": "index.html#organizing-chairs",
-    "title": "2025 International Conference on Bio-mediated and Bio-inspired Geotechnics (ICBBG)",
-    "section": "Organizing Chairs ➡️",
-    "text": "Organizing Chairs ➡️\n\n\n\n\n\n\n\n\n\nEdward Kavazanjian  Arizona State University\n\n\n\n\n\n\n\nSusan Burns  Georgia Institute of Technology"
-  },
-  {
-    "objectID": "index.html#icbbg-2025-partners",
-    "href": "index.html#icbbg-2025-partners",
-    "title": "2025 International Conference on Bio-mediated and Bio-inspired Geotechnics (ICBBG)",
-    "section": "ICBBG 2025 Partners",
-    "text": "ICBBG 2025 Partners"
-  },
-  {
-    "objectID": "index.html#exhibitors-and-sponsors",
-    "href": "index.html#exhibitors-and-sponsors",
-    "title": "2025 International Conference on Bio-mediated and Bio-inspired Geotechnics (ICBBG)",
-    "section": "Exhibitors and Sponsors",
-    "text": "Exhibitors and Sponsors\nTo be announced. Join us today!"
-  },
-  {
-    "objectID": "registration.html#register-now-1",
-    "href": "registration.html#register-now-1",
-    "title": "Registration and Accomodation",
-    "section": "Register Now",
-    "text": "Register Now\n\nCategories and Rates\n\n\n\nCategory\nPrior to 03/15/2025\nFull Price till 05/04/2025\n\n\n\n\nGeneral\n$750\n$850\n\n\nStudent\n$400\n$400\n\n\nGuest/Companion\n$250\n$250\n\n\n\n\n\nTerms and Conditions\n\nRegistration Includes:\n\nFull Registration: Reception on May 18, banquet on May 20, lunch and coffee breaks on May 19 and 20, and access to all technical programs.\nGuest/Companion Registration: Reception on May 18 and banquet on May 20.\nPayment Deadline: Payments must be received and processed by May 4; unpaid registrations will be canceled.\n\nPaper Submission:\n\nAt least one author of an accepted paper must complete a full registration for the paper to be included in the program and proceedings.\nA maximum of two papers can be associated with a single registration.\n\nNo-shows:\n\nRegistrants who do not attend the conference and fail to cancel in advance will not receive a refund.\n\nData Protection:\n\nPersonal information collected during registration will only be used for conference-related purposes and will not be shared without consent.\n\n\nBy completing the registration process, you agree to these terms and conditions. For inquiries, please contact icbbg2025 at gmail dot com.\n\n\nCancellation Policy\n\nAll cancellation requests must be submitted in writing to icbbg2025@gmail.com.\n\nFull Refund: Cancellations requested on or before April 4, 2025, will receive a 100% refund, minus a credit card processing fee.\n\nPartial Refund or Transfer: Cancellations requested between April 5, 2025, and May 2, 2025, will receive a 50% refund, or you may transfer your registration to another attendee.\n\nNo Refunds: Cancellations after May 2, 2025, are not eligible for a refund; however, registration transfers to another attendee are still allowed.\n\n\n\n\n\n\n\n\n\nRequest Date\nRefund Amount\nAdditional Option\n\n\n\n\nOn or before  April 4, 2025\n100% refund (minus credit card fee)\nN/A\n\n\nApril 5 – May 2, 2025\n50% refund\nTransfer registration to another attendee\n\n\nAfter May 2, 2025\nNo refund\nTransfer registration to another attendee\n\n\n\nFor questions or to request a cancellation, please contact us at icbbg2025 at gmail dot com.",
-    "crumbs": [
-      "Home",
-      "Opprotunities",
-      "Register"
-    ]
-  },
-  {
-    "objectID": "announcements-1223.html",
-    "href": "announcements-1223.html",
-    "title": "Important Announcements",
+    "objectID": "sponsors.html",
+    "href": "sponsors.html",
+    "title": "Sponsors",
     "section": "",
-    "text": "Dear Colleagues,\nWe are excited to share important updates about 2025 International Conference on Bio-mediated and Bio-inspired Geotechnics (ICBBG 2025). Mark your calendars for Sunday evening, May 18, to Tuesday evening, May 20, 2025, at Arizona State University in Tempe, AZ."
+    "text": "ICBBG 2025 is proudly supported by,\n\nInternational Society for Soil Mechanics and Geotechnical Engineering (ISSMGE)\n\nTC102– Ground Property Characterization from In-Situ Tests\nTC215– Environmental Geotechnics\nTC307– Sustainability in Geotechnical Engineering\n\nGeo-institute, American Society of Civil Engineers\nGeo-institute Graduate Student Organization at Arizona Student University\nNational Science Foundation Engineering Research Center for Bio-mediated and Bio-inspired Geotechnics, EEC-1449501\nArizona State University\nGeorgia Institute of Technology\nNew Mexico State University\nUniversity of California, Davis"
   },
   {
-    "objectID": "announcements-1223.html#announcements",
-    "href": "announcements-1223.html#announcements",
-    "title": "Important Announcements",
-    "section": "✨ Announcements",
-    "text": "✨ Announcements\nWe are thrilled to announce:\n\n🎟️ Registration is Now Open Register Now\n📢 Call for Poster Abstracts Submit Your Poster Abstract\n🤝 Call for Exhibitors and Sponsors Explore Opportunities"
+    "objectID": "publication.html",
+    "href": "publication.html",
+    "title": "Publication",
+    "section": "",
+    "text": "Note\n\n\n\nTo be announced."
   },
   {
-    "objectID": "announcements-1223.html#featured-speakers",
-    "href": "announcements-1223.html#featured-speakers",
-    "title": "Important Announcements",
-    "section": "🗣️ Featured Speakers",
-    "text": "🗣️ Featured Speakers"
+    "objectID": "venue.html",
+    "href": "venue.html",
+    "title": "Venues",
+    "section": "",
+    "text": "The Westin Tempe Book here\n11 E. 7th Street, Tempe, AZ 85281\n480-968-8885"
   },
   {
-    "objectID": "announcements-1223.html#key-links",
-    "href": "announcements-1223.html#key-links",
-    "title": "Important Announcements",
-    "section": "🔗 Key Links",
-    "text": "🔗 Key Links\n👉 Click Here to Register\n👉 Click Here to Submit a Poster Abstract\n👉 Click Here to Learn More about Exhibition and Sponsorship Opportunities\n👉 Click Here to View Conference Website\nThank you for your interest in ICBBG 2025. We can’t wait to see you in Tempe! 🌵\nPlease feel free to email icbbg2025 at gmail dot com, if you have any questions.\nWish you all a wonderful holiday season ahead!\nWarm regards,\nThe ICBBG 2025 Team"
+    "objectID": "venue.html#conference-partner-hotel",
+    "href": "venue.html#conference-partner-hotel",
+    "title": "Venues",
+    "section": "",
+    "text": "The Westin Tempe Book here\n11 E. 7th Street, Tempe, AZ 85281\n480-968-8885"
   },
   {
-    "objectID": "announcements-1223.html#quick-links",
-    "href": "announcements-1223.html#quick-links",
-    "title": "Important Announcements",
-    "section": "🔗 Quick Links",
-    "text": "🔗 Quick Links\n\nRegister Here\nSubmit a Poster Abstract\nLearn About Exhibition & Sponsorship Opportunities\nVisit the Conference Website\n\nThank you for your interest in ICBBG 2025. We look forward to welcoming you in Tempe! 🌵\nHave Questions?\nReach out to us at icbbg2025 at gmail dot com.\nWishing you all a wonderful holiday season ahead!\nWarm regards,\nThe ICBBG 2025 Team"
+    "objectID": "venue.html#welcome-reception",
+    "href": "venue.html#welcome-reception",
+    "title": "Venues",
+    "section": "Welcome Reception",
+    "text": "Welcome Reception\n\nPaul C. Helmick Center (HLMK) at ASU\n660 S College Ave, Tempe, AZ 85281"
   },
   {
-    "objectID": "announcements-1223.html#latest-announcements",
-    "href": "announcements-1223.html#latest-announcements",
-    "title": "Important Announcements",
-    "section": "✨ Latest Announcements",
-    "text": "✨ Latest Announcements\nWe are thrilled to announce:\n\n🎟️ Registration is Now Open Register Now\n📢 Call for Poster Abstracts Submit Your Poster Abstract\n🤝 Call for Exhibitors and Sponsors Explore Opportunities"
+    "objectID": "venue.html#meetings",
+    "href": "venue.html#meetings",
+    "title": "Venues",
+    "section": "Meetings",
+    "text": "Meetings\n\nMemorial Union at ASU\n301 E Orange St., Tempe, AZ 85281\n\n\n\nCampus map (PDF)\nMU room map (PDF)\nTake a virtual tour of the MU"
+  },
+  {
+    "objectID": "venue.html#banquet",
+    "href": "venue.html#banquet",
+    "title": "Venues",
+    "section": "Banquet",
+    "text": "Banquet\n\n\n\nRustler’s Rooste"
+  },
+  {
+    "objectID": "venue.html#arizona-state-university",
+    "href": "venue.html#arizona-state-university",
+    "title": "Venues",
+    "section": "Arizona State University",
+    "text": "Arizona State University\nThe School of Sustainable Engineering and the Built Environment at Arizona State University (ASU) is the event’s host. ASU is currently the nation’s largest public research university impacting our community, region, and world at a scale that has more than 137,000 master learners across five campuses. Arizona State University, ranked No. 1 “Most Innovative School” in the nation by U.S. News & World Report for eight years in succession, has forged the model for a New American University by operating on the principles that learning is a personal and original journey for each student; that they thrive on experience and that the process of discovery cannot be bound by traditional academic disciplines.\nThe Ira A. Fulton Schools of Engineering within ASU has an interdisciplinary structure consisting of 7 schools with program offerings on 2 campuses and online, fostering cross-campus and global partnerships. The academic programs, enrollments and graduates include a total of 25 undergraduate degree programs; 50+ graduate programs; approximately 27,000 students (~9,000 online, ~18,000 on-campus); and more than 5,100 graduates across all degree levels in during the 2020-2021 academic year.\n\n\n\nVisit ASU\n\n\n\n\n\nASU Hayden Library\n\n\n\n\n\nASU Old Main Building"
+  },
+  {
+    "objectID": "venue.html#city-of-tempe",
+    "href": "venue.html#city-of-tempe",
+    "title": "Venues",
+    "section": "City of Tempe",
+    "text": "City of Tempe\nThe City of Tempe is located in the southeast of the metropolitan Phoenix in Maricopa County, Arizona. Tempe was recently designated as number 2 among The 50 Best Places to Live in the U.S. by the Money Magazine. Among the criteria for this recognition, its economic opportunities, quality of life, and diversity are noted. Home to Arizona State University, Tempe is known for its active arts and culture scene, relative affordability and myriad employment opportunities in education, finance, health care and tech.\n\n\n\nMarina View of Tempe Town Lake\n\n\n\n\n\nTempe Art Sign\n\n\n\n\n\nDesert Botanical Garden"
+  },
+  {
+    "objectID": "venue.html#things-to-do-around-arizona",
+    "href": "venue.html#things-to-do-around-arizona",
+    "title": "Venues",
+    "section": "Things To Do Around Arizona",
+    "text": "Things To Do Around Arizona\n\nTempe\nTempe Town Lake (boat rentals)\nASU Art Museum\nHike “A” Mountain\nTempe Center for the Arts\n\n\nPhoenix\nDesert Botanical Garden\nPhoenix Zoo\nHiking Camelback Mountain\nHiking Piestewa Peak\nMusical Instrument Museum (MIM)\nHeard Museum\nPhoenix Art Museum\nArizona Science Center\n\n\nGilbert\nHale Theater\nDowntown Gilbert\n\n\nScottsdale\nButterfly Wonderland\nThe OdySea Aquarium\nREI Co-op Experiences\nOld Town Scottsdale\nFashion Square Mall\n\n\nMesa\nSalt River Kayaking Trip\nSalt River Tubing\n\n\nSedona and Flagstaff\nPink Jeep Tours\nGrand Canyon Railway\nSegway and Bike Tours\nWine Tours\nHorsin’ Around Adventures Meteor Crater and Barringer Space Musem\n\n\nGrand Canyon\nGateway to Northern Arizona\n\n\nPage, AZ\nHorseshoe Bend Rafting\nAntelope Canyon Tours\nLake Powell Boat Tours\nAntelope Canyon\n\n\nSouthern Utah\nBryce Canyon National Park\nZion National Park"
   }
 ]
