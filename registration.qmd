@@ -13,7 +13,7 @@ title: Registration and Accomodation
 |-----------------|---------------------|----------------------------|
 | General         | $750                | $850                       |
 | Student         | $400                | $400                       |
-| Guest/Companion | $250                | $250                       |
+| Guest/Companion | $175                | $175                       |
 
 ### Terms and Conditions
 
