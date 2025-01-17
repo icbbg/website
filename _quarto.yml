@@ -30,7 +30,7 @@ website:
     style: "floating"
     search: true
     contents:
-      section: "Opprotunities"
+      section: "Opportunities"
       contents:
         - href: ./submissions/call-for-posters.qmd
           text: Call for posters
