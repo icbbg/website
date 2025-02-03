@@ -41,7 +41,7 @@ website:
   announcement:
     icon: info-circle-fill
     dismissable: true
-    content: "**Update on Paper Reviews: Expecting Some Delays.** [Learn More](/review-update.qmd)"
+    content: "**Register by March 15 to save with the early-bird rate!** [Learn More](/registration.qmd)"
     type: danger
     position: below-navbar
 format:
