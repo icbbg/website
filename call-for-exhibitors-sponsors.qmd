@@ -1,6 +1,6 @@
 ---
 title: "Call for Exhibitors and Sponsors"
-date: "2024-12-19"
+date: "2025-02-10"
 published-title: "Last Modified"
 subtitle: "Secure Your Spot: Opportunities Are Limited – Act Fast!"
 ---
@@ -50,3 +50,5 @@ Reserve your spot as an exhibitor or sponsor today! Availability is limited and 
 * For more information on the conference, please visit [ICBBG 2025 Website](/index.qmd) and [Registration Information](/registration.qmd).
 
 We look forward to your support in making **ICBBG 2025** an outstanding event for all participants! 
+
+![](img/yourlogo.png)
