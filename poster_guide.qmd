@@ -1,0 +1,50 @@
+---
+title: "ICBBG 2025 Poster Preparation Guidelines"
+date: "2025-02-21"
+---
+
+## General Information
+
+Presenting a poster at **ICBBG 2025** provides an excellent opportunity to showcase your research and engage with fellow attendees. Please follow these guidelines to ensure a smooth presentation experience.  
+
+## Poster Format & Dimensions
+
+- Posters should be **portrait-oriented** and not exceed **36 inches (91 cm) wide × 48 inches (122 cm) tall**.  
+- Use a **readable font size** (minimum 24 pt for body text, 36 pt for headings).  
+- Ensure high contrast between text and background for readability.  
+
+## Content Guidelines
+
+- **Title**: Should match the submitted abstract and be clearly visible from a distance.  
+- **Authors & Affiliations**: List all contributing authors and their institutions.  
+- **Introduction**: Briefly outline the research question and objectives.  
+- **Methods**: Provide a concise description of methodologies.  
+- **Results**: Use **figures, charts, and tables** to illustrate findings clearly.  
+- **Conclusion**: Summarize key takeaways and potential implications.  
+- **Acknowledgments & References**: If applicable, include funding sources and key citations.
+- **Conference Logo (optional)**: [svg](./img/icbbg-logo.svg), [png](./img/icbbg-logo-new.png)
+
+## Design & Layout Tips
+
+- Use bullet points and short paragraphs for clarity.  
+- Incorporate visuals (graphs, images) to enhance understanding.  
+- Avoid excessive text—let visuals tell your story.  
+- Maintain a professional and clean design.  
+
+## Printing & Display
+
+- Bring a printed version of your poster—on-site printing is **not available**.  
+- Posters will be mounted on **provided display boards** using push pins or adhesive strips (supplied by the conference).  
+- Arrive early to set up your poster in the assigned session area.  
+
+## Presentation Guidelines
+
+- Be available during the [poster session](https://icbbg2025.com/program#monday-may-19-2025) to discuss your work.
+- Prepare a brief (2-3 minute) summary for attendees.  
+- Engage with viewers and encourage discussion.  
+
+## **Questions?**  
+
+Contact us at <icbbg2025@gmail.com> for any inquiries.  
+
+We look forward to your presentation at **ICBBG 2025**! 🌵  
