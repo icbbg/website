@@ -14,7 +14,7 @@ subtitle: "Last Modified: 2024-12-18"
 | Final Papers Due                   | [One month after receiving comments]{.highlight}          |
 | Registration Open                  | December 23, 2024                                         |
 | Poster Abstracts Due               | January 31, 2025                                          |
-| Early Bird Registration Ends       | March 15, 2025                                            |
+| Early Bird Registration Ends       | ~~March 15, 2025~~ → [March 31, 2025]{.highlight}         |
 | Cancellation with Full Refund Ends | April 4, 2025                                             |
 | Cancellation with 50% Refund       | April 4–May 2, 2025                                       |
 | ICBBG Rate at Westin Tempe Ends    | April 21, 2025                                            |

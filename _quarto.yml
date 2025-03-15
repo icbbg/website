@@ -41,7 +41,7 @@ website:
   announcement:
     icon: info-circle-fill
     dismissable: true
-    content: "**Register by March 15 to save with the early-bird rate!** [Learn More](/registration.qmd)"
+    content: "**Early Bird Registration Deadline Extended to March 31!** [Learn More](/registration.qmd)"
     type: danger
     position: below-navbar
 format:

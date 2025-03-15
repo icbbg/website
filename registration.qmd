@@ -9,7 +9,7 @@ title: Registration and Accomodation
 ### Categories and Rates
 
 
-| Category        | Prior to 03/15/2025 | Full Price till 05/04/2025 |
+| Category        | Prior to 03/31/2025 | Full Price till 05/04/2025 |
 |-----------------|---------------------|----------------------------|
 | General         | $750                | $850                       |
 | Student         | $400                | $400                       |
@@ -46,11 +46,11 @@ By completing the registration process, you agree to these terms and conditions.
 - **No Refunds:** Cancellations after **May 2, 2025**, are not eligible for a refund; however, registration transfers to another attendee are still allowed.  
 
 
-| Request Date               | Refund Amount                       | Additional Option                         |
-|----------------------------|-------------------------------------|-------------------------------------------|
+| Request Date                     | Refund Amount                       | Additional Option                         |
+|----------------------------------|-------------------------------------|-------------------------------------------|
 | On or before <br/> April 4, 2025 | 100% refund (minus credit card fee) | N/A                                       |
-| April 5 – May 2, 2025      | 50% refund                          | Transfer registration to another attendee |
-| After May 2, 2025          | No refund                           | Transfer registration to another attendee |
+| April 5 – May 2, 2025            | 50% refund                          | Transfer registration to another attendee |
+| After May 2, 2025                | No refund                           | Transfer registration to another attendee |
 
 : {tbl-colwidths="[1.3, 1, 1.5]"}
 
@@ -60,10 +60,11 @@ For questions or to request a cancellation, please contact us at [icbbg2025@gmai
 
 ### The Westin Tempe 
 
-![](img/westin.png)
+![](img/westin.png){width="70%"}
 
 [11 E. 7th Street, Tempe, AZ 85281](https://goo.gl/maps/PSLQC8nTVZvoBkgd6)  
 480-968-8885
+
 
 [Book at the ICBBG 2025 Rate by Monday, April 21, 2025](https://www.marriott.com/event-reservations/reservation-link.mi?id=1733422779793&key=GRP&guestreslink2=true&app=resvlink){.btn .btn-primary}
 
@@ -77,21 +78,20 @@ For questions or to request a cancellation, please contact us at [icbbg2025@gmai
     - Bike Rental for 2 (2 hour max)
     - 1 free Drip Coffee for up to (2) guests at Cup of Joe
 
+
+::: {.callout-tip}
+
+The Westin Tempe block rate is sold out as of [March 15]{.highlight}. We recommend exploring the following alternatives.
+
+:::
+
 ### Other Lodging Options
 
 Most of the hotels listed below are conveniently located within walking distance of the ASU Campus. Call the hotel directly to make your reservation. ASU and government rates may be available for many of them.  
 
-::: {.callout-tip collapse=true icon=false}
+::: {.callout-tip icon=false}
 
 ## A list of Hotels with ASU Discounts
-
-**AC Hotel Phoenix Tempe/Downtown**  
-100 E Rio Salado Pkwy, Tempe, AZ 85281  
-(480) 642-6140
-
-[Book Your Preferred ASU Rate](https://www.marriott.com/event-reservations/reservation-link.mi?id=1704823052094&key=CORP&app=resvlink) 
-
-- Complimentary Wi-Fi in all guest rooms
 
 **Canopy by Hilton Tempe Downtown**  
 108 E. University Drive, Tempe, AZ 85281  
@@ -102,27 +102,6 @@ Most of the hotels listed below are conveniently located within walking distance
 - Complimentary WI-FI
 - Complimentary Bikes and access to Fitness Center
 - Conveniently located to ASU, Gammage and Mill Avenue, walking distance to dining, shopping and nightlife
-
-**DoubleTree by Hilton Phoenix - Tempe**  
-[2100 S Priest Dr Tempe, AZ 85282](https://goo.gl/maps/8qqJc5a4UTMCgDLy7)  
-Tempe, AZ 85281  
-480-804-5264
-
-[Book your preferred ASU rate](https://urldefense.com/v3/__https:/www.hilton.com/en/book/reservation/deeplink/?ctyhocn=PHXMPDT&corporateCode=0560044993__;!!IKRxdwAv5BmarQ!YpT_sq-EjWOI0Ko_AUv0gSZ_IoGR1b1CN6aikgDJUg1WPHloomwdKj_HQy8GdFCS7WbHY5JoQJCCx49CLRQYmlcgKqnwc3Cv$).
-
-- Complimentary daily full hot breakfast
-- Complimentary shuttle to and from the Phoenix Sky Harbor Airport/ within 5 mile radius of Hotel
-- Complimentary Wi-Fi in all guest rooms
-- Complimentary self parking
-
-**Element Scottsdale at SkySong**  
-[1345 N. Scottsdale Road, Scottsdale, AZ 85257](https://goo.gl/maps/LKyrU2ZkMK3fPHAm7)  
-480-361-0000
-
-[Book your preferred ASU rate](https://www.marriott.com/event-reservations/reservation-link.mi?id=1600970991652&key=CORP&app=resvlink)
-
-- Complimentary hot breakfast buffet daily
-- Complimentary light evening reception, Monday – Thursday
 
 **Graduate Tempe by Hilton**  
 [225 East Apache Boulevard, Tempe, AZ 85281](https://goo.gl/maps/Xie9DFszLvc7UumU8)  
@@ -144,16 +123,6 @@ Tempe, AZ 85281
 - Complimentary High-speed wireless internet
 - Parking is \$15.00 per night in a secure parking garage
 
-**Hyatt Place Tempe/Phoenix/University**  
-[Book your preferred ASU rate](https://urldefense.com/v3/__https:/www.hyatt.com/en-US/hotel/arizona/hyatt-place-tempe-phoenix-university/phxzt?corp_id=38975__;!!IKRxdwAv5BmarQ!JxQ5mfCwJq6pgINPX286wrGkOF9wY5PAXGE6WmXtKC0-_CFD5PddKMr0Ohwo01g3bh0$)  
-[601 E. 6th St Tempe, AZ 85281](https://goo.gl/maps/UJVbsmAa19Vt49v78)  
-480-219-5956
-
-- Walking distance to ASU
-- Complimentary breakfast
-- Complimentary High-speed wireless internet
-- Parking is \$15.00 per night in a secure parking garage
-
 **Omni Tempe Hotel at ASU**  
 [7 E University Dr, Tempe, AZ 85281](https://goo.gl/maps/VpHUkUQiUFvWvVuC6)  
 1-800-THE-OMNI  
@@ -168,6 +137,27 @@ Tempe, AZ 85281
 - Walk to campus activities at ASU Gammage, ASU Art Museum, Mountain America Stadium, Hayden Library
 - Steps to Mill Avenue restaurants, shopping, and entertainment
 - Steps to Tempe Valley Metro Streetcar (Ninth St./Mill Stop)
+
+
+**AC Hotel Phoenix Tempe/Downtown**  
+100 E Rio Salado Pkwy, Tempe, AZ 85281  
+(480) 642-6140
+
+[Book Your Preferred ASU Rate](https://www.marriott.com/event-reservations/reservation-link.mi?id=1704823052094&key=CORP&app=resvlink) 
+
+- Complimentary Wi-Fi in all guest rooms
+
+**DoubleTree by Hilton Phoenix - Tempe**  
+[2100 S Priest Dr Tempe, AZ 85282](https://goo.gl/maps/8qqJc5a4UTMCgDLy7)  
+Tempe, AZ 85281  
+480-804-5264
+
+[Book your preferred ASU rate](https://urldefense.com/v3/__https:/www.hilton.com/en/book/reservation/deeplink/?ctyhocn=PHXMPDT&corporateCode=0560044993__;!!IKRxdwAv5BmarQ!YpT_sq-EjWOI0Ko_AUv0gSZ_IoGR1b1CN6aikgDJUg1WPHloomwdKj_HQy8GdFCS7WbHY5JoQJCCx49CLRQYmlcgKqnwc3Cv$).
+
+- Complimentary daily full hot breakfast
+- Complimentary shuttle to and from the Phoenix Sky Harbor Airport/ within 5 mile radius of Hotel
+- Complimentary Wi-Fi in all guest rooms
+- Complimentary self parking
 
 **Sonesta Select Tempe Downtown**  
 601 S Ash Ave, Tempe, AZ 85281  
@@ -199,4 +189,15 @@ Tempe, AZ 85281
 - Parking is \$10.00 per night  
     Walking distance to ASU, restaurants, shopping, and entertainment  
     Complimentary Wi-Fi in Guest Rooms & Lobby  
+
+**Element Scottsdale at SkySong**  
+[1345 N. Scottsdale Road, Scottsdale, AZ 85257](https://goo.gl/maps/LKyrU2ZkMK3fPHAm7)  
+480-361-0000
+
+[Book your preferred ASU rate](https://www.marriott.com/event-reservations/reservation-link.mi?id=1600970991652&key=CORP&app=resvlink)
+
+- Complimentary hot breakfast buffet daily
+- Complimentary light evening reception, Monday – Thursday
+
+
 :::
