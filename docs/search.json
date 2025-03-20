@@ -648,5 +648,47 @@
     "title": "2025 International Conference on Bio-mediated and Bio-inspired Geotechnics (ICBBG)",
     "section": "Exhibitors and Sponsors",
     "text": "Exhibitors and Sponsors\nTo be announced. Join us today!"
+  },
+  {
+    "objectID": "proofing-guide.html",
+    "href": "proofing-guide.html",
+    "title": "Format Proofing Guide",
+    "section": "",
+    "text": "Tip\n\n\n\nThis is a living document. The Q&A section at the end will be continuously updated as new questions arise.\nThank you for volunteering or accepting our invitation to serve as a formatting editor for ICBBG 2025. If you are a student volunteer, you are automatically assigned this role."
+  },
+  {
+    "objectID": "proofing-guide.html#assignment-overview",
+    "href": "proofing-guide.html#assignment-overview",
+    "title": "Format Proofing Guide",
+    "section": "Assignment Overview",
+    "text": "Assignment Overview\nTo ensure all papers comply with the ICBBG conference paper guidelines before final publication on the ISSMGE platform, we are conducting a final formatting proof. While authors and review editors were instructed to follow the guidelines, some papers may still have formatting inconsistencies. Your role is to perform this final review and ensure compliance with key formatting requirements."
+  },
+  {
+    "objectID": "proofing-guide.html#formatting-checklist",
+    "href": "proofing-guide.html#formatting-checklist",
+    "title": "Format Proofing Guide",
+    "section": "Formatting Checklist",
+    "text": "Formatting Checklist\nThe official formatting guidelines can be found here:\n📄 Authors’ Instructions for ICBBG 2025 Proceedings\nSome formatting elements are flexible, but certain requirements must be met to ensure consistency across all papers. Below is a checklist of mandatory and optional formatting requirements.\n\nMandatory Formatting Requirements\n\nMargins: 1-inch on all sides (top, bottom, left, right).\n\nMain Font: Black, Times New Roman, 12 pt.\n\nTitle Position: Two single-spaced blank lines above the title. This is very important!\nFront Matter Formatting:\n\nTitle: Black, bold, single-spaced (if multi-line), with no punctuation at the end.\n\nAuthor Names: Black, bold, with affiliations indicated using superscript numbers. Professional society memberships (e.g., ASCE S.M.) are allowed but not mandatory. Use single spacing if spanning multiple lines.\n\nAuthor Affiliations: Single-spaced.\n\nSpacing: Leave a blank line between each section (title, author names, and affiliations). Single-spaced within each section.\n\n\nHeaders & Footers: No document-level headers or footers. Remove any page numbers.\n\nMetadata Consistency:\n\nThe ICBBG2025-metadata spreadsheet file contains metadata for each paper.\n\nEnsure the title and author list (including order) in the paper match the metadata.\n\nIf discrepancies are found, update the ICBBG2025-metadata spreadsheet accordingly.\n\n\nFirst-Level Headings:\n\nFully capitalized, black, bold.\n\nLeave one blank line before and after each heading.\n\nDo not include numbering.\n\n\nFigure & Table Captions:\n\nSpelled out as “Figure X.” or “Table X.” (with a period).\n\nThe entire caption should be bold only (no italics or special colors).\n\n\nNo Track Changes or Comments:\n\nAll revisions must be accepted.\n\nComments must be deleted.\n\nMain text must be in black font only.\n\n\n\n\nOptional Formatting Elements\nYou do not need to correct the following:\n\nParagraph Indentation: Ignore inconsistencies.\n\nPage Limit: Some papers exceed the 10-page limit. No need to flag this at this point."
+  },
+  {
+    "objectID": "proofing-guide.html#suggested-workflow",
+    "href": "proofing-guide.html#suggested-workflow",
+    "title": "Format Proofing Guide",
+    "section": "Suggested Workflow",
+    "text": "Suggested Workflow\n\nJoin the Google Drive Folder: Accept the invitation to ICBBG2025-papers.\n\nCheck Your Assignments:\n\nOpen the assignments file in the shared folder.\n\nFind your name and review the list of assigned papers.\n\nPreview the checklist for each paper, which aligns with the Mandatory Requirements Checklist above.\n\nOpen the ICBBG2025-metadata spreadsheet to preview the metadata for each paper.\n\n\nDownload & Review Papers:\n\nFrom the original subfolder, download the .docx files of your assigned papers. Do not edit the Word files directly on Google Drive.\n\nOpen each document, check formatting, and correct any issues.\n\nUpdate the ICBBG2025-metadata spreadsheet online if needed.\n\nUpdate the checklist in the assignments spreadsheet online as you complete reviews.\n\n\nSave and Convert:\n\nOnce all mandatory requirements are met, save the document as a PDF with the same filename.\n\n\nUpload Final Versions:\n\nUpload both the Word (.docx) and PDF (.pdf) versions to the “proofed” subfolder in Google Drive.\nIf no changes are needed. Still upload two versions to the “proofed” subfolder\n\nDelete Local Copies: Remove all downloaded papers from your computer after submission."
+  },
+  {
+    "objectID": "proofing-guide.html#timeline",
+    "href": "proofing-guide.html#timeline",
+    "title": "Format Proofing Guide",
+    "section": "Timeline",
+    "text": "Timeline\nDeadline: March 31, 2025 (10 days from now).\nEstimated time commitment: 2–4 hours total, depending on the extent of edits required."
+  },
+  {
+    "objectID": "proofing-guide.html#sec-qa",
+    "href": "proofing-guide.html#sec-qa",
+    "title": "Format Proofing Guide",
+    "section": "Q&A",
+    "text": "Q&A\n(This section will be updated as new questions arise.)"
   }
 ]

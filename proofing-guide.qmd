@@ -1,0 +1,85 @@
+---
+title: "Format Proofing Guide"
+date: "2025-03-20"
+---
+
+::: {.callout-tip}  
+This is a living document. The [Q&A section](#sec-qa) at the end will be continuously updated as new questions arise.  
+:::  
+
+Thank you for volunteering or accepting our invitation to serve as a formatting editor for ICBBG 2025. If you are a student volunteer, you are automatically assigned this role.  
+
+## **Assignment Overview**  
+
+To ensure all papers comply with the **ICBBG conference paper guidelines** before final publication on the ISSMGE platform, we are conducting a final formatting proof. While authors and review editors were instructed to follow the guidelines, some papers may still have formatting inconsistencies. Your role is to perform this final review and ensure compliance with key formatting requirements.  
+
+## **Formatting Checklist**  
+
+The official formatting guidelines can be found here:  
+📄 **[Authors’ Instructions for ICBBG 2025 Proceedings](../resources/ICBBG2025_Proceedings_Author_Instructions.docx)**  
+
+Some formatting elements are flexible, but **certain requirements must be met** to ensure consistency across all papers. Below is a checklist of mandatory and optional formatting requirements.  
+
+### **Mandatory Formatting Requirements**  
+
+1. **Margins:** 1-inch on all sides (top, bottom, left, right).  
+2. **Main Font:** Black, Times New Roman, 12 pt.  
+3. **Title Position:** Two single-spaced blank lines above the title. This is very important!
+4. **Front Matter Formatting:**  
+   - **Title:** Black, bold, single-spaced (if multi-line), with no punctuation at the end.  
+   - **Author Names:** Black, bold, with affiliations indicated using superscript numbers. Professional society memberships (e.g., ASCE S.M.) are allowed but not mandatory. Use single spacing if spanning multiple lines.  
+   - **Author Affiliations:** Single-spaced.  
+   - **Spacing:** Leave a blank line between each section (title, author names, and affiliations). Single-spaced within each section.  
+5. **Headers & Footers:** No document-level headers or footers. **Remove any page numbers.**  
+6. **Metadata Consistency:**  
+   - The `ICBBG2025-metadata` spreadsheet file contains metadata for each paper.  
+   - Ensure the title and author list (including order) in the paper match the metadata.  
+   - If discrepancies are found, update the `ICBBG2025-metadata` spreadsheet accordingly.  
+7. **First-Level Headings:**  
+   - Fully capitalized, black, bold.  
+   - Leave one blank line before and after each heading.  
+   - Do not include numbering.  
+8. **Figure & Table Captions:**  
+   - Spelled out as "**Figure X.**" or "**Table X.**" (with a period).  
+   - The entire caption should be **bold only** (no italics or special colors).  
+9. **No Track Changes or Comments:**  
+   - All revisions must be accepted.  
+   - Comments must be deleted.  
+   - Main text must be in **black** font only.  
+
+### **Optional Formatting Elements**  
+
+You **do not** need to correct the following:  
+
+- **Paragraph Indentation:** Ignore inconsistencies.  
+- **Page Limit:** Some papers exceed the 10-page limit. No need to flag this at this point.  
+
+## **Suggested Workflow**  
+
+1. **Join the Google Drive Folder:** Accept the invitation to `ICBBG2025-papers`.  
+2. **Check Your Assignments:**  
+   - Open the `assignments` file in the shared folder.  
+   - Find your name and review the list of assigned papers.  
+   - Preview the checklist for each paper, which aligns with the **Mandatory Requirements Checklist** above.  
+   - Open the `ICBBG2025-metadata` spreadsheet to preview the metadata for each paper.  
+3. **Download & Review Papers:**  
+   - From the `original` subfolder, download the `.docx` files of your assigned papers. **Do not edit the Word files directly on Google Drive.**  
+   - Open each document, check formatting, and correct any issues.  
+   - Update the **`ICBBG2025-metadata` spreadsheet online** if needed.  
+   - Update the checklist in the **`assignments` spreadsheet online** as you complete reviews.  
+4. **Save and Convert:**  
+   - Once all mandatory requirements are met, save the document as a **PDF** with the same filename.  
+5. **Upload Final Versions:**  
+   - Upload both the **Word (.docx)** and **PDF (.pdf)** versions to the **"proofed"** subfolder in Google Drive.
+   - If no changes are needed. Still upload two versions to the **"proofed"** subfolder
+6. **Delete Local Copies:** Remove all downloaded papers from your computer after submission.  
+
+## **Timeline**  
+
+**Deadline:** March 31, 2025 (10 days from now).  
+
+Estimated time commitment: **2–4 hours total**, depending on the extent of edits required.  
+
+## **Q&A** {#sec-qa}  
+
+_(This section will be updated as new questions arise.)_
