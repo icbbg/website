@@ -689,6 +689,6 @@
     "href": "proofing-guide.html#sec-qa",
     "title": "Format Proofing Guide",
     "section": "Q&A",
-    "text": "Q&A\n(This section will be updated as new questions arise.)"
+    "text": "Q&A\n(This section will be updated as new questions arise.)\nQ: Is there a specific format for the caption of figures with multiple subfigures? Should the letters be upper or lower case? should they be put in parentheses?. Also, should we unify the way figures and tables are referenced in the text? For example, Fig. / Tab. or Figure. / Table. ? How should the numbers and letter be appended (1a, 1(a))?\nA: Let’s not worry too much about the numbering or citation of subfigures—otherwise, it may create too much extra work. As long as the captions are bolded and the identifiers are spelled out (i.e., “Figure X”), and the naming convention for subfigures is consistent within each paper, it’s good to go."
   }
 ]

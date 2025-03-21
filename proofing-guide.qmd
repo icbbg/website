@@ -83,3 +83,8 @@ Estimated time commitment: **3–5 hours in total**, depending on the extent of 
 ## **Q&A** {#sec-qa}  
 
 _(This section will be updated as new questions arise.)_
+
+
+**Q**: Is there a specific format for the caption of figures with multiple subfigures? Should the letters be upper or lower case? should they be put in parentheses?. Also, should we unify the way figures and tables are referenced in the text? For example, Fig. / Tab. or Figure. / Table. ? How should the numbers and letter be appended (1a, 1(a))?
+
+**A**: Let’s not worry too much about the numbering or citation of subfigures—otherwise, it may create too much extra work. As long as the captions are **bolded and the identifiers are spelled out (i.e., "Figure X"),** and the naming convention for subfigures is **consistent within each paper**, it’s good to go.
