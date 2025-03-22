@@ -63,13 +63,13 @@ subtitle: "Last Modified: 2024-12-18"
 
 ## Editorial Board
 
-|                  |                                 |             |
-|------------------|---------------------------------|-------------|
-| Julian Tao       | Arizona State University        | USA         |
-| Douglas Cortes   | New Mexico State University     | USA         |
-| Sheng Dai        | Georgia Institute of Technology | USA         |
-| Alejandro Martinez    | University of California, Davis  | USA       |
-| Leon van Paassen | Boskalis                        | Netherlands |
-| Mike Gomez       | University of Washington        | USA         |
+|                    |                                 |             |
+|--------------------|---------------------------------|-------------|
+| Julian Tao         | Arizona State University        | USA         |
+| Leon van Paassen   | Boskalis                        | Netherlands |
+| Douglas Cortes     | New Mexico State University     | USA         |
+| Sheng Dai          | Georgia Institute of Technology | USA         |
+| Mike Gomez         | University of Washington        | USA         |
+| Alejandro Martinez | University of California, Davis | USA         |
 
 : {tbl-colwidths="[50, 70, 20]" .hover}
