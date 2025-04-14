@@ -71,6 +71,10 @@ table th {
   font-size: 1.2em;
 }
 
+.small {
+  font-size: 0.85em;
+}
+
 .fading {
   font-size: .9rem;
   color: #5a6570;
@@ -83,4 +87,32 @@ table th {
   /* Center items horizontally */
   align-items: center;
   /* Center items vertically */
+}
+
+
+
+/* Style gt tables like native tables */
+.gt_table {
+  background: $primary;
+  border: 0px;
+  width: 100%;
+}
+
+.gt_table th,
+.gt_table td {
+  border: 1px solid #ccc;
+  padding: 0px 5px;
+  font-size: 11pt;
+  text-shadow: none;
+}
+
+.gt_col_headings {
+  background: $secondary;
+  color: white;
+  font-weight: bold;
+}
+
+.gt_row:hover td {
+  background-color: $secondary;
+  color: white;
 }
