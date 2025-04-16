@@ -1,6 +1,6 @@
 ---
 title: "Program"
-subtitle: "Last Modified: 2025-04-14"
+subtitle: "Last Modified: 2025-04-16"
 ---
 
 ## Sunday, May 18, 2025
@@ -26,11 +26,11 @@ Meetings at [**Memorial Union**](https://eoss.asu.edu/mu)
 | 08:40 AM - 08:50 PM | 10 min Transition          |            |            |            |
 | 08:50 AM - 10:20 PM | Session 1A                 | Session 1B | Session 1C | Session 1D |
 | 10:20 AM - 10:50 PM | 30 min Break               |            |            |            |
-| 10:50 AM - 11:50 PM | Session 2A                 | Session 2B | Session 2C | Session 2D |
+| 10:20 AM - 11:50 PM | Poster Session             |            |            |            |
 | 11:50 AM - 01:00 PM | Lunch break                |            |            |            |
 | 01:00 PM - 01:40 PM | Keynote 2                  |            |            |            |
 | 01:40 PM - 01:50 PM | 10 min Transition          |            |            |            |
-| 01:50 PM - 03:20 PM | Session 3A                 | Session 3B | Session 3C | Session 3D |
+| 01:50 PM - 03:20 PM | Session 2A                 | Session 2B | Session 2C | Session 2D |
 | 03:20 PM - 03:50 PM | 30 min Break               |            |            |            |
 | 03:50 PM - 04:30 PM | Keynote 3                  |            |            |            |
 | 04:30 PM - 05:10 PM | 2nd Biogeotechnics Lecture |            |            |            |
@@ -45,13 +45,13 @@ Meetings at [**Memorial Union**](https://eoss.asu.edu/mu)
 |---------------------|--------------------------------------------------------------------|------------|------------|------------|
 | 08:00 AM - 08:40 AM | Keynote 4                                                          |            |            |            |
 | 08:40 AM - 08:50 AM | 10 min Transition                                                  |            |            |            |
-| 08:50 AM - 10:20 AM | Session 5A                                                         | Session 4B | Session 5C | Session 5D |
+| 08:50 AM - 10:20 AM | Session 3A                                                         | Session 3B | Session 3C | Session 3D |
 | 10:20 AM - 10:50 AM | 30 min Break                                                       |            |            |            |
-| 10:20 AM - 11:50 AM | Poster Session                                                     |            |            |            |
+| 10:50 AM - 11:50 AM | Session 4A                                                         | Session 4B | Session 4C | Session 4D |
 | 11:50 AM - 01:00 PM | Lunch break                                                        |            |            |            |
 | 01:00 PM - 01:40 PM | Keynote 5                                                          |            |            |            |
 | 01:40 PM - 01:50 PM | 10 min Transition                                                  |            |            |            |
-| 01:50 PM - 03:20 PM | Session 6A                                                         | Session 6B | Session 6C | Session 6D |
+| 01:50 PM - 03:20 PM | Session 5A                                                         | Session 5B | Session 5C | Session 5D |
 | 03:20 PM - 03:50 PM | 30 min Break                                                       |            |            |            |
 | 03:50 PM - 04:30 PM | Keynote 6                                                          |            |            |            |
 | 04:30 PM - 04:50 PM | Special Talk                                                       |            |            |            |
