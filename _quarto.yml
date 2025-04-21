@@ -32,8 +32,6 @@ website:
     contents:
       section: "Opportunities"
       contents:
-        - href: ./submissions/call-for-posters.qmd
-          text: Call for posters
         - href: call-for-exhibitors-sponsors.qmd
           text: Call for Exhibition and Sponsorship
         - href: registration.qmd
