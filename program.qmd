@@ -5,9 +5,8 @@ toc: false
 sidebar: false
 ---
 
-::: {.callout-note}
-The detailed program will be announced soon!
-:::
+[Full Program -- Interactive](./full-program-app.qmd){.btn .btn-primary}
+
 
 ## Sunday, May 18, 2025
 
