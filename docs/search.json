@@ -4,7 +4,7 @@
     "href": "program.html",
     "title": "Program",
     "section": "",
-    "text": "Full Program – Interactive"
+    "text": "Full Program – PDF\nFull Program – Interactive"
   },
   {
     "objectID": "program.html#sunday-may-18-2025",
@@ -677,5 +677,12 @@
     "title": "Conference Program",
     "section": "",
     "text": "UI\nui &lt;- fluidPage( theme = bs_theme(bootswatch = “flatly”), titlePanel(“📅 Conference Program”), sidebarLayout( sidebarPanel( selectInput(“day”, “Filter by Day:”, choices = unique(program\\(day), selected = unique(program\\)day)[1]), sliderInput(“time”, “Filter by Time:”, min = min(program\\(start_dt),\n                  max = max(program\\)end_dt), value = c(min(program\\(start_dt), max(program\\)end_dt)), timeFormat = “%H:%M”), selectInput(“track”, “Filter by Track:”, choices = c(“All”, unique(program\\(track)), selected = \"All\"),\n      selectInput(\"session\", \"Filter by Session:\", choices = c(\"All\", unique(program\\)session)), selected = “All”), textInput(“search”, “Search:”, placeholder = “Title, Author, Keywords…”), width = 3 ), mainPanel( DTOutput(“prog_table”), br(), downloadButton(“download_ics”, “Add to Calendar”), width = 9 ) ) )\n\n\nServer\nserver &lt;- function(input, output, session) { filtered &lt;- reactive({ df &lt;- program %&gt;% filter(day == input\\(day,\n             start_dt &gt;= input\\)time[1], end_dt &lt;= input\\(time[2])\n    if (input\\)track != “All”) df &lt;- filter(df, track == input\\(track)\n    if (input\\)session != “All”) df &lt;- filter(df, session == input\\(session)\n    if (nzchar(input\\)search)) df &lt;- df %&gt;% filter(grepl(input$search, paste(title, author, abstract), ignore.case = TRUE)) df })\noutput$prog_table &lt;- renderDT({ dat &lt;- filtered() %&gt;% select(day, start, end, track, session, title, author) datatable(dat, selection = ‘single’, rownames = FALSE, options = list(pageLength = 10)) })\n# Show abstract modal for Keynotes or Sessions observeEvent(input\\(prog_table_rows_selected, {\n    sel &lt;- input\\)prog_table_rows_selected if (length(sel)) { row &lt;- filtered()[sel, ] if (grepl(“Keynote|Session”, row\\(session, ignore.case = TRUE)) {\n        showModal(modalDialog(\n          title = paste(row\\)session, “-”, row\\(title),\n          HTML(paste0(\"&lt;strong&gt;Author:&lt;/strong&gt; \", row\\)author, “”, row$abstract)), easyClose = TRUE, footer = NULL )) } } })\n# Generate ICS file for selected talk output\\(download_ics &lt;- downloadHandler(\n    filename = function() {\n      sel &lt;- input\\)prog_table_rows_selected if (length(sel)) paste0(filtered()[sel, ]\\(id, \".ics\") else \"program.ics\"\n    },\n    content = function(file) {\n      sel &lt;- input\\)prog_table_rows_selected if (!length(sel)) return() row &lt;- filtered()[sel, ] ics &lt;- c( “BEGIN:VCALENDAR”, “VERSION:2.0”, “PRODID:-//Conference Program//EN”, “BEGIN:VEVENT”, paste0(“UID:”, row\\(id),\n        paste0(\"DTSTAMP:\", format(Sys.time(), \"%Y%m%dT%H%M%SZ\")),\n        paste0(\"DTSTART:\", format(row\\)start_dt, “%Y%m%dT%H%M%SZ”)), paste0(“DTEND:”, format(row\\(end_dt, \"%Y%m%dT%H%M%SZ\")),\n        paste0(\"SUMMARY:\", row\\)title), paste0(“DESCRIPTION:”, gsub(“”, “\\n”, row\\(abstract)),\n        paste0(\"LOCATION:\", row\\)building, ” “, row$room),”END:VEVENT”, “END:VCALENDAR” ) writeLines(ics, file) } ) }\nshinyApp(ui, server) ``"
+  },
+  {
+    "objectID": "full-program-app.html",
+    "href": "full-program-app.html",
+    "title": "",
+    "section": "",
+    "text": "&lt;iframe src=“https://juliantao.shinyapps.io/icbbg2025-full-program/” style=“border:none; width=”100%“; height=100vh;”&gt;"
   }
 ]

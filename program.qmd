@@ -5,8 +5,10 @@ toc: false
 sidebar: false
 ---
 
-[Full Program -- Interactive](./full-program-app.qmd){.btn .btn-primary}
 
+[Full Program -- PDF](./_printout/ICBBG-Full-Program-print.pdf){.btn .btn-primary}
+
+[Full Program -- Interactive](./full-program-app.qmd){.btn .btn-primary}
 
 ## Sunday, May 18, 2025
 
