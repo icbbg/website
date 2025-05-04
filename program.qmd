@@ -5,45 +5,44 @@ toc: false
 sidebar: false
 ---
 
-
 [Full Program -- PDF](./resources/ICBBG-Full-Program-print.pdf){.btn .btn-primary}
 
 [Full Program -- Interactive](./full-program-app.qmd){.btn .btn-primary}
 
-## Sunday, May 18, 2025
+## Overview
 
+### Sunday, May 18, 2025
 
 : {.hover .striped}
 
-| Time          | Event                                                                                               |
-|---------------|-----------------------------------------------------------------------------------------------------|
+| Time          | Event                                                                                                 |
+|---------------|----------------------------------------------------------------------------------------------------------------------|
 | 3:00pm-4:30pm | Pre-conference [**Early Career Meet Up**](./early-career-meet-up.qmd)                                 |
 | 5:00pm-7:00pm | Welcome Reception at [**Paul C. Helmick Center (HLMK)**](https://maps.app.goo.gl/UAZTpkQkEPtLqvf86) |
 
-## Monday, May 19, 2025
+### Monday, May 19, 2025
 
 Meetings at [**Memorial Union**](https://eoss.asu.edu/mu)
 
 : {.hover .striped tbl-colwidths="[2,1.5,1,1,1,1]"}
 
-| Time                     | Plenary                                | Track A    | Track B    | Track C    | Track D    |
-|--------------------------|----------------------------------------|------------|------------|------------|------------|
-| 07:00 AM - <br/>07:45 AM | Breakfast                              |            |            |            |            |
-| 07:45 AM - <br/>08:00 AM | Opening Remark                         |            |            |            |            |
-| 08:00 AM - <br/>08:40 AM | Keynote 1                              |            |            |            |            |
-| 08:40 AM - <br/>08:50 AM | 10 min Transition                      |            |            |            |            |
-| 08:50 AM - <br/>10:20 AM |                                        | Session 1A | Session 1B | Session 1C | Session 1D |
-| 10:20 AM - <br/>10:50 AM | 30 min Break                           |            |            |            |            |
-| 10:20 AM - <br/>11:50 AM | Poster Session                         |            |            |            |            |
-| 11:50 AM - <br/>01:00 PM | Lunch break                            |            |            |            |            |
-| 01:00 PM - <br/>01:40 PM | Keynote 2                              |            |            |            |            |
-| 01:40 PM - <br/>01:50 PM | 10 min Transition                      |            |            |            |            |
-| 01:50 PM - <br/>03:20 PM |                                        | Session 2A | Session 2B | Session 2C | Session 2D |
-| 03:20 PM - <br/>03:50 PM | 30 min Break                           |            |            |            |            |
-| 03:50 PM - <br/>04:30 PM | Keynote 3                              |            |            |            |            |
-| 04:30 PM - <br/>05:10 PM | 2nd Annual <br/>Biogeotechnics Lecture |            |            |            |            |
+| Time                     | Plenary                                               | Track A    | Track B    | Track C    | Track D    |
+|--------------------------|-------------------------------------------------------|------------|------------|------------|------------|
+| 07:00 AM - <br/>07:45 AM | Breakfast                                             |            |            |            |            |
+| 07:45 AM - <br/>08:00 AM | Opening Remarks by Edward Kavazanjian Jr.             |            |            |            |            |
+| 08:00 AM - <br/>08:40 AM | Keynote 1 by Jian Chu                                 |            |            |            |            |
+| 08:50 AM - <br/>10:20 AM |                                                       | Session 1A | Session 1B | Session 1C | Session 1D |
+| 10:20 AM - <br/>10:50 AM | Break sponsored by Groundwater Technology             |            |            |            |            |
+| 10:20 AM - <br/>11:50 AM | Poster Session                                        |            |            |            |            |
+| 11:50 AM - <br/>01:00 PM | Lunch break                                           |            |            |            |            |
+| 01:00 PM - <br/>01:40 PM | Keynote 2 by Jonathan Knappett                        |            |            |            |            |
+| 01:50 PM - <br/>03:20 PM |                                                       | Session 2A | Session 2B | Session 2C | Session 2D |
+| 03:20 PM - <br/>03:50 PM | Break sponsored by Groundwater Technology             |            |            |            |            |
+| 03:50 PM - <br/>04:30 PM | Keynote 3 by Alejandro Martinez                       |            |            |            |            |
+| 04:30 PM - <br/>05:15 PM | 2nd Annual Biogeotechnics Lecture by Leon van Paassen |            |            |            |            |
 
-##  Tuesday, May 20, 2025
+
+###  Tuesday, May 20, 2025
 
 Meetings at [**Memorial Union**](https://eoss.asu.edu/mu)
 
@@ -52,21 +51,18 @@ Meetings at [**Memorial Union**](https://eoss.asu.edu/mu)
 | Time                     | Plenary                                                                 | Track A    | Track B    | Track C    | Track D    |
 |--------------------------|-------------------------------------------------------------------------|------------|------------|------------|------------|
 | 07:00 AM - <br/>07:00 AM | Breakfast                                                               |            |            |            |            |
-| 08:00 AM - <br/>08:40 AM | Keynote 4                                                               |            |            |            |            |
-| 08:40 AM - <br/>08:50 AM | 10 min Transition                                                       |            |            |            |            |
+| 08:00 AM - <br/>08:40 AM | Keynote 4 by Annette Esnault Filet                                      |            |            |            |            |
 | 08:50 AM - <br/>10:20 AM |                                                                         | Session 3A | Session 3B | Session 3C | Session 3D |
-| 10:20 AM - <br/>10:50 AM | 30 min Break                                                            |            |            |            |            |
-| 10:50 AM - <br/>11:50 AM |                                                                         | Session 4A | Session 4B | Session 4C | Session 4D |
+| 10:20 AM - <br/>10:50 AM | Break sponsored by Keller-North America                                 |            |            |            |            |
+| 10:50 AM - <br/>11:50 AM |                                                                         | Session 4A | Session 4B | Session 4C |            |
 | 11:50 AM - <br/>01:00 PM | Lunch break                                                             |            |            |            |            |
-| 01:00 PM - <br/>01:40 PM | Keynote 5                                                               |            |            |            |            |
-| 01:40 PM - <br/>01:50 PM | 10 min Transition                                                       |            |            |            |            |
-| 01:50 PM - <br/>03:20 PM |                                                                         | Session 5A | Session 5B | Session 5C | Session 5D |
-| 03:20 PM - <br/>03:50 PM | 30 min Break                                                            |            |            |            |            |
-| 03:50 PM - <br/>04:30 PM | Keynote 6                                                               |            |            |            |            |
-| 04:30 PM - <br/>04:50 PM | Special Talk                                                            |            |            |            |            |
-| 04:50 PM - <br/>05:10 PM | Closing Remarks                                                         |            |            |            |            |
+| 01:00 PM - <br/>01:40 PM | Keynote 5 by Anca Delgado                                               |            |            |            |            |
+| 01:50 PM - <br/>03:20 PM |                                                                         | Session 5A | Session 5B | Session 5C |            |
+| 03:20 PM - <br/>03:50 PM | Break sponsored by Haley & Aldrich, Inc.                                |            |            |            |            |
+| 03:50 PM - <br/>04:30 PM | Keynote 6 by Brina Montoya                                              |            |            |            |            |
+| 04:30 PM - <br/>04:50 PM | Special Talk by Jason DeJong                                            |            |            |            |            |
+| 04:50 PM - <br/>05:10 PM | Closing Remarks by Susan Burns                                          |            |            |            |            |
 | 05:10 PM - <br/>05:30 PM | Walk to Bus                                                             |            |            |            |            |
-| 05:30 PM - <br/>06:00 PM | Bus Transition                                                          |            |            |            |            |
 | 06:00 PM - <br/>09:00 PM | Banquet at <br/>[**Rustler's Rooste**](https://www.rustlersrooste.com/) |            |            |            |            |
 
 
@@ -97,4 +93,3 @@ Meetings at [**Memorial Union**](https://eoss.asu.edu/mu)
 - Education and outreach in Biogeotechnics
 :::
 :::
-

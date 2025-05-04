@@ -1,55 +1,27 @@
 ---
-title: Exhibition and Sponsorship
-date: "2025-02-10"
+title: Sponsors and Exhibitors
+date: "2025-05-03"
 published-title: "Last Modified"
-subtitle: "Secure Your Spot: Opportunities Are Limited – Act Fast!"
+subtitle:  "[Secure Your Spot](./call-for-exhibitors-sponsors.qmd){.btn .btn-primary}"
 ---
 
-![](./img/icbbg2025-banner.svg)
+## Partners
 
-::: {.drop-cap}
-We are excited to invite organizations and businesses to participate in the 2025 International Conference on Bio-mediated and Bio-inspired Geotechnics (**ICBBG 2025**) as **exhibitors** and **sponsors**! Join us in making this event a resounding success while showcasing your brand to an engaged audience of researchers, professionals, educators, and students in the emerging field of biogeotechnics.
-:::
+![](./img/sponsors.svg)
 
-[Contact us today!](mailto:icbbg2025@gmail.com){.btn .btn-primary .large}
+## Sponsors
 
-## Exhibitor Opportunities
-
-**Exhibitor Fee: \$3,500**
-
-- **What’s Included**:  
-  - Booth space in the exhibit area  
-  - Branding in conference materials and on the website
-
-## Sponsorship Opportunities
-
-1. **Banquet Sponsor – \$5,000**
-   - Recognition as the exclusive sponsor for the banquet event  
-   - Branding at the banquet venue, in conference materials and on the website
-
-2. **Lunch Sponsor – \$3,000**  
-   - Recognition as a sponsor for one of the conference lunches  
-   - Branding in the dining area, in conference materials and on the website
-
-3. **Coffee Break Sponsor – \$2,000**  
-   - Recognition as a sponsor for one coffee break during the conference  
-   - Branding at the coffee station, in conference materials and on the website
-
-::: {.callout-tip appearance="minimal"}
-
-*All funds will be deposited with the ASU Foundation for A New American University, a nonprofit organization that exists to support Arizona State University (ASU). Gifts in support of ASU are subject to foundation policies and fees. Due to the fair market value (FMV) benefits received, only payments in excess of fair market value may be considered a charitable contribution. Please consult your tax advisor regarding the deductibility of charitable contributions.*
-:::
-
-## How to Get Involved
-
-Reserve your spot as an exhibitor or sponsor today! Availability is limited and will be offered on a first-come, first-served basis.  
-
-* To secure your participation, please contact:  
-    * <i class="bi bi-envelope-fill"></i>: <icbbg2025@gmail.com>
-    * <i class="bi bi-telephone-fill"></i>: (480) 965-2489
-* For more information on the conference, please visit [ICBBG 2025 Website](/index.qmd) and [Registration Information](/registration.qmd).
-
-We look forward to your support in making **ICBBG 2025** an outstanding event for all participants! 
+[![](./img/sponsor-exhibitor-logos/Sponsor-Groundwater_Technology_(preferred).png){width="75%"}](https://gtbv.nl/?lang=en)
 
 
-![](img/yourlogo.png)
+[![](./img/sponsor-exhibitor-logos/Sponsor-Keller_LOG_M_COL_RGB.png){width="75%"}](https://www.keller-na.com/)
+
+[![](./img/sponsor-exhibitor-logos/Sponsor-HaleyAldrich_Screen_large.png){width="75%"}](https://www.haleyaldrich.com/)
+
+## Exhibitors
+
+[![](./img/sponsor-exhibitor-logos/Exhibitor-Biogeotechnics_Logo.jpg){width="75%"}](https://www.sciencedirect.com/journal/biogeotechnics)
+
+[![](./img/sponsor-exhibitor-logos/Exhibitor-Geosyntec_logo-COLOR-no-tagline.jpg){width="75%"}](https://www.geosyntec.com/)
+
+
