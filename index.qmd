@@ -69,11 +69,8 @@ The conference aims to present the latest advancements in the field of Bio-media
 ![**Susan Burns** <br/> Georgia Institute of Technology ](img/susan.png){.rounded-circle}
 :::
 
-## ICBBG 2025 Partners 
+## ICBBG 2025 Partners and Sponsors
 
 ![](./img/sponsors.svg)
 
-## Exhibitors and Sponsors 
-
-To be announced. [Join us today!](./call-for-exhibitors-sponsors.qmd){.btn .btn-primary}
-
+![](./img/sponsor-exhibitor-logos/all-sponsors.svg)

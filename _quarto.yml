@@ -36,12 +36,12 @@ website:
           text: Call for Exhibition and Sponsorship
         - href: registration.qmd
           text: Register
-  # announcement:
-  #   icon: info-circle-fill
-  #   dismissable: true
-  #   content: "**Early Bird Registration Deadline Extended to March 31!** [Learn More](/registration.qmd)"
-  #   type: danger
-  #   position: below-navbar
+  announcement:
+    icon: info-circle-fill
+    dismissable: true
+    content: "**Full Program Availble Now** [Learn More](/program.qmd)"
+    type: danger
+    position: below-navbar
 format:
   html:
     theme: 

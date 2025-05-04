@@ -5,7 +5,7 @@ toc: false
 sidebar: false
 ---
 
-[Full Program -- PDF](./resources/ICBBG-Full-Program-print.pdf){.btn .btn-primary}
+[Full Program -- PDF](./resources/ICBBG-Full-Program-unformated.pdf){.btn .btn-primary}
 
 [Full Program -- Interactive](./full-program-app.qmd){.btn .btn-primary}
 
