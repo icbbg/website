@@ -1,0 +1,40 @@
+---
+title: "List of Posters"
+date: "2025-05-05"
+format: html
+---
+
+```{r setup, include=FALSE}
+# Load required packages
+library(tidyverse)
+library(epoxy)
+
+# Read your CSV data
+abstracts_data <- read_csv("./_data/poster_abstract_submissions_20250221.csv") %>%
+  arrange(time_start)
+```
+
+```{r generate-reportsglue, echo=FALSE, results="asis"}
+# Loop through each row and generate formatted content with glue
+for (i in 1:nrow(abstracts_data)) {
+  author <- abstracts_data[i, ]
+  
+  # Format each abstract with glue
+  abstract_text <- epoxy("
+
+## ICBBGPoster-{author$id}
+
+**Title:** {author$title}
+
+**Authors:** {author$first_name} {author$last_name}; {author$co_authors}
+
+**Institute:** {author$institution}
+
+**Abstract:**
+
+{author$abstract}
+  ")
+  
+  cat(abstract_text, sep = "\n")
+}
+```

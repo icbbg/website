@@ -15,10 +15,10 @@ sidebar: false
 
 : {.hover .striped}
 
-| Time          | Event                                                                                                 |
-|---------------|----------------------------------------------------------------------------------------------------------------------|
-| 3:00pm-4:30pm | Pre-conference [**Early Career Meet Up**](./early-career-meet-up.qmd)                                 |
-| 5:00pm-7:00pm | Welcome Reception at [**Paul C. Helmick Center (HLMK)**](https://maps.app.goo.gl/UAZTpkQkEPtLqvf86) |
+| Time          | Event                                                                                                                                        |
+|---------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| 3:00pm-4:30pm | Pre-conference [**Early Career Meet Up**](./early-career-meet-up.qmd)                                                                        |
+| 5:00pm-7:00pm | Welcome Reception Sponsored by Freeport-McMoRan Inc. <br/> at [**Paul C. Helmick Center (HLMK)**](https://maps.app.goo.gl/UAZTpkQkEPtLqvf86) |
 
 ### Monday, May 19, 2025
 
