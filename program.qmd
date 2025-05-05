@@ -1,9 +1,10 @@
 ---
 title: "Program"
-subtitle: "Last Modified: 2025-04-21"
-toc: false
+subtitle: "Last Modified: 2025-05-05"
 sidebar: false
 ---
+
+## Full Program
 
 [Full Program -- PDF](./resources/ICBBG-Full-Program-unformated.pdf){.btn .btn-primary}
 
@@ -66,30 +67,33 @@ Meetings at [**Memorial Union**](https://eoss.asu.edu/mu)
 | 06:00 PM - <br/>09:00 PM | Banquet at <br/>[**Rustler's Rooste**](https://www.rustlersrooste.com/) |            |            |            |            |
 
 
-## Session Topics 
+## Podium Session Topics
 
-::: {layout="[1,1]"}
+```{r keynote_summary, echo=FALSE, results="asis"} 
+library(readxl)
+library(dplyr)
+library(stringr)
+library(epoxy)
 
-#### General Sessions
-- Bio-mediated methods for hazard mitigation
-- Bio-mediated methods for environmental protection and restoration
-- Bio-mediated methods for infrastructure construction
-- Bio-inspired methods for infrastructure construction
-- Bio-inspired methods for subsurface exploration and excavation
-- Fundamental research on biogeotechnics
-- Case studies on field applications of biogeotechnics
+# 1. Read your Excel file
+df <- read_excel("./program-shiny/program.xlsx")
 
-::: {}
+session_md <- df %>%
+  filter(
+    str_detect(session, regex("Session", ignore_case = TRUE)), 
+    !str_detect(session, regex("Poster Session", ignore_case = TRUE))
+  ) %>%
+  distinct(session) %>%
+  arrange(session) %>%
+  epoxy(
+    "* {session}",
+    .data = .
+  )
 
-#### Special Symposia
-- Bio-inspired Tunneling
-- Asia experiences on bio-mediated geotechnics
-- Europe experiences on bio-mediated geotechnics
-- Biopolymer treated soils
-- Delivery strategies for MICP
-- MICP for sustainable geoenergy applications
-- Fungal treatment of soils
-- Build with nature
-- Education and outreach in Biogeotechnics
-:::
-:::
+# 4. Print them
+cat(paste(session_md, collapse = "\n"))
+```
+
+## Poster Session
+
+A list of abstracts can be found [here](./poster_abstracts.qmd).
