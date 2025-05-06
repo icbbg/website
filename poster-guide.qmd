@@ -1,13 +1,22 @@
 ---
-title: "ICBBG 2025 Poster Preparation Guidelines"
-date: "2025-02-21"
+title: "Preparation and Presentation Guidelines"
+date: today 
+published-title: "Last Modified"
 ---
 
 ## General Information
 
 Presenting a poster at **ICBBG 2025** provides an excellent opportunity to showcase your research and engage with fellow attendees. Please follow these guidelines to ensure a smooth presentation experience.
 
-Additional details on poster setup and the finalized presentation schedule will be shared as the conference date approaches.
+::: {.callout-important}
+## 📢 Poster Session
+
+🗓️ Date: Monday, May 19, 2025
+
+🕒 Time: 10:20 AM – 11:50 AM
+
+📍 Location: Arizona Ballroom, Memorial Union
+:::
 
 ## Poster Format & Dimensions
 

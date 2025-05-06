@@ -1,6 +1,6 @@
 ---
 title: Sponsors and Exhibitors
-date: "2025-05-06"
+date: today 
 published-title: "Last Modified"
 # subtitle:  "[Secure Your Spot](./call-for-exhibitors-sponsors.qmd){.btn .btn-primary}"
 ---

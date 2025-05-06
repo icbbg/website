@@ -1,6 +1,7 @@
 ---
 title: "Program"
-subtitle: "Last Modified: 2025-05-05"
+date: today 
+published-title: "Last Modified"
 sidebar: false
 ---
 
