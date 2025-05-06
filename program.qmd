@@ -97,4 +97,4 @@ cat(paste(session_md, collapse = "\n"))
 
 ## Poster Session
 
-A list of abstracts can be found [here](./poster_abstracts.qmd).
+A list of poster abstracts can be found [here](./poster-abstracts.qmd).
