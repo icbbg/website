@@ -10,7 +10,7 @@ subtitle: "Last Modified: 2024-12-18"
 | Edward Kavazanjian | Arizona State University        | USA     |
 | Susan Burns    | Georgia Institute of Technology | USA     |
 
-: {tbl-colwidths="[50, 70, 20]" .hover}
+: {tbl-colwidths="[50, 70, 20]" .hover .striped}
 
 ## Steering Committee
 
@@ -24,7 +24,7 @@ subtitle: "Last Modified: 2024-12-18"
 | Leon van Paassen           | Boskalis                          | Netherlands |
 | Gioacchino (Cino) Viggiani | Université Grenoble Alpes         | France      |
 
-: {tbl-colwidths="[50, 70, 20]" .hover}
+: {tbl-colwidths="[50, 70, 20]" .hover .striped}
 
 ## Organizing Committee 
 
@@ -45,7 +45,7 @@ subtitle: "Last Modified: 2024-12-18"
 | Md. Mizanur Rahman    | University of South Australia    | Australia |
 | Yang Xiao             | Chongqing University             | China     |
 
-: {tbl-colwidths="[50, 70, 20]" .hover}
+: {tbl-colwidths="[50, 70, 20]" .hover .striped}
 
 ## Local Organizing Committee
 
@@ -59,7 +59,7 @@ subtitle: "Last Modified: 2024-12-18"
 | Dawn Takeuchi             | Arizona State University | Administrative Director of CBBG |
 | Emma Buchanan             | Arizona State University | Project Coordinator of CBBG     |
 
-: {tbl-colwidths="[50, 50, 40]" .hover}
+: {tbl-colwidths="[50, 50, 40]" .hover .striped}
 
 ## Editorial Board
 
@@ -72,4 +72,4 @@ subtitle: "Last Modified: 2024-12-18"
 | Mike Gomez         | University of Washington        | USA         |
 | Alejandro Martinez | University of California, Davis | USA         |
 
-: {tbl-colwidths="[50, 70, 20]" .hover}
+: {tbl-colwidths="[50, 70, 20]" .hover .striped}

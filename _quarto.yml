@@ -18,24 +18,24 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - importantdates.qmd
-      - speakers.qmd
-      - submissions.qmd
+      # - importantdates.qmd
       - program.qmd
-      - exhibition-sponsorship.qmd
+      - speakers.qmd
+      # - submissions.qmd
       - venue.qmd
       - registration.qmd 
+      - exhibition-sponsorship.qmd
       - committees.qmd
-  sidebar:
-    style: "floating"
-    search: true
-    contents:
-      section: "Opportunities"
-      contents:
-        - href: call-for-exhibitors-sponsors.qmd
-          text: Call for Exhibition and Sponsorship
-        - href: registration.qmd
-          text: Register
+  # sidebar:
+  #   style: "floating"
+  #   search: true
+  #   contents:
+  #     section: "Opportunities"
+  #     contents:
+  #       - href: call-for-exhibitors-sponsors.qmd
+  #         text: Call for Exhibition and Sponsorship
+  #       - href: registration.qmd
+  #         text: Register
   announcement:
     icon: info-circle-fill
     dismissable: true

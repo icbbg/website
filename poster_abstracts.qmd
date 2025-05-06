@@ -30,9 +30,7 @@ for (i in 1:nrow(abstracts_data)) {
 
 **Institute:** {author$institution}
 
-**Abstract:**
-
-{author$abstract}
+**Abstract:** {author$abstract}
   ")
   
   cat(abstract_text, sep = "\n")

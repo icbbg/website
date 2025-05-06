@@ -75,7 +75,7 @@ library(dplyr)
 library(stringr)
 library(epoxy)
 
-# 1. Read your Excel file
+# Read Excel file
 df <- read_excel("./program-shiny/program.xlsx")
 
 session_md <- df %>%
@@ -90,7 +90,7 @@ session_md <- df %>%
     .data = .
   )
 
-# 4. Print them
+# Print
 cat(paste(session_md, collapse = "\n"))
 ```
 
