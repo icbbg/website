@@ -1,8 +1,8 @@
 ---
 title: Sponsors and Exhibitors
-date: "2025-05-03"
+date: "2025-05-06"
 published-title: "Last Modified"
-subtitle:  "[Secure Your Spot](./call-for-exhibitors-sponsors.qmd){.btn .btn-primary}"
+# subtitle:  "[Secure Your Spot](./call-for-exhibitors-sponsors.qmd){.btn .btn-primary}"
 ---
 
 ## Partners
@@ -11,6 +11,9 @@ subtitle:  "[Secure Your Spot](./call-for-exhibitors-sponsors.qmd){.btn .btn-pri
 
 ## Sponsors
 
+[![Freeport McMoRan Sponsors our Welcome Reception](./img/sponsor-exhibitor-logos/FM_left-justified.png)](https://fcx.com/)
+
+
 [![Schnabel Sponsors our Monday Lunch](./img/sponsor-exhibitor-logos/Schnabel.png)](https://www.schnabel.com/)
 
 [![Groundwater Technology Sponsors our Monday Morning and Afternoon Breaks](./img/sponsor-exhibitor-logos/Sponsor-Groundwater_Technology_(preferred).png){width="75%"}](https://gtbv.nl/?lang=en)
@@ -18,14 +21,10 @@ subtitle:  "[Secure Your Spot](./call-for-exhibitors-sponsors.qmd){.btn .btn-pri
 
 [![Keller North America Sponsors our Tuesday Morning Break](./img/sponsor-exhibitor-logos/Sponsor-Keller_LOG_M_COL_RGB.png){width="75%"}](https://www.keller-na.com/)
 
-[![Haley&Aldrich Sponsors our the Tuesday Afternoon Break](./img/sponsor-exhibitor-logos/Sponsor-HaleyAldrich_Screen_large.png){width="75%"}](https://www.haleyaldrich.com/)
+[![Haley&Aldrich Sponsors our the Tuesday Afternoon Break](./img/sponsor-exhibitor-logos/Sponsor-HaleyAldrich_Screen_large.png){width="65%"}](https://www.haleyaldrich.com/)
 
 ## Exhibitors
 
-[![Biogeotechnics: A Journal Dedicated to Bio-mediated and Bio-inspired Geotechnics](./img/sponsor-exhibitor-logos/Exhibitor-Biogeotechnics_Logo.jpg){width="75%"}](https://www.sciencedirect.com/journal/biogeotechnics)
-
 [![Geosyntec Consultants: A leading consulting and engineering firm that works with private and public sector clients to address new ventures and complex problems involving our environment, natural resources, and civil infrastructure.](./img/sponsor-exhibitor-logos/Exhibitor-Geosyntec_logo-COLOR-no-tagline.jpg){width="75%"}](https://www.geosyntec.com/)
 
-
-
-
+[![Biogeotechnics: A Journal Dedicated to Bio-mediated and Bio-inspired Geotechnics](./img/sponsor-exhibitor-logos/Exhibitor-Biogeotechnics_Logo.jpg){width="40%"}](https://www.sciencedirect.com/journal/biogeotechnics)

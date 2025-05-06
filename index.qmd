@@ -74,6 +74,6 @@ The conference aims to present the latest advancements in the field of Bio-media
 ![](./img/sponsors.svg)
 
 ::: {.center}
-![](./img/sponsor-exhibitor-logos/all-sponsors.svg)
+![](./img/sponsor-exhibitor-logos/all-sponsors.svg){width="100%"}
 :::
 
