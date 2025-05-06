@@ -47,7 +47,7 @@ The conference aims to present the latest advancements in the field of Bio-media
 
 ::: {}
 
-#### Special Symposia
+#### Special Topics
 - Bio-inspired Tunneling
 - Asia experiences on bio-mediated geotechnics
 - Europe experiences on bio-mediated geotechnics
@@ -56,7 +56,7 @@ The conference aims to present the latest advancements in the field of Bio-media
 - MICP for sustainable geoenergy applications
 - Fungal treatment of soils
 - Build with nature
-- Education, outreach, diversity, inclusion, and equity in engineering
+- Education and outreach in biogeotechnics
 :::
 :::
 
