@@ -15,6 +15,18 @@ abstracts_data <- read_csv("./_data/poster_abstract_submissions_20250221.csv") %
   arrange(time_start)
 ```
 
+::: {.callout-tip icon=false}
+
+## Summary
+
+```{epoxy}
+Total number of abstracts: {nrow(abstracts_data)}
+
+Number of institutions represented: {length(unique(abstracts_data$institution))}
+```
+:::
+
+
 ```{r generate-reportsglue, echo=FALSE, results="asis"}
 # Loop through each row and generate formatted content with glue
 for (i in 1:nrow(abstracts_data)) {
