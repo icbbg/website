@@ -25,7 +25,7 @@
     "href": "program.html#podium-session-topics",
     "title": "Program",
     "section": "Podium Session Topics",
-    "text": "Podium Session Topics\n\nSession 1A: Fundamental Research on Biogeotechnics (Experimental Studies)\nSession 1B: Bio-inspired Subsurface Exploration and Excavation\nSession 1C: Biopolymer Treated Soils – I\nSession 1D: Fungal Treatment of Soils\nSession 2A: Fundamental Research on Biogeotechnics (Modeling and Simulations)\nSession 2B: Bio-inspired Methods for Infrastructure Construction\nSession 2C: Biopolymer Treated Soils – II\nSession 2D: Hybrid Session\nSession 3A: Fundamental Research on Biogeotechnics (Emerging Topics)\nSession 3B: Bio-inspired Methods for Infrastructure Construction\nSession 3C: Biopolymer Treated Soils – III\nSession 3D: Case Studies and Field Applications of Biogeotechnics\nSession 4A: Bio-mediated Methods for Hazard Mitigation (Erosion and Slope Stability)\nSession 4B: Bio-mediated Environmental Protection and Restoration – I\nSession 4C: Bio-mediated Methods for Infrastructure Construction – I\nSession 5A: Bio-mediated Methods for Hazard Mitigation (Liquefaction)\nSession 5B: Bio-mediated Environmental Protection and Restoration – II\nSession 5C: Bio-mediated Methods for Infrastructure Construction – II"
+    "text": "Podium Session Topics\n\nSession 1A: Fundamental Research on Biogeotechnics (Experimental Studies)\nSession 1B: Bio-inspired Subsurface Exploration and Excavation\nSession 1C: Biopolymer Treated Soils – I\nSession 1D: Fungal Treatment of Soils\nSession 2A: Fundamental Research on Biogeotechnics (Modeling and Simulations)\nSession 2B: Bio-inspired Methods for Infrastructure Construction – I\nSession 2C: Biopolymer Treated Soils – II\nSession 2D: Hybrid Session\nSession 3A: Fundamental Research on Biogeotechnics (Emerging Topics)\nSession 3B: Bio-inspired Methods for Infrastructure Construction -II\nSession 3C: Biopolymer Treated Soils – III\nSession 3D: Case Studies and Field Applications of Biogeotechnics\nSession 4A: Bio-mediated Methods for Hazard Mitigation (Erosion and Slope Stability)\nSession 4B: Bio-mediated Environmental Protection and Restoration – I\nSession 4C: Bio-mediated Methods for Infrastructure Construction – I\nSession 5A: Bio-mediated Methods for Hazard Mitigation (Liquefaction)\nSession 5B: Bio-mediated Environmental Protection and Restoration – II\nSession 5C: Bio-mediated Methods for Infrastructure Construction – II"
   },
   {
     "objectID": "program.html#poster-session",
@@ -823,7 +823,7 @@
     "href": "poster-abstracts.html",
     "title": "List of Posters",
     "section": "",
-    "text": "Summary\n\n\n\n\nTotal number of abstracts: 27\nNumber of institutions represented: 20"
+    "text": "Summary\n\n\n\n\nTotal number of abstracts: 28\nNumber of institutions represented: 21"
   },
   {
     "objectID": "poster-abstracts.html#icbbgposter-1",
@@ -1076,5 +1076,12 @@
     "title": "ICBBG 2025 Poster Preparation Guidelines",
     "section": "Questions?",
     "text": "Questions?\nContact us at icbbg2025 at gmail dot com for any inquiries.\nWe look forward to your presentation at ICBBG 2025! 🌵"
+  },
+  {
+    "objectID": "poster-abstracts.html#icbbgposter-33",
+    "href": "poster-abstracts.html#icbbgposter-33",
+    "title": "List of Posters",
+    "section": "ICBBGPoster-33",
+    "text": "ICBBGPoster-33\nTitle: The Effect of Different MICP Treatment Methods on Bio-Brick Properties\nAuthors: Xinyu Lu; Changming Bu; Lin Li; Shihui Liu; Beatrice Magombana\nInstitute: Tennessee State University\nAbstract: This study aimed to enhance clay bio-bricks by comparing four different MICP treatments. The methods evaluated include the surface alternate infiltration bacterial suspension method, the surface first infiltration bacterial suspension method, the surface infiltration combined mixing method, and the pre-mixing method. The pre-mixing method (Method D) resulted in the highest compressive strength, reaching 1080.3 kPa, with the most uniform distribution of calcium carbonate. In contrast, the surface alternate infiltration method (Method A) had the poorest reinforcement effect, as the rapid formation of surface calcium carbonate hindered deeper penetration into the bio-brick, resulting in a compressive strength of only 410.8 kPa."
   }
 ]
