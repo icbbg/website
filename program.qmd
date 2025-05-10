@@ -5,6 +5,15 @@ published-title: "Last Modified"
 sidebar: false
 ---
 
+::: {.callout-tip .small}
+
+## Changelog
+
+- 2025-05-07: **Paper ICBBG2025-16** has been moved from **Session 5C** to the **Poster Session** at the author's request. **Session 5C** now includes five talks, scheduled consecutively without gaps.
+- 2025-05-10: **Paper ICBBG2025-21** has been removed from **Session 1C** at the author's request. **Session 1C** now includes five talks, scheduled consecutively without gaps.
+
+:::
+
 ## Full Program
 
 [Full Program -- PDF](./resources/ICBBG-Full-Program-unformated.pdf){.btn .btn-primary}
