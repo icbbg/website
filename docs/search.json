@@ -95,7 +95,7 @@
     "href": "about.html",
     "title": "Contact Us",
     "section": "",
-    "text": ": icbbg2025 at gmail dot com\n: (480) 965-2489\n Center for Bio-mediated and Bio-inspired Geotechnics (CBBG)\n    Arizona State University\n    660 S College Ave\n    Tempe, AZ 85281"
+    "text": ": icbbg2025 at gmail dot com\n: (480) 965-2489\nCenter for Bio-mediated and Bio-inspired Geotechnics (CBBG)\n    Arizona State University\n    660 S College Ave\n    Tempe, AZ 85281"
   },
   {
     "objectID": "speakers.html",
@@ -1019,7 +1019,7 @@
     "href": "poster-abstracts.html#icbbgposter-32",
     "title": "List of Posters",
     "section": "ICBBGPoster-32",
-    "text": "ICBBGPoster-32\nTitle: Enhancing Thermal Properties of Arid Soils Through Bio-Mediated Calcite Precipitation for Geothermal Applications\nAuthors: Mani Rambothu; Nariman Mahabadi; Edward Kavazanjian; Hamed Khodadaditirkolaei\nInstitute: Arizona State University\nAbstract: Hot-arid regions face growing challenges in sustainable cooling due to increasing ambient temperatures, water scarcity, and the limitations of conventional cooling systems. Ground-Coupled Heat Pump (GCHP) systems present a water-conserving alternative that harness the thermal stability of the subsurface for efficient cooling. However, the poor thermal properties of dry soils in hot-arid environments often lead to oversized ground heat exchanger (GHE) systems and increased installation costs. This study investigates the impact of subsurface thermal properties and GHE configurations on GCHP performance in hot-arid climates using a coupled simulation framework based on EnergyPlus and Ground Loop Design (GLD) software. Simulation scenarios were conducted across various thermal conductivity and diffusivity values for small and large office prototype buildings in Phoenix, Arizona. The results demonstrate that enhancing the thermal conductivity of backfill materials can significantly reduce GHE length or depth, improving system feasibility. While saturating soils improves thermal exchange efficiency, maintaining saturation in arid conditions is often impractical. Vertical systems can benefit from naturally saturated soils below the groundwater table, but such conditions are site-dependent. To address these challenges, the study explores the use of thermally enhanced geomaterials—both natural and engineered—with high conductivity (e.g., k &gt; 2 W/m·K) to reduce system size and cost. Furthermore, this work highlights the potential of bio-mediated soil improvement techniques, such as Microbially Induced Calcite Precipitation (MICP) and Enzyme-Induced Carbonate Precipitation (EICP), to enhance the thermal conductivity of in-situ soils in an environmentally sustainable manner. These findings offer valuable insights into optimizing GCHP design in water-stressed regions and support the adoption of integrated soil-thermal improvement strategies to enable scalable, efficient, and climate-resilient cooling systems."
+    "text": "ICBBGPoster-32\nTitle: Enhancing Thermal Properties of Arid Soils Through Bio-Mediated Calcite Precipitation for Geothermal Applications\nAuthors: Mani Rambothu; Hamed Khodadaditirkolaei; Edward Kavazanjian; Nariman Mahabadi\nInstitute: Arizona State University\nAbstract: Hot-arid regions face growing challenges in sustainable cooling due to increasing ambient temperatures, water scarcity, and the limitations of conventional cooling systems. Ground-Coupled Heat Pump (GCHP) systems present a water-conserving alternative that harness the thermal stability of the subsurface for efficient cooling. However, the poor thermal properties of dry soils in hot-arid environments often lead to oversized ground heat exchanger (GHE) systems and increased installation costs. This study investigates the impact of subsurface thermal properties and GHE configurations on GCHP performance in hot-arid climates using a coupled simulation framework based on EnergyPlus and Ground Loop Design (GLD) software. Simulation scenarios were conducted across various thermal conductivity and diffusivity values for small and large office prototype buildings in Phoenix, Arizona. The results demonstrate that enhancing the thermal conductivity of backfill materials can significantly reduce GHE length or depth, improving system feasibility. While saturating soils improves thermal exchange efficiency, maintaining saturation in arid conditions is often impractical. Vertical systems can benefit from naturally saturated soils below the groundwater table, but such conditions are site-dependent. To address these challenges, the study explores the use of thermally enhanced geomaterials—both natural and engineered—with high conductivity (e.g., k &gt; 2 W/m·K) to reduce system size and cost. Furthermore, this work highlights the potential of bio-mediated soil improvement techniques, such as Microbially Induced Calcite Precipitation (MICP) and Enzyme-Induced Carbonate Precipitation (EICP), to enhance the thermal conductivity of in-situ soils in an environmentally sustainable manner. These findings offer valuable insights into optimizing GCHP design in water-stressed regions and support the adoption of integrated soil-thermal improvement strategies to enable scalable, efficient, and climate-resilient cooling systems."
   },
   {
     "objectID": "poster-guide.html",
@@ -1083,5 +1083,19 @@
     "title": "List of Posters",
     "section": "ICBBGPoster-33",
     "text": "ICBBGPoster-33\nTitle: The Effect of Different MICP Treatment Methods on Bio-Brick Properties\nAuthors: Xinyu Lu; Changming Bu; Lin Li; Shihui Liu; Beatrice Magombana\nInstitute: Tennessee State University\nAbstract: This study aimed to enhance clay bio-bricks by comparing four different MICP treatments. The methods evaluated include the surface alternate infiltration bacterial suspension method, the surface first infiltration bacterial suspension method, the surface infiltration combined mixing method, and the pre-mixing method. The pre-mixing method (Method D) resulted in the highest compressive strength, reaching 1080.3 kPa, with the most uniform distribution of calcium carbonate. In contrast, the surface alternate infiltration method (Method A) had the poorest reinforcement effect, as the rapid formation of surface calcium carbonate hindered deeper penetration into the bio-brick, resulting in a compressive strength of only 410.8 kPa."
+  },
+  {
+    "objectID": "about.html#scan-to-visit-the-website",
+    "href": "about.html#scan-to-visit-the-website",
+    "title": "Contact Us",
+    "section": "Scan to Visit the Website",
+    "text": "Scan to Visit the Website"
+  },
+  {
+    "objectID": "about.html#scan-to-visit-the-interactive-program",
+    "href": "about.html#scan-to-visit-the-interactive-program",
+    "title": "Contact Us",
+    "section": "Scan to Visit the Interactive Program",
+    "text": "Scan to Visit the Interactive Program"
   }
 ]
