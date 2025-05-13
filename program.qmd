@@ -12,6 +12,7 @@ sidebar: false
 - 2025-05-07: Paper **ICBBG2025-16** has been moved from **Session 5C** to the **Poster Session** at the author's request. **Session 5C** now includes five talks, scheduled consecutively without gaps.
 - 2025-05-10: Paper **ICBBG2025-21** has been removed from **Session 1C** at the author's request. **Session 1C** now includes five talks, scheduled consecutively without gaps.
 - 2025-05-12: Paper **ICBBG2025-77** has been removed from **Session 4B** at the author's request due to travel-related issues. **Session 4B** now includes three talks, scheduled consecutively without gaps.
+- 2025-05-13: Paper **ICBBG2025-13** has been removed from **Session 1C** at the author's request. **Session 1C** now includes four talks, scheduled consecutively without gaps.
 :::
 
 ## Full Program
