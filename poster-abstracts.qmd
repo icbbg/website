@@ -12,7 +12,7 @@ library(epoxy)
 
 # Read your CSV data
 abstracts_data <- read_csv("./_data/poster_abstract_submissions_20250221.csv") %>%
-  arrange(time_start)
+  arrange(id)
 ```
 
 ::: {.callout-tip icon=false}
