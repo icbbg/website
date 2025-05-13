@@ -2,7 +2,7 @@
 title: Speakers
 ---
 
-## Keynote Speakers
+## Keynote Speeches
 
 ::: {layout="[3.2, 6.8]" .text-justify}
 ![Jian Chu <br/> Nanyang Technological University](img/chu.svg)
@@ -37,11 +37,11 @@ title: Speakers
 :::
 
 ::: {layout="[3.2, 6.8]"}
-![Alejandro Martinez <br/> University of California Davis](./img/martinez.svg)
+![Alejandro Martinez <br/> University of California, Davis](./img/martinez.svg)
 
 [**Snakeskin-inspired surfaces for control of load transfer: conceptualization, characterization, and application**]{.highlight}
  <br/>
-**Alejandro Martinez** is an associate professor at the University of California Davis. He obtained his Ph.D. and M.S. degrees from Georgia Tech in 2015 and 2012, respectively, and his B.S. from the University of Texas at Austin in 2010. His research aims to further the understanding of soil behavior and soil-inclusion interactions involved in geotechnical engineering as well as in burrowing and locomotion. His research interests include soil-structure interaction, bio-inspired geotechnics, fabric effects on soil behavior, and static liquefaction of soils. His research employs a combination of experimental laboratory, hypergravity modeling, and numerical techniques. In 2020, he received the NSF CAREER award and in 2022 he received the ASCE Arthur Casagrande Career Development Award. 
+**Alejandro Martinez** is an associate professor at the University of California, Davis. He obtained his Ph.D. and M.S. degrees from Georgia Tech in 2015 and 2012, respectively, and his B.S. from the University of Texas at Austin in 2010. His research aims to further the understanding of soil behavior and soil-inclusion interactions involved in geotechnical engineering as well as in burrowing and locomotion. His research interests include soil-structure interaction, bio-inspired geotechnics, fabric effects on soil behavior, and static liquefaction of soils. His research employs a combination of experimental laboratory, hypergravity modeling, and numerical techniques. In 2020, he received the NSF CAREER award and in 2022 he received the ASCE Arthur Casagrande Career Development Award. 
 :::
 
 
@@ -53,3 +53,26 @@ title: Speakers
 **Brina Montoya** is an Associate Professor in the Department of Civil, Construction, and Environmental Engineering at North Carolina State University.  Dr. Montoya’s research interests focus on bio-mediated stabilization approaches to improve the sustainability and resiliency of infrastructure, specifically with regards to infrastructure subjected to natural hazards, such as earthquake-induced liquefaction and coastal erosion, and addressing anthropogenic hazards, such as stabilizing tailings impoundments and carbon sequestration.  Her research has been recognized with several honors, including the NSF CAREER Award, the ASCE Arthur Casagrande Professional Development Award, and the USUCGER Early Career Research Award.  She received her Ph.D. from the University of California, Davis in 2012.  Prior to entering graduate school, Dr. Montoya worked for a consulting geotechnical engineering company in the San Francisco Bay Area, focusing on foundation design and liquefaction mitigation.  She is a licensed engineer in the state of California.
 :::
 
+
+## 2nd Biogeotechnics Award Lecture
+
+
+::: {layout="[3.2, 6.8]" .text-justify}
+![Leon van Paassen<br/> ](img/leon.png)
+
+[**Bio-based ground improvement from fundamental concept to full-scale implementation**]{.highlight}
+ <br/>
+**Leon van Paassen** is an expert on Biogeotechnics with more than 20 years of experience in academia and industry. He graduated as an Engineering Geologist at Delft University of Technology in 2002. After his graduation he worked for several years at the Dutch research institute GeoDelft (later Deltares). In 2005 he went back to school and in 2009 he obtained a PhD degree in Environmental Biotechnology from Delft University of Technology. His thesis "Biogrout, Ground Improvement by Microbially Induced Carbonate Precipitation", resulted in several highly cited papers and the prestigious ISSMGE Outstanding Young Geotechnical Engineer Award 2009, which got him a job in academia, first as an Assistant Professor at Delft University of Technology and later in 2017 as Associate Professor and Senior Investigator at the Center for Bio-Mediated and Bio-Inspired Geotechnics at Arizona State University. Here he continued to investigate bio-based ground improvement methods and scaled them up from fundamental concepts to full-scale implementation in the field. Along the way he advised more than 120 PhD, MSc, and BSc students, with whom he has published more than 120 papers in peer-reviewed journals and conference proceedings. In 2022, he decided to move back to the Netherlands, where he currently works for Boskalis, a globally operating marine contractor based in The Netherlands. He develops innovative ground improvement and soil characterization methods to solve challenges in large dredging and land reclamation projects. He is still affiliated to Arizona State University and Delft University of Technology, and in 2026, together with international colleagues in Engineering Geology he will host the XV World Congress of the International Association of Engineering Geologist in his hometown Delft. 
+
+:::
+
+
+## Special Talk
+
+::: {layout="[3.2, 6.8]" .text-justify}
+![Jason DeJong <br/> University of California, Davis](img/jason.jpeg)
+
+[**Biogeotechnics as a catalyst for sustainable innovation - inception, advances, & challenges**]{.highlight}
+ <br/>
+**Jason DeJong** is a Professor at the University of California, Davis. Jason is the Director of the NSF NHERI Center for Geotechnical Modeling and the UC Davis Co-PI and Hazard Mitigation Thrust Lead for the NSF ERC Center for Bio-mediated and Bio-inspired Geotechnics. Prof. DeJong’s major technical achievements have been in the areas soil and site characterization, earthquake engineering, biogeotechnics, and geotechnical sustainability. Results from his research program have been disseminated through more than 250 publications. His contributions have been recognized through the ASTM International Hogentogler Award (2x), ICE TK Hsieh Prize, ASCE Huber Research Prize, ASCE Casagrande Professional Development Award, Prakash Research Award, ICE Telford Premium Prize, ASCE Prakash Award, and as an ASCE Fellow. Jason is actively engaged with industry in implementing research advancements into practice and serving as a technical reviewer for large infrastructure projects.
+:::
