@@ -823,7 +823,7 @@
     "href": "poster-abstracts.html",
     "title": "List of Posters",
     "section": "",
-    "text": "Summary\n\n\n\n\nTotal number of abstracts: 32\nNumber of institutions represented: 20"
+    "text": "Summary\n\n\n\n\nTotal number of abstracts: 33\nNumber of institutions represented: 21"
   },
   {
     "objectID": "poster-abstracts.html#icbbgposter-1",
@@ -1153,5 +1153,12 @@
     "title": "Speakers",
     "section": "Special Talk",
     "text": "Special Talk\n\n\n\n\n\n\nJason DeJong  University of California, Davis\n\n\n\n\nBiogeotechnics as a catalyst for sustainable innovation - inception, advances, & challenges  Jason DeJong is a Professor at the University of California, Davis. Jason is the Director of the NSF NHERI Center for Geotechnical Modeling and the UC Davis Co-PI and Hazard Mitigation Thrust Lead for the NSF ERC Center for Bio-mediated and Bio-inspired Geotechnics. Prof. DeJong’s major technical achievements have been in the areas soil and site characterization, earthquake engineering, biogeotechnics, and geotechnical sustainability. Results from his research program have been disseminated through more than 250 publications. His contributions have been recognized through the ASTM International Hogentogler Award (2x), ICE TK Hsieh Prize, ASCE Huber Research Prize, ASCE Casagrande Professional Development Award, Prakash Research Award, ICE Telford Premium Prize, ASCE Prakash Award, and as an ASCE Fellow. Jason is actively engaged with industry in implementing research advancements into practice and serving as a technical reviewer for large infrastructure projects."
+  },
+  {
+    "objectID": "poster-abstracts.html#icbbgposter-39",
+    "href": "poster-abstracts.html#icbbgposter-39",
+    "title": "List of Posters",
+    "section": "ICBBGPoster-39",
+    "text": "ICBBGPoster-39\nTitle: Biochemical Species Plume Migration under Diverse Injection Strategies during Microbially Induced Calcite Precipitation Treatment in Soils\nAuthors: Pavan Kumar Bhukya; Xuerui Wang; Dali Naidu Arnepalli\nInstitute: Indian Institute of Technology Madras\nAbstract: Microbially driven soil stabilization process known as microbially induced calcite precipitation (MICP) improves the strength and hydraulic characteristics sustainably. However, the biocementation employing MICP treatment depends on numerous factors affecting the biochemical species migration dynamics (i.e., bacterial and chemical injection source location, number of chemical injection cycles, biochemical injection, and retention durations). The sequence, duration, and location of injections of biochemical species decide the biocement spatial distribution in the soil domain. Therefore, the present study attempts to understand the impact of these influencing factors on the biocement distribution in a heterogeneous soil domain. Accordingly, the study developed a coupled bio-chemo-hydraulic (BCH) model in an open-source code (OpenGeoSys) to investigate the influence of diverse injection strategies on biochemical species plume migration and subsequent alterations in the hydraulic characteristics. The results indicated that distinct injection sources for bacteria and chemicals promote closer precipitation to the injection source. However, a single point source for biochemicals migrates the biochemicals front to farther locations, thereby biocement. Besides, multiple chemical injection cycles effectively enhanced precipitation rates compared to single injection cycles. Further, the chemical retention time was crucial in improving the biocement content for both injection scenarios. The chemical injections with retention were comparatively efficient in precipitating higher biocement content than those without retention. Based on the findings from the numerical modeling, the present work also indicated a few guidelines for choosing injection strategies to achieve near-field and far-field precipitation. Besides, the study specified the prominent mechanisms of biochemical species migration under variable injection strategies."
   }
 ]
