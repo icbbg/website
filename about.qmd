@@ -20,3 +20,7 @@ title: "Contact Us"
 ## Scan to Visit the Interactive Program
 
 {{< qrcode https://icbbg2025.com/full-program-app >}}
+
+## Scan to Visit the Temporary Repository Proceedings
+
+{{< qrcode https://drive.google.com/drive/folders/1BtVr3GKSSQ3RcUTrydwUQ6LKGDezS42b?usp=sharing >}}
