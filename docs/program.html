@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2025-05-13">
+<meta name="dcterms.date" content="2025-05-15">
 
 <title>Program</title>
 <style>
@@ -40,7 +40,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-3aa970819e70fbc78806154e5a1fcd28.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-095ed171816f33f7ce02fd44a6c80b7f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-ad0b440040633657eb7887055cf5fe16.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -78,6 +78,35 @@ gtag('js', new Date());
 gtag('config', 'G-12S45SR1D0', { 'anonymize_ip': true});
 </script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="assets/theme/styles.css">
 </head>
@@ -174,7 +203,7 @@ gtag('config', 'G-12S45SR1D0', { 'anonymize_ip': true});
     <div>
     <div class="quarto-title-meta-heading">Last Modified</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">May 13, 2025</p>
+      <p class="date">May 15, 2025</p>
     </div>
   </div>
   
@@ -197,17 +226,18 @@ Changelog
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li>2025-05-07: Paper <strong>ICBBG2025-16</strong> has been moved from <strong>Session 5C</strong> to the <strong>Poster Session</strong> at the author’s request. <strong>Session 5C</strong> now includes five talks, scheduled consecutively without gaps.</li>
-<li>2025-05-10: Paper <strong>ICBBG2025-21</strong> has been removed from <strong>Session 1C</strong> at the author’s request. <strong>Session 1C</strong> now includes five talks, scheduled consecutively without gaps.</li>
-<li>2025-05-12: Paper <strong>ICBBG2025-77</strong> has been removed from <strong>Session 4B</strong> at the author’s request due to travel-related issues. <strong>Session 4B</strong> now includes three talks, scheduled consecutively without gaps.</li>
-<li>2025-05-13: Paper <strong>ICBBG2025-13</strong> has been removed from <strong>Session 1C</strong> at the author’s request. <strong>Session 1C</strong> now includes four talks, scheduled consecutively without gaps.</li>
+<li>2025-05-07: <strong>ICBBG2025-16</strong> moved from <strong>Session 5C</strong> to <strong>Poster Session</strong>. <strong>Session 5C</strong> now has five talks, scheduled consecutively.</li>
+<li>2025-05-10: <strong>ICBBG2025-21</strong> removed from <strong>Session 1C</strong>. <strong>Session 1C</strong> now has five talks, scheduled consecutively.</li>
+<li>2025-05-12: <strong>ICBBG2025-77</strong> removed from <strong>Session 4B</strong> due to travel issues. <strong>Session 4B</strong> now has three talks, scheduled consecutively.</li>
+<li>2025-05-13: <strong>ICBBG2025-13</strong> removed from <strong>Session 1C</strong>. <strong>Session 1C</strong> now has four talks, scheduled consecutively.</li>
+<li>2025-05-14: Talk order switched in <strong>Session 5B</strong> (<strong>ICBBG2025-7</strong> <span class="math inline">\(\leftrightarrow\)</span> <strong>ICBBG2025-23</strong>) and <strong>Session 5C</strong> (<strong>ICBBG2025-40</strong> <span class="math inline">\(\leftrightarrow\)</span> <strong>ICBBG2025-52</strong>).</li>
 </ul>
 </div>
 </div>
 <section id="full-program" class="level2">
 <h2 class="anchored" data-anchor-id="full-program">Full Program</h2>
-<p><a href="./resources/ICBBG-Full-Program-unformated.pdf" class="btn btn-primary">Full Program (May 13, 2025) – PDF</a></p>
-<p><a href="./full-program-app.html" class="btn btn-primary">Full Program (May 13, 2025) – Interactive</a></p>
+<p><a href="./resources/ICBBG-Full-Program-unformated.pdf" class="btn btn-primary">Full Program (May 15, 2025) – PDF</a></p>
+<p><a href="./full-program-app.html" class="btn btn-primary">Full Program (May 15, 2025) – Interactive</a></p>
 </section>
 <section id="overview" class="level2">
 <h2 class="anchored" data-anchor-id="overview">Overview</h2>
