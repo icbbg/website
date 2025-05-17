@@ -39,7 +39,7 @@ website:
   announcement:
     icon: info-circle-fill
     dismissable: true
-    content: "**Full Program Availble Now** [Learn More](/program.qmd)"
+    content: "**Welcome to ICBBG 2025!** [Essential Tips & Updates](/welcome.qmd)"
     type: danger
     position: below-navbar
 format:
