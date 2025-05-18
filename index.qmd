@@ -31,7 +31,7 @@ The conference aims to present the latest advancements in the field of Bio-media
 
 ![**Brina Montoya** <br/> North Carolina State University](./img/montoya.svg){.rounded-circle}
 
-![**Leon van Paassen** <br/> Boskalis](./img/leon-official.png){.rounded-circle}
+![**Leon van Paassen** <br/> Boskalis](./img/Leon-official.jpg){.rounded-circle}
 
 ![**Jason DeJong** <br/> University of California, Davis](img/jason.svg){.rounded-circle}
 :::
