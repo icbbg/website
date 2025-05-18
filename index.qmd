@@ -17,7 +17,7 @@ The conference aims to present the latest advancements in the field of Bio-media
 
 ## Featured Speakers [➡️](./speakers.qmd){.btn}
 
-::: {layout="[[1,1,1], [1,1,1]]" .center}
+::: {layout="[[1,1,1], [1,1,1], [-0.5,1,1,-0.5]]" .center}
 
 ![**Jian Chu** <br/> Nanyang Technological University, Singapore](img/chu.svg){.rounded-circle}
 
@@ -30,6 +30,10 @@ The conference aims to present the latest advancements in the field of Bio-media
 ![**Alejandro Martinez** <br/> University of California, Davis](./img/martinez.svg){.rounded-circle}
 
 ![**Brina Montoya** <br/> North Carolina State University](./img/montoya.svg){.rounded-circle}
+
+![**Leon van Paassen** <br/> Boskalis](./img/leon-official.png){.rounded-circle}
+
+![**Jason DeJong** <br/> University of California, Davis](img/jason.svg){.rounded-circle}
 :::
 
 ## Session Topics [➡️](./program.qmd){.btn}
