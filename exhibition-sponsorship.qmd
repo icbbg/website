@@ -11,17 +11,17 @@ published-title: "Last Modified"
 
 ## Sponsors
 
-[![Freeport McMoRan Sponsors our Welcome Reception](./img/sponsor-exhibitor-logos/FM_left-justified.png)](https://fcx.com/)
+[![Our Welcome Reception Sponsor, Freeport-McMoRan (FCX), is a leading international metals company with the objective of being foremost in copper.](./img/sponsor-exhibitor-logos/FM_left-justified.png)](https://fcx.com/)
 
 
-[![Schnabel Sponsors our Monday Lunch](./img/sponsor-exhibitor-logos/Schnabel.png)](https://www.schnabel.com/)
+[![Our Monday Lunch Sponsor, Schnabel, is a leading-edge, nationwide contractor, and an innovative specialty foundations company that provides design-build earth-retention solutions.](./img/sponsor-exhibitor-logos/Schnabel.png)](https://www.schnabel.com/)
 
-[![Groundwater Technology Sponsors our Monday Morning and Afternoon Breaks](./img/sponsor-exhibitor-logos/Sponsor-Groundwater_Technology_(preferred).png){width="75%"}](https://gtbv.nl/?lang=en)
+[![Our Monday Morning and Afternoon Breaks Sponsor, Groundwater Technology, specializes in soil and groundwater remediation.](./img/sponsor-exhibitor-logos/Sponsor-Groundwater_Technology_(preferred).png){width="75%"}](https://gtbv.nl/?lang=en)
 
 
-[![Keller North America Sponsors our Tuesday Morning Break](./img/sponsor-exhibitor-logos/Sponsor-Keller_LOG_M_COL_RGB.png){width="75%"}](https://www.keller-na.com/)
+[![Our Tuesday Morning Break Sponsor, Keller North America, is one of the connected companies of Keller. With offices in more than 40 countries across five continents, Keller is the largest geotechnical contractor in the world.](./img/sponsor-exhibitor-logos/Sponsor-Keller_LOG_M_COL_RGB.png){width="75%"}](https://www.keller-na.com/)
 
-[![Haley&Aldrich Sponsors our the Tuesday Afternoon Break](./img/sponsor-exhibitor-logos/Sponsor-HaleyAldrich_Screen_large.png){width="65%"}](https://www.haleyaldrich.com/)
+[![Our Tuesday Afternoon Break Sponsor, Haley & Aldrich, brings together a nationwide team of environmental and geotechnical engineering consultants. With a legacy rooted in client-focused service, they are known for their advocacy, technical excellence, and commitment to innovation.](./img/sponsor-exhibitor-logos/Sponsor-HaleyAldrich_Screen_large.png){width="65%"}](https://www.haleyaldrich.com/)
 
 ## Exhibitors
 

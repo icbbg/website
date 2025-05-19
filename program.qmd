@@ -14,6 +14,7 @@ sidebar: false
 - 2025-05-12: **ICBBG2025-77** removed from **Session 4B** due to travel issues. **Session 4B** now has three talks, scheduled consecutively.
 - 2025-05-13: **ICBBG2025-13** removed from **Session 1C**. **Session 1C** now has four talks, scheduled consecutively.
 - 2025-05-14: Talk order switched in **Session 5B** (**ICBBG2025-7** $\leftrightarrow$ **ICBBG2025-23**) and **Session 5C** (**ICBBG2025-40** $\leftrightarrow$ **ICBBG2025-52**).
+- 2025-05-18: **ICBBG2025-15** removed from **Session 3C**, which now has five talks, scheduled consecutively.
 :::
 
 ## Full Program
