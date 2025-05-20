@@ -39,7 +39,8 @@ Welcome to Tempe for **ICBBG 2025**! We're excited to host you and look forward 
 ## 📖 Proceedings
 
 * Most accepted papers have been assigned DOIs, using the format: `https://doi.org/10.53243/ICBBG2025-xx`, where "ICBBG2025-xx" is the paper ID.
-* A **temporary repository** with most accepted papers can be accessed: [Google Drive folder](https://drive.google.com/drive/folders/1BtVr3GKSSQ3RcUTrydwUQ6LKGDezS42b?usp=drive_link).
+* A **temporary repository** with most accepted papers can be accessed:   
+[Google Drive folder](https://drive.google.com/drive/folders/1BtVr3GKSSQ3RcUTrydwUQ6LKGDezS42b?usp=drive_link){.btn .btn-primary}.
 * Papers recommended for journal publication will be announced or published at a later time.
 * Once finalized, all papers will be officially published on the **ISSMGE Publication Platform**.
 
