@@ -1,0 +1,14 @@
+---
+page-layout: full    # keep header/footer, drop sidebar
+toc: false
+sidebar: false
+---
+
+::: {.column-screen}
+<iframe
+  src="https://juliantao.shinyapps.io/icbbg2025-certificate-app/"
+  style="border:none;width:100%;height:100vh;">
+</iframe>
+
+:::
+
