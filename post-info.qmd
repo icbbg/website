@@ -1,0 +1,49 @@
+---
+title: "Post-conference Information"
+date: "2025-05-29"
+categories: []
+---
+
+**Dear Colleagues,**
+
+Thank you once again for your support and contributions to ICBBG 2025! 
+
+We hope you had a rewarding and enjoyable experience.
+
+We're pleased to share some post-conference information that has been requested by many attendees.
+
+
+## 📖 Proceedings
+
+* Most accepted papers have been assigned DOIs, using the format: `https://doi.org/10.53243/ICBBG2025-xx`, where "ICBBG2025-xx" is the paper ID.
+* A **temporary repository** with most accepted papers can be accessed:   
+[Google Drive Folder for Proceedings (temporary)](https://drive.google.com/drive/folders/1BtVr3GKSSQ3RcUTrydwUQ6LKGDezS42b?usp=drive_link){.btn .btn-primary}.
+
+::: {.callout-tip}
+The files in this temporary repository are named by each paper’s ID. To quickly find a paper ID, visit the interactive program at [https://icbbg2025.com/full-program-app](https://icbbg2025.com/full-program-app). Click **“All Events”** in the top right corner, then use the search bar to enter keywords (e.g., title, author) to locate and identify the corresponding paper ID.
+:::
+
+* Papers recommended for journal publication will be announced or published at a later time.
+* Once finalized, all papers will be officially published on the **ISSMGE Publication Platform**.
+
+
+## 📷 Photos
+
+* Our student volunteers helped capture moments from the conference. While the photos may not be of professional quality, we hope they help preserve and celebrate the memories.
+* Please also feel free to upload your photos to the shared album:    
+[Google Photo Album](https://photos.app.goo.gl/2RG8RuE8nL4GqA7P7){.btn .btn-primary}
+
+## 🧾 Certificates
+
+* Now you can generate and download your certificate for participation and Professional Development Hours (PDH). 
+* It includes a verification step: after entering your name, the app checks it against our registration database. Certificates can only be generated upon successful verification.
+* For PDH credits, you'll need to select the sessions you attended, with each session counting as 1 PDH.     
+[Certificate for Participation or PDH](https://icbbg2025.com/certificate){.btn .btn-primary}
+
+If you have any questions, please don’t hesitate to reach out.
+
+Best regards,
+
+**The ICBBG 2025 Team**
+
+![](./img/icbbg-logo.svg){width="120"}

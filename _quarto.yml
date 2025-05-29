@@ -39,7 +39,7 @@ website:
   announcement:
     icon: info-circle-fill
     dismissable: true
-    content: "**Welcome to ICBBG 2025!** [Essential Tips & Updates](/welcome.qmd)"
+    content: "**Post-conference Inforamtion:** [Proceedings, Photos, PDH and Certificates](/post-info.qmd)"
     type: danger
     position: below-navbar
 format:

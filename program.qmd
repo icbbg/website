@@ -1,6 +1,6 @@
 ---
 title: "Program"
-date: today 
+date: 2025-05-18 
 published-title: "Last Modified"
 sidebar: false
 ---
@@ -93,7 +93,7 @@ df <- read_excel("./program-shiny/program.xlsx")
 
 session_md <- df %>%
   filter(
-    str_detect(session, regex("Session", ignore_case = TRUE)), 
+    str_detect(session, regex("Session", ignore_case = TRUE)),
     !str_detect(session, regex("Poster Session", ignore_case = TRUE))
   ) %>%
   distinct(session) %>%
